@@ -4,3 +4,5 @@ publish/
 # model/ is NOT ignored: the build embeds model/scam_model.txt as the app's built-in model
 .vs/
 *.user
+# lock files the app and trainer create while they run
+*.lock
