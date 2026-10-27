@@ -1,0 +1,203 @@
+# Training set 8: more text messages (first written as a held-out check, then moved into training).
+
+=== 0 T
+From: 32665
+
+Facebook: 48120 is your confirmation code. Don't share it.
+
+=== 0 T
+From: 40404
+
+X: Your verification code is 552781.
+
+=== 0 T
+From: 57785
+
+Your Coursera code is 370519. It expires in 10 minutes.
+
+=== 0 T
+From: 86966
+
+Fifth Third: Deposit of $1,250.00 to checking x2290 on 10/19. Reply HELP for help, STOP to cancel.
+
+=== 0 T
+From: 72166
+
+Citi Alert: A $64.11 transaction was made at TARGET 00018812 on your card ending in 4410.
+
+=== 0 T
+From: 93557
+
+Walgreens: Your photo order is ready for pickup at 5 S Main St. Reply STOP to opt out.
+
+=== 0 T
+From: 76278
+
+Shipt: Alicia is on her way with your Target order! ETA 6:10 PM.
+
+=== 0 T
+From: 46339
+
+FedEx: Your package was delivered on 10/16 at 2:51 PM to FRONT DOOR.
+
+=== 0 T
+From: 75767
+
+Lyft: Derek is arriving in a black Honda CR-V (AB4 7731).
+
+=== 0 T
+From: 40650
+
+Kroger: New digital coupons are loaded to your card! Save $1 on Kroger cereals this week. Reply STOP to end.
+
+=== 0 T
+From: 62226
+
+Macy's: VIB Sale! Extra 30% off with code VIB through 10/26. macys.com Reply STOP to stop.
+
+=== 0 T
+From: 96734
+
+Wendy's: $3 Breakfast Deal in the app this week only! Reply STOP to opt out.
+
+=== 0 T
+From: +1 (812) 555-0101
+
+Hi Jordan, it's Sam with IU Admissions. Just a heads up that our Nov 1 deadline is the one to hit for merit scholarships. Happy to answer questions! Reply STOP to opt out.
+
+=== 0 T
+From: 85787
+
+SIU: Saluki Fridays are back! Book a visit at admissions.siu.edu/visit. Reply STOP to unsubscribe.
+
+=== 0 T
+From: 68872
+
+District 155: Reminder - no school Monday 11/2 for teacher institute day.
+
+=== 0 T
+From: 96921
+
+Schoology: New grade posted in Honors Chemistry. Log in to view.
+
+=== 0 T
+From: +1 (847) 555-0193
+
+Can you grab the poster board from my locker before lunch? Thanks!!
+
+=== 0 T
+From: +1 (815) 555-0147
+
+Practice is moved to the field house today because of rain. 3:15 sharp. - Coach R
+
+=== 0 T
+From: +1 (630) 555-0121
+
+Hi it's Grandma. Did you get the birthday card I sent? Call me when you can, love you
+
+=== 0 T
+From: +1 (224) 555-0155
+
+bro the bus is SO late today, are you driving?
+
+=== 0 T
+From: 26266
+
+AT&T: Your bill of $65.00 is ready. AutoPay will process on 11/4. att.com/mybill
+
+=== 0 T
+From: 22000
+
+G-370519 is your Google verification code.
+
+# ----------------------------------------- scams -----------------------------------------
+
+=== 1 T
+From: +1 (346) 555-0183
+
+E-ZPass: Your account has an outstanding toll of $4.15. Pay now to avoid a $35 penalty: ezpass-tolls-pay.com
+
+=== 1 T
+From: +1 (234) 555-0129
+
+Your parcel is held at the depot. Confirm your address and pay $1.49 to reschedule: parcel-tracking-update.com/confirm
+
+=== 1 T
+From: +1 (319) 555-0164
+
+Dad, it's me. Lost my phone, this is a friend's. Can you send $400 to my friend's Cash App? I'll explain later, please hurry
+
+=== 1 T
+From: +1 (435) 555-0148
+
+Hello, is this Mr. Thompson? Your daughter recommended me to help you with an investment opportunity. Reply to learn how she earned $12,000 last month.
+
+=== 1 T
+From: +1 (562) 555-0130
+
+Congratulations! You were selected for a remote job paying $500/day. Add our HR manager on Telegram @HR_Jenny_Lee to start.
+
+=== 1 T
+From: +1 (405) 555-0174
+
+US Bank: Your account access has been restricted. Restore it here: usbank-alerts-verify.com/login
+
+=== 1 T
+From: +1 (786) 555-0151
+
+Citi: 48,000 ThankYou Points expire today! Redeem for cash now: citi-card-rewards.net/redeem
+
+=== 1 T
+From: +1 (863) 555-0162
+
+You've been awarded a $15,000 Northwestern Merit Award. Pay the $95 acceptance fee to claim: northwestern-scholarship-office.org
+
+=== 1 T
+From: +1 (941) 555-0115
+
+Your FSA ID was locked. Reply with your username, password and DOB to unlock it.
+
+=== 1 T
+From: +1 (470) 555-0187
+
+Walgreens: A pharmacy refund of $86.00 is available. Confirm your card to receive it: walgreens-rx-refund.com
+
+=== 1 T
+From: +1 (803) 555-0144
+
+Kroger: You've been chosen for a $100 gift card! Complete our survey and pay $3.95 shipping: kroger-rewards-center.com
+
+=== 1 T
+From: +1 (928) 555-0170
+
+Hey, this is Coach R. I need you to pick up 3 Google Play cards for the team fundraiser. Send me pics of the codes and I'll pay you back at practice.
+
+=== 1 T
+From: +1 (717) 555-0128
+
+Amazon Prime: Your membership could not be renewed. Update billing within 24 hrs: prime-membership-renewal.com
+
+=== 1 T
+From: +1 (541) 555-0196
+
+Microsoft: Your PC has been compromised. Call 1-888-555-0171 immediately to secure your bank accounts.
+
+=== 1 T
+From: +1 (302) 555-0113
+
+You missed your court date. Pay the $450 fine today to avoid arrest. Call 1-773-555-0154.
+
+=== 1 T
+From: +1 (623) 555-0159
+
+Your gift card balance has been doubled! Enter your card number and PIN to receive the bonus: giftcard-balance-bonus.com
+
+=== 1 T
+From: +1 (515) 555-0102
+
+Hi! Sorry to bother you, is this Dr. Kim's office? I need to reschedule. Oh wrong number, sorry! You seem nice though, I'm Amy 🙂
+
+=== 1 T
+From: +1 (657) 555-0145
+
+AT&T: As a loyal customer you've won a free Samsung Galaxy S26! Claim it here: att-loyalty-gift.com

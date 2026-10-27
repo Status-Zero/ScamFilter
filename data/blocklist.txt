@@ -1,0 +1,9 @@
+# Known-bad senders and domains. One per line: a domain, an email address, or a phone number.
+#
+# A hit here means UNSAFE immediately, before the model runs.
+# A miss means NOTHING: scammers rotate numbers and domains constantly, so most scams use fresh ones.
+#
+# Domains match on the registered domain, so "scam-site.top" also covers "pay.scam-site.top".
+# Phone numbers can be written any way: (404) 555-0142, +1 404 555 0142, 4045550142.
+# Prefer domain entries over phone entries: phone numbers get spoofed, so a number can land here
+# because a scammer borrowed it.

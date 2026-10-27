@@ -1,0 +1,40 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <!--
+    The backend: the model, training, features, and the detector.
+    Cross-platform (plain .NET), so the console trainer runs anywhere and the
+    Windows app just references it.
+
+    Rule for this project: NO libraries for anything AI. The model, training,
+    text features, and metrics are all written from scratch. Libraries are fine for
+    plumbing: System.Text.Json reads the data files, MimeKit reads .eml files, MsgReader
+    reads Outlook .msg files, and PdfPig reads the text and links out of PDFs.
+  -->
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <RootNamespace>ScamFilter</RootNamespace>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MimeKit" Version="4.18.1" />
+    <PackageReference Include="MsgReader" Version="6.2.0" />
+    <PackageReference Include="PdfPig" Version="0.1.14" />
+    <!-- MimeKit pulls in an older copy of this with a known vulnerability; pin the patched one -->
+    <PackageReference Include="System.Security.Cryptography.Pkcs" Version="10.0.13" />
+  </ItemGroup>
+
+  <!-- The default data files are built into the program, so a fresh install can set itself up -->
+  <ItemGroup>
+    <EmbeddedResource Include="..\data\brands.txt" LogicalName="ScamFilter.Defaults.brands.txt" />
+    <EmbeddedResource Include="..\data\blocklist.txt" LogicalName="ScamFilter.Defaults.blocklist.txt" />
+    <EmbeddedResource Include="..\data\whitelist.txt" LogicalName="ScamFilter.Defaults.whitelist.txt" />
+    <EmbeddedResource Include="..\data\records.jsonl" LogicalName="ScamFilter.Defaults.records.jsonl" />
+    <!-- A model already trained on records.jsonl, so the app works the moment it's installed -->
+    <EmbeddedResource Include="..\model\scam_model.txt" LogicalName="ScamFilter.Defaults.scam_model.txt" />
+    <EmbeddedResource Include="..\model\training_report.txt" LogicalName="ScamFilter.Defaults.training_report.txt" />
+  </ItemGroup>
+
+</Project>

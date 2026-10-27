@@ -1,0 +1,6 @@
+bin/
+obj/
+publish/
+# model/ is NOT ignored: the build embeds model/scam_model.txt as the app's built-in model
+.vs/
+*.user

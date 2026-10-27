@@ -1,0 +1,54 @@
+# Label fixes found by reviewing the labels (see data/SOURCES.md, "Label fixes").
+# Each line: source <TAB> new label (0, 1, or x = leave out) <TAB> pattern (regex, case-insensitive; ^ matches the start of any line) <TAB> why.
+# A fix applies to every record from that source whose text matches, so all copies of a campaign agree.
+# Run with:  fix-labels data/import/label_fixes.tsv   (after the imports and fix-conflicts)
+sms_mendeley	0	^4mths half price Orange line rental	ad from a phone reseller that names itself (MobilesDirect); not posing as Orange
+sms_mendeley	0	^Update_Now - 12Mths Half Price Orange line rental	same reseller ad
+sms_mendeley	0	^(Do you )?want a new Video (phone|handset)\?	phone contract ad
+sms_mendeley	0	Majestic mountains to calm beaches	holiday ad with a price and phone number
+sms_mendeley	0	^(Loans? for any (purpose|amount)|Refused a loan\?|Loa!! Homeowners)	loan ad (real lender, free phone number)
+sms_mendeley	0	1stchoice\.co\.uk	ad for a request service
+sms_mendeley	0	FREE entry into our £250 weekly comp	contest ad: offers a chance to enter, doesn't claim you won
+sms_mendeley	0	For ur chance to win a £250 wkly shopping spree	contest ad: offers a chance to enter
+sms_mendeley	0	gay chat service with photo upload	chat-line ad with its price stated
+sms_mendeley	0	pic of Jordan	picture-subscription ad with its price stated
+sms_mendeley	0	^Text & meet someone sexy today	dating ad with its price stated
+sms_mendeley	0	Buy any HP pavilion notebook	store promotion
+sms_mendeley	0	TheDailyDraw	games newsletter
+sms_mendeley	0	^Are you unique enough\?	ad
+sms_mendeley	0	^Englishvocabulary	vocabulary-tip SMS with an ad
+sms_mendeley	0	^Pvt Finance arranged	finance ad
+sms_mendeley	0	^Prem Jewellrs	jeweller's savings-scheme ad
+sms_mendeley	1	We know someone who you know that fancies you	lure to a premium-rate number (S6)
+sms_mendeley	1	From next month get upto 50% More Calls	"activate" call that goes to a premium-rate number (S1)
+sms_mendeley	1	Mailbox Messaging SMS alert	fake voicemail/matches alert that leads to a premium-rate number (S7)
+sms_mendeley	1	willing I live local to you	fake person luring to a paid chat line (S6)
+sms_mendeley	1	Save upto 40.{0,3} electricity bill with Power Saver	"power saver" gadgets don't work (S6, same rule as the fuel-saver emails)
+nazario_2023	0	Free VMware licenses for HP members	real Honeynet mailing-list reply that landed in the phishing mailbox
+nazario_2025	0	Free VMware licenses for HP members	real Honeynet mailing-list reply that landed in the phishing mailbox
+nazario_2023	0	questionnaire about Honeypots	real research survey sent to the Honeynet list
+nazario_2024	0	questionnaire about Honeypots	real research survey sent to the Honeynet list
+nazario_2025	0	questionnaire about Honeypots	real research survey sent to the Honeynet list
+clair_fraud	x	A wide selection of drugs for your choice	pharmacy spam, not fraud (pharmacy spam isn't graded)
+clair_fraud	x	We offer you e-mail addresses databases	email-list sales spam, not fraud
+clair_fraud	x	Ciali\$	pharmacy spam, not fraud
+trec07_ham	1	MySpace (account cancellation|email address change) request	2007 MySpace phishing, mislabeled as normal mail
+# ---- second audit pass (v1.4): same rules, applied to every record that matches ----
+sms_mendeley	0	^FREE camera phones with linerental	phone contract ad
+sms_mendeley	0	new video phone with half price line rental	phone contract ad
+sms_mendeley	0	New Mobiles from 2004, MUST GO	phone auction ad (same as the TXTAUCTION loyalty offers, which are 0)
+sms_mendeley	0	^(Bored housewives! )?Chat n date now	chat-line ad with its price stated
+sms_mendeley	0	^Want explicit SEX in 30 secs	chat-line ad with its price stated
+sms_mendeley	0	^Rate Revsng soon	property ad with a phone number
+sms_mendeley	0	^XCLUSIVE@CLUBSAISAI	nightclub event ad
+sms_mendeley	0	^Thank you, winner notified by sms	contest notice; doesn't claim you won
+sms_mendeley	0	^Ur balance is now £[0-9]+\. (Next|Ur next) question	next question of a paid quiz the reader joined (same as Moby Pub Quiz, which is 0)
+sms_mendeley	0	^FREE MESSAGE Activate your 500 FREE Text Messages	free-texts sign-up ad (same as "FreeMsg: Claim ur 250 SMS", which is 0)
+sms_mendeley	1	Thanks for your ringtone order	unasked-for "order receipt" that baits a call to a premium-rate 09 number (S7)
+phishing_pot	x	Single European Girl are waiting	dating promo (not graded)
+phishing_pot	x	Got nerve pain\?	health promo (not graded)
+phishing_pot	x	Nutrisyst	weight-loss promo (not graded)
+phishing_pot	x	hydrogen peroxide trick	sexual-performance promo (not graded)
+phishing_pot	x	22lbs GONE in 13 days	weight-loss promo (not graded)
+phishing_pot	x	15 Pounds in 7 Days	weight-loss promo (not graded)
+phishing_pot	x	^Create a password for 	Zendesk sign-up email with no scam in its text (the scam was only in the sender name)

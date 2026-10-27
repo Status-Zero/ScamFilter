@@ -1,0 +1,771 @@
+# Training set 7: more everyday emails (other brands, schools and wording) and scams.
+# (First written as a held-out check; moved into training once the check had been used,
+# and replaced by a freshly written check set.)
+
+=== 0 E
+From: Hulu <hulu@hulumail.com>
+Subject: Confirm your email to finish setting up Hulu
+
+Hi Brooke,
+
+Please confirm your email address to finish setting up your Hulu account.
+
+[Confirm Email](https://secure.hulu.com/account/confirm-email?t=e18)
+
+If you didn't create a Hulu account, you can ignore this message.
+
+Hulu, LLC, 2500 Broadway, Santa Monica, CA 90404
+
+=== 0 E
+From: Coursera <no-reply@t.mail.coursera.org>
+Subject: Your verification code for Coursera
+
+Your Coursera verification code is 370519.
+
+Enter this code to finish signing in. It expires in 10 minutes.
+
+If you didn't try to sign in, you can safely ignore this email.
+
+=== 0 E
+From: Khan Academy <no-reply@khanacademy.org>
+Subject: Reset your Khan Academy password
+
+Hi there,
+
+We got a request to reset the password for the Khan Academy account associated with this email. Click below to choose a new password.
+
+[Reset password](https://www.khanacademy.org/reset-password?key=3f9)
+
+If you didn't ask for this, you can ignore this email and your password won't change.
+
+Khan Academy, P.O. Box 1630, Mountain View, CA 94042
+
+=== 0 E
+From: Chegg <noreply@chegg.com>
+Subject: Your Chegg account sign-in code
+
+Use code 845 210 to sign in to Chegg.
+
+This code expires in 15 minutes. Chegg will never ask you to share this code.
+
+=== 0 E
+From: X <verify@x.com>
+Subject: 552781 is your X verification code
+
+Confirm your email address
+
+There's one quick step you need to complete before creating your X account. Let's make sure this is the right email address for you. Please enter this verification code to get started on X:
+
+552781
+
+Verification codes expire after two hours.
+
+Thanks,
+X
+
+=== 0 E
+From: Wattpad <hello@mail.wattpad.com>
+Subject: Please verify your email
+
+Welcome to Wattpad, inkwell_ivy!
+
+Verify your email to start publishing and to keep your account secure.
+
+[Verify my email](https://www.wattpad.com/verify?code=0a2)
+
+=== 0 E
+From: U.S. Bank <usbank@notifications.usbank.com>
+Subject: Your one-time passcode
+
+Your U.S. Bank one-time passcode is 61840927. It expires in 10 minutes.
+
+U.S. Bank will never call, text or email to ask for this code.
+
+=== 0 E
+From: Citi Alerts <alerts@info6.citi.com>
+Subject: Your password was updated
+
+Your password for Citi Online was updated on 10/18/2026.
+
+If you made this change, no further action is needed. If you did not, please call us at the number on the back of your card.
+
+=== 0 E
+From: American Express <AmericanExpress@welcome.americanexpress.com>
+Subject: Your Card has been added to Apple Pay
+
+Your American Express Card ending in 31007 was added to Apple Pay on an iPhone.
+
+If you didn't add your Card, please call us at the number on the back of your Card.
+
+=== 0 E
+From: Fifth Third Bank <alerts@53.com>
+Subject: Large deposit alert
+
+A deposit of $1,250.00 was made to your checking account ending in 2290 on 10/19/2026.
+
+You're receiving this alert because you set it up in Fifth Third Online Banking.
+
+=== 0 E
+From: Lyft <no-reply@lyftmail.com>
+Subject: Your ride with Derek on October 18
+
+Thanks for riding with Lyft!
+
+Total: $18.44
+Ride: $15.90, Service fee: $2.54
+Pickup: 9:04 PM, Woodfield Mall
+Drop-off: 9:27 PM, Lake Zurich
+
+Paid with Discover ending 1102.
+
+=== 0 E
+From: Kroger <kroger@email.kroger.com>
+Subject: Your digital coupons are ready
+
+Hi Daniel,
+
+We've loaded 8 new digital coupons we think you'll love, including $1 off Kroger cereals and 20% off Simple Truth snacks.
+
+[See my coupons](https://www.kroger.com/savings/cl/coupons)
+
+Unsubscribe | The Kroger Co., 1014 Vine Street, Cincinnati, OH 45202
+
+=== 0 E
+From: Macy's <Macys@emails.macys.com>
+Subject: VIB Sale: extra 30% off + free shipping
+
+Star Rewards members, the VIB Sale is here!
+
+Take an extra 30% off with code VIB and get free shipping on $25+.
+
+[Shop now](https://www.macys.com)
+
+Exclusions apply. Ends 10/26. Unsubscribe | Macy's, 151 West 34th Street, New York, NY 10001
+
+=== 0 E
+From: Adidas <adidas@us-news.adidas.com>
+Subject: Members get early access to the Samba drop
+
+Your adiClub early access starts now.
+
+The new Samba colorways drop tomorrow, but adiClub members can shop them today.
+
+[Shop early access](https://www.adidas.com/us/samba)
+
+Unsubscribe | adidas America, 5055 N Greeley Ave, Portland, OR 97217
+
+=== 0 E
+From: REI Co-op <rei@notices.rei.com>
+Subject: Your member dividend is available
+
+Hi Riley,
+
+Good news! Your 2026 REI Co-op member reward of $23.40 is now available to use online or in stores through Dec 31.
+
+[See my member reward](https://www.rei.com/membership/rewards)
+
+Unsubscribe | REI, 6750 S 228th St, Kent, WA 98032
+
+=== 0 E
+From: Michaels <michaels@email.michaels.com>
+Subject: 40% off one regular-price item + Rewards bonus
+
+Get crafty for less!
+
+Use this coupon for 40% off one regular-price item, in store or online, through Saturday.
+
+[Get coupon](https://www.michaels.com/coupons)
+
+Unsubscribe | Michaels Stores, 3939 W John Carpenter Fwy, Irving, TX 75063
+
+=== 0 E
+From: Uniqlo <info@mail.uniqlo.com>
+Subject: HEATTECH is back for the season
+
+Stay warm all winter. HEATTECH innerwear now from $14.90, with Extra Warm and Ultra Warm options.
+
+[Shop HEATTECH](https://www.uniqlo.com/us/en/heattech)
+
+Unsubscribe | UNIQLO USA LLC, 546 Broadway, New York, NY 10012
+
+=== 0 E
+From: Crocs <crocs@e.crocs.com>
+Subject: Buy 2, get 15% off. Buy 3, get 25% off.
+
+Mix and match your favorite Classic Clogs and Jibbitz charms.
+
+[Shop now](https://www.crocs.com)
+
+Offer ends 10/28. Unsubscribe
+
+=== 0 E
+From: YouTube <noreply@youtube.com>
+Subject: Try YouTube Premium free for 1 month
+
+Ad-free videos, background play and downloads.
+
+Try YouTube Premium free for 1 month, then $13.99/month. Cancel anytime.
+
+[Try it free](https://www.youtube.com/premium)
+
+Unsubscribe | Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043
+
+=== 0 E
+From: Nintendo <noreply@news.nintendo.com>
+Subject: New on Nintendo Switch Online this week
+
+Three classic games just joined Nintendo Switch Online + Expansion Pack.
+
+[See what's new](https://www.nintendo.com/us/switch/online/)
+
+Unsubscribe | Nintendo of America Inc., 4600 150th Ave NE, Redmond, WA 98052
+
+=== 0 E
+From: Costco <costco@online.costco.com>
+Subject: Costco Member-Only Savings start today
+
+Member-Only Savings, Oct 21 - Nov 15.
+
+Save on TVs, laptops, coffee, and more, in warehouse and online.
+
+[View savings](https://www.costco.com/warehouse-savings.html)
+
+Unsubscribe | Costco Wholesale Corporation, 999 Lake Drive, Issaquah, WA 98027
+
+=== 0 E
+From: Jimmy John's <freakyfast@email.jimmyjohns.com>
+Subject: Free chips and a cookie? Yep.
+
+Freaky Fast Rewards members: order any 8" sub this week and we'll throw in free chips and a cookie.
+
+[Order now](https://www.jimmyjohns.com)
+
+Unsubscribe
+
+=== 0 E
+From: Wendy's <wendys@email.wendys.com>
+Subject: $3 Breakfast Deal, this week only
+
+Wake up to a $3 breakfast deal in the Wendy's app.
+
+[Open the app](https://www.wendys.com/app)
+
+At participating restaurants. Unsubscribe.
+
+=== 0 E
+From: Indiana University Bloomington <iuadmit@iu.edu>
+Subject: Jordan, you're invited to apply to IU
+
+Hi Jordan,
+
+Indiana University's Luddy School of Informatics, Computing, and Engineering is home to one of the country's most respected computer science programs.
+
+Apply by November 1 to be considered for our largest merit scholarships, up to $11,000 per year for out-of-state students.
+
+[Start your IU application](https://admissions.indiana.edu/apply)
+
+Office of Admissions, 940 E. 7th Street, Bloomington, IN 47405. Unsubscribe
+
+=== 0 E
+From: Marquette University <admissions@marquette.edu>
+Subject: Be The Difference at Marquette
+
+Hi Nora,
+
+At Marquette, you'll find a Jesuit education that asks: what kind of difference will you make? Explore our 80+ majors and our Opus College of Engineering.
+
+Virtual info sessions run every Tuesday at 6 p.m. CT.
+
+[Register for a session](https://www.marquette.edu/explore/visit.php)
+
+Marquette University, P.O. Box 1881, Milwaukee, WI 53201. Unsubscribe
+
+=== 0 E
+From: University of Iowa Admissions <admissions@uiowa.edu>
+Subject: Your University of Iowa application is complete
+
+Hi Ben,
+
+Thank you for applying to the University of Iowa. We have everything we need to review your application. You'll receive a decision by email within four weeks.
+
+Track your status in MyUI.
+
+Office of Admissions, 108 Calvin Hall, Iowa City, IA 52242
+
+=== 0 E
+From: Milwaukee School of Engineering <explore@msoe.edu>
+Subject: Computer science, hands-on from day one
+
+Hi Jordan,
+
+At MSOE, you'll write code on your first day and work on real projects with industry partners like Rockwell Automation and Northwestern Mutual.
+
+Apply free with code MSOE27.
+
+[Apply now](https://www.msoe.edu/admissions/apply)
+
+Milwaukee School of Engineering, 1025 N. Broadway, Milwaukee, WI 53202. Unsubscribe
+
+=== 0 E
+From: Southern Illinois University <admissions@siu.edu>
+Subject: Saluki Fridays: visit campus this fall
+
+Visit SIU Carbondale any Friday this fall for a campus tour, lunch in the dining hall and a meeting with a financial aid counselor.
+
+[Pick a date](https://admissions.siu.edu/visit)
+
+Office of Undergraduate Admissions, Southern Illinois University, Carbondale, IL 62901. Unsubscribe
+
+=== 0 E
+From: North Central College <admissions@noctrl.edu>
+Subject: Your scholarship estimate is ready
+
+Hi Sofia,
+
+Based on the information you shared, you may be eligible for a Presidential Scholarship of $22,000-$28,000 per year. Your final award will be listed in your admission letter.
+
+[See how we estimate scholarships](https://www.northcentralcollege.edu/scholarships)
+
+North Central College, 30 N. Brainard Street, Naperville, IL 60540. Unsubscribe
+
+=== 0 E
+From: Western Illinois University <admissions@wiu.edu>
+Subject: Decision posted: welcome to Western!
+
+Congratulations, Owen! Your admission decision is posted in the WIU Application Portal.
+
+Log in to view your letter and next steps, including your housing application and orientation registration.
+
+Western Illinois University, 1 University Circle, Macomb, IL 61455
+
+=== 0 E
+From: Federal Student Aid <noreply@studentaid.gov>
+Subject: Your FAFSA form has been processed
+
+Your 2027-28 FAFSA form has been processed and sent to the schools you listed.
+
+Log in to StudentAid.gov to view your FAFSA Submission Summary. If you need to make corrections, you can do so online.
+
+Never share your StudentAid.gov account username and password with anyone.
+
+=== 0 E
+From: College Board <noreply@collegeboard.org>
+Subject: Your AP scores are available
+
+Hi Lily,
+
+Your 2026 AP scores are now available. Sign in to My AP to see them.
+
+[View scores](https://apstudents.collegeboard.org/view-scores)
+
+=== 0 E
+From: Schoology <no-reply@schoology.com>
+Subject: New grade posted: Chemistry Unit 3 Test
+
+A new grade was posted in Honors Chemistry: Unit 3 Test.
+
+Log in to Schoology to view your grade and teacher comments.
+
+=== 0 E
+From: Brainly <hello@brainly.com>
+Subject: Your question has an expert answer
+
+Good news! An expert answered your question in Math: "How do you find the derivative of x^2 sin(x)?"
+
+[See the answer](https://brainly.com/question/48201)
+
+Unsubscribe from notifications.
+
+=== 0 E
+From: Shipt <noreply@shipt.com>
+Subject: Your Target order was delivered
+
+Your order from Target was delivered at 6:12 PM by your shopper, Alicia.
+
+Order total: $54.31
+
+[Rate your shopper](https://www.shipt.com/orders)
+
+=== 0 E
+From: Gopuff <hello@gopuff.com>
+Subject: Order delivered!
+
+Your Gopuff order was delivered. Enjoy your snacks!
+
+Order #GP-2289410 · Total $17.82
+
+=== 0 E
+From: Walgreens <walgreens@email.walgreens.com>
+Subject: Your photo order is ready for pickup
+
+Your Walgreens Photo order #4419 is ready for pickup at 5 S Main St, Riverton.
+
+Bring your order number. Orders are held for 14 days.
+
+=== 0 E
+From: Apple <no_reply@email.apple.com>
+Subject: Your subscription is confirmed
+
+Your subscription is confirmed.
+
+Apple Music (Student) - $5.99/month
+Renews November 18, 2026
+
+To manage or cancel your subscription, go to Settings > [your name] > Subscriptions on your device.
+
+=== 0 E
+From: Amazon Prime <prime@amazon.com>
+Subject: Your Prime membership renews on November 2
+
+Hello Amy,
+
+Your Prime Student membership will renew on November 2, 2026 for $7.49/month.
+
+You can change or cancel your membership any time in Your Account.
+
+=== 0 E
+From: AT&T <att-services.cn.12910@emaildl.att-mail.com>
+Subject: Your AT&T bill is ready
+
+Your AT&T Wireless bill for October is ready.
+
+Amount due: $65.00
+Due date: Nov 4, 2026
+
+Your payment will be made automatically on the due date.
+
+[View bill](https://www.att.com/acctmgmt/billing)
+
+=== 0 E
+From: Progressive <progressive@email.progressive.com>
+Subject: Your policy documents are ready
+
+Your Progressive auto policy documents are ready to view. Log in to your account or the app to view your ID cards and policy declarations.
+
+=== 0 E
+From: Ally Bank <ally@notifications.ally.com>
+Subject: Your savings earned interest
+
+Your Online Savings Account ending in 4410 earned $3.12 in interest this month.
+
+Log in to see your balance and set up savings buckets.
+
+=== 0 E
+From: Zillow <noreply@mail.zillow.com>
+Subject: 3 new listings match your search in Champaign, IL
+
+New listings for "2 bed apartments under $1,100":
+
+1203 W Main St #4 - $975/mo
+88 E Green St #12 - $1,050/mo
+407 S Second St - $1,095/mo
+
+[See listings](https://www.zillow.com/champaign-il/rentals/)
+
+Unsubscribe | Zillow, 1301 Second Avenue, Seattle, WA 98101
+
+=== 0 E
+From: Calendly <notifications@calendly.com>
+Subject: New Event: Admissions Advising Appointment
+
+Hi Grace,
+
+A new event has been scheduled.
+
+Event Type: Admissions Advising Appointment (30 min)
+Invitee: Grace Okafor
+Date: Thursday, October 29, 2026, 4:00 PM - 4:30 PM CDT
+
+=== 0 E
+From: Lena Garcia <lena.garcia.2009@gmail.com>
+Subject: Re: costume for Halloween?
+
+omg yes let's do the matching ones. I can get the hats from Party City this weekend. Text me what size you are!
+
+=== 0 E
+From: Uncle Mike <mike.donnelly@comcast.net>
+Subject: Congrats on the meet!
+
+Hey kiddo, heard you ran a PR at conference. Proud of you! Let's get burgers when I'm in town next month.
+
+- Uncle Mike
+
+=== 0 E
+From: Mr. Patel <dpatel@rivertonschools.org>
+Subject: Re: Lab 5 question
+
+Hi Jordan,
+
+Good question. Your reverse() method is losing the head reference. Try drawing the pointers on paper for a 3-node list. Come by during office hours tomorrow if you're still stuck.
+
+Mr. Patel
+
+=== 0 E
+From: Riverton Park District <info@crystallakeparks.org>
+Subject: Fall program registration is open
+
+Fall programs are open for registration: youth basketball, adult pottery, and indoor pickleball.
+
+Register online at crystallakeparks.org or at the Main Office.
+
+Unsubscribe from Park District news.
+
+=== 0 E
+From: Northwestern Medicine <noreply@nm.org>
+Subject: You have a new message in MyNM
+
+You have a new message from your care team in MyNM. For your privacy, sign in to MyNM to read it.
+
+Northwestern Medicine will never ask for your password by email.
+
+=== 0 E
+From: Discover <discover@service.discover.com>
+Subject: Your Discover Cashback Match is on
+
+We match all the cash back you earn at the end of your first year, automatically. Keep using your card to earn 5% in this quarter's categories.
+
+[See this quarter's categories](https://www.discover.com/credit-cards/cashback-bonus/)
+
+Unsubscribe from marketing emails.
+
+# ----------------------------------------- scams -----------------------------------------
+
+=== 1 E
+From: Hulu Billing <billing@hulu-subscription-help.com>
+Subject: Your Hulu subscription was cancelled - action needed
+
+Hi,
+
+We couldn't process your payment and your Hulu subscription has been cancelled. Reactivate now and get 1 month free:
+
+[Reactivate subscription](https://hulu-subscription-help.com/reactivate)
+
+Card verification is required.
+
+=== 1 E
+From: Coursera Certificates <certificates@coursera-award.info>
+Subject: You've been awarded a free Google Career Certificate
+
+Congratulations! You were selected for a free Google Career Certificate scholarship worth $1,200. Activate it now by paying the $19.99 registration fee.
+
+[Activate scholarship](https://coursera-award.info/activate)
+
+=== 1 E
+From: X Support <support@x-verified-badge.com>
+Subject: Your account is eligible for the blue badge
+
+Your account has been selected for free verification. Verify your account within 24 hours or your eligibility will be removed.
+
+[Get verified](https://x-verified-badge.com/login)
+
+=== 1 E
+From: US Bank Security <security@usbank-alerts-verify.com>
+Subject: Your account access has been restricted
+
+Dear Customer,
+
+We detected unusual login attempts on your U.S. Bank account. Your access has been restricted until you confirm your identity.
+
+[Confirm identity](https://usbank-alerts-verify.com/login)
+
+=== 1 E
+From: Citi Card Services <service@citi-card-rewards.net>
+Subject: You have 48,000 ThankYou Points expiring today
+
+Your 48,000 ThankYou Points ($480 value) will expire at midnight. Redeem them now for cash before they're gone.
+
+[Redeem points](https://citi-card-rewards.net/redeem)
+
+Sign in with your card number and online banking password.
+
+=== 1 E
+From: American Express <amex@americanexpress-safekey.com>
+Subject: SafeKey verification required for your card
+
+We need to verify your recent transactions. Your Card will be suspended if you don't complete SafeKey verification today.
+
+[Verify Card](https://americanexpress-safekey.com/verify)
+
+=== 1 E
+From: Lyft Rewards <rewards@lyft-driver-bonus.com>
+Subject: Claim your $100 ride credit
+
+As a thank-you for riding with Lyft, you've received $100 in ride credits. Claim them now by confirming your payment method.
+
+[Claim credit](https://lyft-driver-bonus.com/claim)
+
+=== 1 E
+From: Kroger Customer Survey <survey@kroger-rewards-center.com>
+Subject: Kroger: you've been chosen for a $100 reward
+
+Thanks for shopping at Kroger! Complete our 30-second survey to receive a $100 Kroger gift card. Only a $3.95 shipping fee.
+
+[Start now](https://kroger-rewards-center.com/survey)
+
+=== 1 E
+From: Macy's Rewards <macys@macys-loyalty-gift.com>
+Subject: Your $500 Macy's gift card is waiting
+
+Congratulations, you've been chosen to receive a $500 Macy's gift card. Claim yours before Friday.
+
+[Claim gift card](https://macys-loyalty-gift.com/claim)
+
+=== 1 E
+From: Adidas Outlet <outlet@adidas-warehouse-sale.shop>
+Subject: Adidas warehouse closeout: everything $19
+
+All shoes $19 - Samba, Gazelle, Ultraboost. Last day! Pay by Zelle for free shipping.
+
+[Shop closeout](https://adidas-warehouse-sale.shop)
+
+=== 1 E
+From: Northwestern University Scholarships <awards@northwestern-scholarship-office.org>
+Subject: You've been selected for the Northwestern Merit Award
+
+Dear Student,
+
+You have been selected for a $15,000 Northwestern Merit Award. To accept, please pay the $95 award acceptance fee and send a copy of your ID.
+
+=== 1 E
+From: FSA Help Desk <fsa.helpdesk.gov@outlook.com>
+Subject: Your FSA ID has been locked
+
+Dear Student,
+
+Your FSA ID has been locked because of suspicious activity. Reply with your FSA username, password, and date of birth so we can unlock it.
+
+=== 1 E
+From: Student Housing Office <housing@dorm-reservations-online.com>
+Subject: Reserve your dorm room - $200 deposit due today
+
+Dear Student,
+
+Rooms are filling quickly. Pay your $200 room deposit today with Cash App or Venmo to secure housing for next year. Deposits through this page are not refundable.
+
+=== 1 E
+From: Career Center <jobs@campus-career-desk.net>
+Subject: Paid research assistant position - $500/week
+
+Hello,
+
+A professor in the Department of Biology is looking for a remote research assistant. You will be paid $500 a week for 5 hours of work. Reply with your personal phone number and email to receive the offer letter and your first check.
+
+=== 1 E
+From: Apple Support <apple-support@icloud-storage-full.com>
+Subject: iCloud storage full: your photos will be deleted
+
+Your iCloud storage is full. To avoid losing your photos, upgrade now for $0.99 for life.
+
+[Keep my photos](https://icloud-storage-full.com/upgrade)
+
+=== 1 E
+From: Amazon Prime <prime@prime-membership-renewal.com>
+Subject: Your Prime membership could not be renewed
+
+We were unable to renew your Prime membership. Please update your billing information within 24 hours to avoid losing your benefits.
+
+[Update billing](https://prime-membership-renewal.com/billing)
+
+=== 1 E
+From: AT&T Rewards <rewards@att-loyalty-gift.com>
+Subject: AT&T customer appreciation: free Samsung Galaxy
+
+You have been selected for a free Samsung Galaxy S26 as part of our customer appreciation program. Pay $4.99 shipping to claim.
+
+[Claim my phone](https://att-loyalty-gift.com)
+
+=== 1 E
+From: PayPal <service@paypal.com>
+Subject: You have a money request from Geek Support Team
+
+Geek Support Team requested $499.99 USD
+
+Note: Your Geek Squad plan has renewed. If you did not authorize this payment, call our toll-free number +1 (877) 555-0163 to cancel.
+
+[Pay now](https://www.paypal.com/myaccount/transfer/request)
+
+=== 1 E
+From: Walgreens Pharmacy <rx@walgreens-rx-refund.com>
+Subject: Pharmacy refund of $86.00 available
+
+You overpaid for your last prescription. A refund of $86.00 is available. Confirm your card details to receive it.
+
+[Get refund](https://walgreens-rx-refund.com/refund)
+
+=== 1 E
+From: Social Media Copyright <copyright@meta-appeals-center.net>
+Subject: Final warning: your Instagram account will be deleted
+
+Your Instagram account has received multiple copyright strikes. Your account will be deleted in 12 hours unless you verify ownership.
+
+[Verify account](https://meta-appeals-center.net/verify)
+
+=== 1 E
+From: Microsoft Support <support@microsoft-help-desk-us.com>
+Subject: Suspicious activity on your Windows computer
+
+Your Windows license has been compromised and hackers have accessed your computer. Call Microsoft Support immediately at 1-888-555-0171 to secure your PC. Do not use your bank account until you call.
+
+=== 1 E
+From: Fidelity Trading Group <vip@fidelity-crypto-signals.com>
+Subject: Join our VIP trading group - 500% returns
+
+Our expert traders turned $1,000 into $50,000 this month. Join the VIP WhatsApp group for free daily signals. Deposit through our partner exchange to start.
+
+=== 1 E
+From: Hacker <xxxx@protonmail.com>
+Subject: Your account was hacked - read this
+
+I know your password. I installed malware on your computer and recorded you through your webcam. Send $1,200 in Bitcoin to bc1qx7k2l5m9 within 48 hours, or I will send the video to all your contacts.
+
+=== 1 E
+From: Mrs. Grace Wilson <gracewilson.charity@gmail.com>
+Subject: Donation of $2,500,000 to you
+
+Dear Beloved,
+
+I am Mrs. Grace Wilson, a widow suffering from cancer. I have decided to donate my late husband's fortune of $2.5 million to you for charity work. Please send your full name and phone number to proceed.
+
+=== 1 E
+From: Court Clerk <notices@municipal-court-fines.com>
+Subject: Missed court date - pay fine to avoid arrest
+
+You missed your scheduled court date. A warrant will be issued unless you pay a fine of $450 today. Call 1-773-555-0154 to pay by gift card.
+
+=== 1 E
+From: Shipping Notification <noreply@parcel-tracking-update.com>
+Subject: Your parcel is waiting: confirm delivery
+
+Your parcel is waiting at our depot. Confirm your delivery details and pay the $1.49 shipping fee to receive it.
+
+[Confirm delivery](https://parcel-tracking-update.com/confirm)
+
+=== 1 E
+From: Youtube Partner <partners@youtube-monetize-now.com>
+Subject: Your channel qualifies for monetization
+
+Congratulations! Your channel now qualifies for the YouTube Partner Program. Sign in to accept the terms and set up payments within 24 hours.
+
+[Sign in to YouTube Studio](https://youtube-monetize-now.com/login)
+
+=== 1 E
+From: Zillow Rentals <owner.rental.listing@gmail.com>
+Subject: Re: 2 bed apartment on Green St
+
+Hi, thanks for your interest in my apartment. I'm working overseas so I can't show it, but it's yours for $700/month. Send the deposit of $1,400 by Zelle and I will mail you the keys and the lease.
+
+=== 1 E
+From: Discord Staff <staff@discord-safety-team.com>
+Subject: Your account was reported - verify within 24 hours
+
+Your Discord account has been reported for violating our terms. If you don't verify your account within 24 hours, it will be disabled. Scan the QR code on the next page with your Discord app to verify.
+
+[Verify my account](https://discord-safety-team.com/verify)
+
+=== 1 E
+From: Gift Card Center <rewards@giftcard-balance-bonus.com>
+Subject: Your gift card balance has doubled
+
+Good news! For a limited time, we're doubling gift card balances. Enter your gift card number and PIN to receive your bonus.
+
+[Double my balance](https://giftcard-balance-bonus.com)

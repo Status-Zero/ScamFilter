@@ -1,0 +1,991 @@
+# Training set 1: account emails (verification, sign-in, password) and the scams that copy them.
+
+=== 0 E
+From: Discord <noreply@discord.com>
+Subject: Verify Email Address for Discord
+
+Hey jsparks22,
+
+Thanks for registering for an account on Discord! Before we get started, we just need to confirm that this is you. Click below to verify your email address:
+
+[Verify Email](https://click.discord.com/ls/click?upn=u001.k2Jd8)
+
+Need help? Contact our support team or hit us up on Twitter @discord.
+Want to give us feedback? Let us know what you think on our feedback site.
+
+Sent by Discord • check our blog • @discord
+444 De Haro Street, Suite 200, San Francisco, CA 94107
+
+=== 0 E
+From: Steam Support <noreply@steampowered.com>
+Subject: Your Steam account: Access from new web or mobile device
+
+Dear mkoz_04,
+
+Here is the Steam Guard code you need to login to account mkoz_04:
+
+7RW2K
+
+This email was generated because of a login attempt from a web or mobile device located at Naperville, Illinois, United States.
+
+The login attempt included your correct account name and password.
+
+The Steam Guard code is required to complete the login. No one can access your account without also accessing this email.
+
+If you are not attempting to login then please change your Steam password, and consider changing your email password as well to ensure your account security.
+
+If you are having trouble accessing your account then please reference this help article for assistance.
+
+Powered by Valve
+
+=== 0 E
+From: GitHub <noreply@github.com>
+Subject: [GitHub] Please verify your device
+
+Hey jordanm-dev!
+
+A sign in attempt requires further verification because we did not recognize your device. To complete the sign in, enter the verification code on the unrecognized device.
+
+Device: Firefox on Windows
+Verification code: 482915
+
+If you did not attempt to sign in to your account, your password may be compromised. Visit https://github.com/settings/security to create a new, strong password for your GitHub account.
+
+If you'd like to automatically verify devices in the future, consider enabling two-factor authentication on your account. Visit https://docs.github.com/articles/configuring-two-factor-authentication to learn about two-factor authentication.
+
+Thanks,
+The GitHub Team
+
+=== 0 E
+From: Epic Games <help@acct.epicgames.com>
+Subject: Epic Games - Email Verification
+
+Hi Nate,
+
+Here is your one-time code to verify your email address:
+
+3 8 1 0 4 7
+
+This code will expire in 10 minutes. If you didn't request this code, you can safely ignore this email. Someone else might have typed your email address by mistake.
+
+Thanks,
+The Epic Games Account Team
+
+=== 0 E
+From: Instructure Canvas <notifications@instructure.com>
+Subject: Confirm Your Registration
+
+Welcome to Canvas! Please confirm your email address to finish setting up your account for Lincoln-Way Community High School District 210.
+
+[Click here to confirm your registration](https://lwchs.instructure.com/register/7f2c19e0)
+
+If you did not sign up for Canvas, you can ignore this message.
+
+=== 0 E
+From: Common App <noreply@commonapp.org>
+Subject: Verify your Common App account
+
+Hi Priya,
+
+Thanks for creating your Common App account! Please verify your email address so we can keep you up to date on your applications.
+
+Your verification code is 604217.
+
+You can also verify by clicking the button below.
+
+[Verify email address](https://apply.commonapp.org/verify?token=e2b81a)
+
+If you didn't create a Common App account, please contact our Solutions Center.
+
+The Common App team
+
+=== 0 E
+From: Spotify <no-reply@spotify.com>
+Subject: Reset your password
+
+Hello,
+
+No need to worry, you can reset your Spotify password by clicking the link below:
+
+[Reset password](https://accounts.spotify.com/password-reset/complete?flow_ctx=b31c)
+
+Your username is: 31ahx5qzpe
+
+If you didn't ask to reset your password, you can ignore this email.
+
+Get Spotify for: iPhone | iPad | Android | Other
+This message was sent to you. If you have questions or complaints, please contact us.
+Spotify AB, Regeringsgatan 19, 111 53, Stockholm, Sweden
+
+=== 0 E
+From: Microsoft account team <account-security-noreply@accountprotection.microsoft.com>
+Subject: Microsoft account security code
+
+Microsoft account
+
+Security code
+
+Please use the following security code for the Microsoft account de*****@outlook.com.
+
+Security code: 739521
+
+If you don't recognize the Microsoft account de*****@outlook.com, you can click here to remove your email address from that account.
+
+Thanks,
+The Microsoft account team
+
+=== 0 E
+From: Google <no-reply@accounts.google.com>
+Subject: Security alert
+
+A new sign-in on Windows
+
+ella.martin2009@gmail.com
+
+We noticed a new sign-in to your Google Account on a Windows device. If this was you, you don't need to do anything. If not, we'll help you secure your account.
+
+[Check activity](https://accounts.google.com/AccountChooser?Email=ella.martin2009@gmail.com&continue=https://myaccount.google.com/alert/nt/1699)
+
+You can also see security activity at https://myaccount.google.com/notifications
+
+You received this email to let you know about important changes to your Google Account and services.
+© 2026 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+
+=== 0 E
+From: Apple <noreply@email.apple.com>
+Subject: Your Apple Account was used to sign in to iCloud via a web browser.
+
+Dear Marcus Lee,
+
+Your Apple Account (m•••••@icloud.com) was used to sign in to iCloud via a web browser.
+
+Date and Time: October 3, 2026, 7:41 PM CDT
+
+If the information above looks familiar, you can ignore this message.
+
+If you have not signed in to iCloud recently and believe someone may have accessed your account, go to Apple Account (https://account.apple.com) and change your password as soon as possible.
+
+Apple Support
+
+=== 0 E
+From: Duolingo <hello@duolingo.com>
+Subject: Confirm your email
+
+Hi there!
+
+Please confirm your email so you can get streak reminders, progress updates, and recover your account if you forget your password.
+
+[Confirm email](https://www.duolingo.com/confirm?token=b60a8f)
+
+Not you? You can ignore this email.
+
+Duolingo, 5900 Penn Ave, Pittsburgh, PA 15206
+
+=== 0 E
+From: Roblox <accounts@roblox.com>
+Subject: Roblox Login Code
+
+Hi Tyler_Builds,
+
+Someone tried to log in to your Roblox account. Your login code is:
+
+185204
+
+This code expires in 15 minutes. If this wasn't you, change your password right away. Never share this code with anyone. Roblox staff will never ask you for it.
+
+The Roblox Team
+
+=== 0 E
+From: Zoom <no-reply@zoom.us>
+Subject: Please activate your Zoom account
+
+Hello rachel.ng@lewisu.edu,
+
+Welcome to Zoom!
+
+To activate your account please click the button below to verify your email address:
+
+[Activate Account](https://us06web.zoom.us/activate?code=PqL0w)
+
+Or paste this link into your browser: https://us06web.zoom.us/activate?code=PqL0w
+
+Zoom Video Communications, Inc.
+55 Almaden Blvd, San Jose, CA 95113
+
+=== 0 E
+From: Slack <feedback@slack.com>
+Subject: Slack confirmation code: KLP-492
+
+Confirm your email address
+
+Your confirmation code is below — enter it in your open browser window and we'll help you get signed in.
+
+KLP-492
+
+If you didn't request this email, there's nothing to worry about — you can safely ignore it.
+
+Slack Technologies, LLC, 500 Howard Street, San Francisco, CA 94105
+
+=== 0 E
+From: Adobe <message@adobe.com>
+Subject: Your Adobe verification code
+
+Your verification code
+
+Use this code to finish signing in to your Adobe account.
+
+921 367
+
+This code will expire in 10 minutes.
+
+If you didn't try to sign in, we recommend you change your password.
+
+Adobe Inc., 345 Park Avenue, San Jose, CA 95110-2704
+
+=== 0 E
+From: Chase <no.reply.alerts@chase.com>
+Subject: You signed in with a new device
+
+Chase
+
+We noticed you signed in with a new device.
+
+Device: iPhone
+Date: Oct 12, 2026 at 6:02 PM ET
+
+If this was you, there's nothing else you need to do.
+
+If you don't recognize this activity, call us at the number on the back of your card, or sign in to chase.com and review your security settings.
+
+Please don't reply to this automated message.
+
+=== 0 E
+From: PayPal <service@paypal.com>
+Subject: You changed your password
+
+Hi Daniel,
+
+You changed the password for your PayPal account on October 9, 2026.
+
+If you made this change, you don't need to do anything.
+
+If you didn't change your password, please contact us right away by going to the Help Center.
+
+Thanks,
+PayPal
+
+Please don't reply to this email. To get in touch with us, log in to your account and click Help.
+
+=== 0 E
+From: Twitch <no-reply@twitch.tv>
+Subject: Your Twitch Verification Code
+
+Hey pixel_pancake,
+
+Here is your Twitch verification code:
+
+502918
+
+This code will only be valid for the next 15 minutes. If the code does not work, you can use this login verification link:
+
+[Verify login](https://www.twitch.tv/verify?code=Lm2xQ)
+
+Thanks,
+Twitch Support
+
+=== 0 E
+From: Reddit <noreply@reddit.com>
+Subject: Verify your Reddit email address
+
+Hi u/Late_Breakfast_2046,
+
+Tap the button below to verify your email address. This helps us keep your account secure.
+
+[Verify Email Address](https://www.reddit.com/verification/a8c3e1)
+
+Don't recognize this account? Just ignore this email.
+
+Reddit Inc., 303 2nd Street, South Tower, 5th Floor, San Francisco, CA 94107
+
+=== 0 E
+From: LinkedIn <security-noreply@linkedin.com>
+Subject: Here's your PIN
+
+Hi Grace,
+
+Please use this verification code to complete your sign in: 449183
+
+If you didn't try to sign in, we recommend you change your password.
+
+Thanks for helping us keep your account secure.
+The LinkedIn Team
+
+This email was intended for Grace Okafor (Student at Illinois State University)
+
+=== 0 E
+From: Dropbox <no-reply@dropbox.com>
+Subject: Your Dropbox security code
+
+Hi Owen,
+
+Your security code is 618 274.
+
+Enter this code on the Dropbox sign-in page to finish signing in. The code expires in 15 minutes.
+
+If you didn't try to sign in, someone may have your password. Reset your password from your account settings.
+
+Happy Dropboxing!
+The Dropbox team
+
+=== 0 E
+From: Notion Team <notify@mail.notion.so>
+Subject: Your temporary Notion login code is 491-288
+
+Login code: 491-288
+
+Or, sign in with this link: [Click here to log in with this magic link](https://www.notion.so/loginwithemail?state=9f81)
+
+If you didn't try to login, you can safely ignore this email.
+
+Notion Labs, Inc., 2300 Harrison Street, San Francisco, CA 94110
+
+=== 0 E
+From: Snapchat <no-reply@accounts.snapchat.com>
+Subject: Snapchat Login Verification
+
+Hi kaylee.b,
+
+We noticed a login to your Snapchat account from a new device.
+
+Device: Pixel 8
+Location: Rockford, IL
+
+If this was you, you can ignore this email. If this wasn't you, reset your password from the Snapchat app right away and turn on two-factor authentication.
+
+Team Snapchat
+
+=== 0 E
+From: Venmo <venmo@venmo.com>
+Subject: Your email address was updated
+
+Hi Jasmine,
+
+The email address on your Venmo account was changed to j•••••@gmail.com.
+
+If you made this change, no further action is needed.
+
+If you didn't make this change, contact us through the Help Center in the app right away.
+
+Venmo is a service of PayPal, Inc.
+
+=== 0 E
+From: Yahoo <no-reply@cc.yahoo-inc.com>
+Subject: Two-step verification is now on
+
+Hi Lauren,
+
+You turned on two-step verification for your Yahoo account. From now on, we'll ask for a code when you sign in on a new device.
+
+If you didn't turn this on, please secure your account right away from your Account Security page.
+
+Thanks,
+Yahoo
+
+=== 0 E
+From: Fortnite Crew <help@acct.epicgames.com>
+Subject: Two-factor authentication enabled
+
+Hi Brandon,
+
+Two-factor authentication was enabled on your Epic Games account. You'll now need to enter a security code each time you sign in from a new device.
+
+If you didn't make this change, please contact Player Support right away.
+
+Epic Games, Inc. 620 Crossroads Blvd, Cary, NC 27518
+
+=== 0 E
+From: Netflix <info@account.netflix.com>
+Subject: A new device is using your account
+
+Hi Megan,
+
+A new device signed in to your Netflix account, megan.k•••@gmail.com.
+
+Device: Samsung Smart TV
+Location: Peoria, Illinois, United States
+
+If this was you or someone in your household: Enjoy watching!
+
+If it was someone else: Please go to Account Settings and sign out of all devices, then change your password.
+
+We're here to help if you need it. Visit the Help Center for more info.
+The Netflix team
+
+=== 0 E
+From: Instagram <security@mail.instagram.com>
+Subject: 284 019 is your Instagram code
+
+Hi soph.creates,
+
+Someone tried to log in to your Instagram account. If this was you, please use the following code to confirm your identity:
+
+284019
+
+If this wasn't you, please reset your password to secure your account.
+
+Meta Platforms, Inc., 1601 Willow Road, Menlo Park, CA 94025
+
+=== 0 E
+From: Grubhub <donotreply@grubhub.com>
+Subject: Your Grubhub verification code
+
+Your code is 7741.
+
+Enter it on the sign-in screen to continue. This code expires in 10 minutes.
+
+Didn't request a code? You can ignore this email.
+
+=== 0 E
+From: Hilton Honors <hiltonhonors@h1.hilton.com>
+Subject: Please confirm your email address
+
+Hi Robert,
+
+Thanks for joining Hilton Honors. Confirm your email address so we can send you your stay confirmations and member offers.
+
+[Confirm Email](https://www.hilton.com/en/hilton-honors/confirm-email/?t=6c1)
+
+Hilton Honors Member Number: 1207 4498 213
+
+=== 0 E
+From: noreply@dypius.com
+Subject: Verify your new account
+
+The verification code to your new account is 557102
+
+Please enter it within 30 minutes. If you did not request this, ignore this email.
+
+=== 0 E
+From: Kahoot! <noreply@kahoot.com>
+Subject: Verify your email for Kahoot!
+
+Hi teacher.hollis,
+
+Almost there! Verify your email address to finish creating your Kahoot! account.
+
+[Verify email](https://kahoot.com/verify?k=4a8)
+
+Kahoot! ASA, Fridtjof Nansens plass 7, 0160 Oslo, Norway
+
+=== 0 E
+From: Minecraft <noreply@minecraft.net>
+Subject: Your Minecraft verification code
+
+Use this code to finish signing in to your Minecraft account:
+
+663 091
+
+If you didn't ask for a code, you can ignore this email. Mojang will never ask you for your password or code.
+
+=== 0 E
+From: Quizlet <team@quizlet.com>
+Subject: Reset your Quizlet password
+
+Hi bio_notes_kj,
+
+We received a request to reset your Quizlet password. Click the link below to choose a new one.
+
+[Reset your password](https://quizlet.com/reset-password?token=0c6d)
+
+This link expires in 24 hours. If you didn't request a reset, you can ignore this email and your password won't change.
+
+=== 0 E
+From: Target <guestservices@target.com>
+Subject: Your Target.com account password was changed
+
+Hi Alyssa,
+
+The password for your Target.com account was just changed.
+
+If you made this change, you're all set.
+
+If you didn't, please call Guest Services at 1-800-591-3869 right away.
+
+=== 0 E
+From: Steam <noreply@steampowered.com>
+Subject: Steam Account Verification
+
+Hello jmarsh13,
+
+To complete the process of creating your Steam account, please verify your email address by clicking the button below.
+
+[Verify My Email Address](https://store.steampowered.com/account/newaccountverification?stoken=f3e)
+
+This is required to create your Steam account.
+
+The Steam Team
+
+=== 0 E
+From: Pinterest <no-reply@account.pinterest.com>
+Subject: Confirm your email address
+
+Hi Hannah,
+
+Please confirm your email address so you can save ideas and get recommendations.
+
+[Confirm your email](https://www.pinterest.com/email/confirm/?e=31b)
+
+Pinterest, 651 Brannan Street, San Francisco, CA 94107
+
+=== 0 E
+From: University of Illinois Technology Services <help@illinois.edu>
+Subject: Your NetID password was changed
+
+Hello Kevin,
+
+The password for your University of Illinois NetID kevinp3 was changed on October 14, 2026 at 3:12 PM.
+
+If you made this change, no action is needed.
+
+If you did not change your password, contact the Technology Services Help Desk at 217-244-7000 or consult@illinois.edu immediately.
+
+Technology Services at Illinois
+
+=== 0 E
+From: Microsoft <account-security-noreply@accountprotection.microsoft.com>
+Subject: New app(s) connected to your Microsoft account
+
+Microsoft account
+
+New app(s) have access to your data
+
+Spotify connected to the Microsoft account ty*****@hotmail.com.
+
+If you didn't grant this access, please remove the app(s) from your account.
+
+[Manage your apps](https://account.live.com/consent/Manage)
+
+You can also opt out or change where you receive security notifications.
+
+Thanks,
+The Microsoft account team
+
+# ----------------------------- scams that copy account emails -----------------------------
+
+=== 1 E
+From: Discord <support@discord-nitro-gifts.com>
+Subject: You've been gifted Discord Nitro for 1 year!
+
+Hey there,
+
+A friend just sent you a gift: Discord Nitro (1 year)! This gift will expire in 24 hours, so claim it quickly.
+
+[Accept Gift](https://discord-nitro-gifts.com/claim?gift=8LmQe2)
+
+To claim, log in with your Discord email and password on the next page.
+
+Discord Team
+
+=== 1 E
+From: Steam Community <support@steamcommunnity-help.com>
+Subject: Your account is under review for fraudulent trading
+
+Hello,
+
+A report was filed against your Steam account for suspicious trades. Your account will be permanently banned within 48 hours unless you verify ownership.
+
+[Appeal the ban](https://steamcommunnity-help.com/appeal/login)
+
+Please sign in with your Steam credentials and confirm your Steam Guard code on the appeal page.
+
+Valve Anti-Cheat Department
+
+=== 1 E
+From: GitHub Security <security@github-alerts.net>
+Subject: [GitHub] Unusual activity: repository will be deleted
+
+Hi,
+
+We detected a vulnerability in your repository that violates our Terms of Service. Your repositories will be removed in 24 hours.
+
+To keep your account, re-authorize your session and confirm your identity here:
+
+[Review security notice](https://github-alerts.net/session/authorize)
+
+GitHub Trust & Safety
+
+=== 1 E
+From: Epic Games <no-reply@epicgames-rewards.store>
+Subject: Claim 13,500 Free V-Bucks - Season Reward
+
+Congratulations player!
+
+Your account was selected for the Season Loyalty Reward: 13,500 V-Bucks. Rewards are given to the first 500 players only.
+
+[Claim your V-Bucks](https://epicgames-rewards.store/claim)
+
+Enter your Epic Games email and password to receive the V-Bucks instantly.
+
+=== 1 E
+From: Microsoft 365 <no-reply@m365-mailbox-notice.com>
+Subject: Password for your mailbox expires today
+
+Dear user,
+
+The password for your mailbox expires today. To keep using your current password, please validate your account below. If you do nothing, your account will be deactivated and incoming messages will be lost.
+
+[Keep current password](https://m365-mailbox-notice.com/owa/validate)
+
+Microsoft Office 365 Team
+
+=== 1 E
+From: Apple Support <support@apple-id-locked.info>
+Subject: Your Apple ID has been locked for security reasons
+
+Dear Customer,
+
+Your Apple ID has been locked because of too many failed login attempts. To unlock your account, you must verify your information within 24 hours or your account will be permanently disabled.
+
+[Unlock Apple ID](https://apple-id-locked.info/verify)
+
+You will need to confirm your billing details and card information.
+
+Apple Inc.
+
+=== 1 E
+From: Netflix <billing@netflix-account-help.co>
+Subject: Your membership is on hold - update payment
+
+Hi,
+
+We're having trouble with your current billing information. We'll try again, but in the meantime you may want to update your payment details.
+
+Your account will be suspended in 48 hours.
+
+[Update Account Now](https://netflix-account-help.co/billing/update)
+
+Your friends at Netflix
+
+=== 1 E
+From: PayPal <service@paypal-resolution-desk.com>
+Subject: Your account has been limited
+
+Dear Customer,
+
+We noticed unusual activity on your PayPal account. As a security measure, your account access has been limited until you confirm your identity.
+
+[Restore account access](https://paypal-resolution-desk.com/signin)
+
+Please have your card number, expiration date and Social Security number ready.
+
+Sincerely,
+PayPal Security Department
+
+=== 1 E
+From: Chase Online <alerts@chase-secure-verify.com>
+Subject: Unusual sign-in activity detected
+
+Dear Chase customer,
+
+We detected a sign-in to your online banking from an unrecognized device in Lagos, Nigeria. Your account has been temporarily restricted.
+
+To restore access, verify your identity immediately:
+
+[Verify Now](https://chase-secure-verify.com/login)
+
+Failure to verify within 12 hours will result in permanent suspension.
+
+Chase Fraud Department
+
+=== 1 E
+From: Instagram <copyright@instagram-help-center.org>
+Subject: Copyright infringement notice on your account
+
+Hi,
+
+Your account has been reported for copyright infringement. If you believe this is a mistake, you must fill out the appeal form within 24 hours or your account will be permanently deleted.
+
+[Appeal Form](https://instagram-help-center.org/appeal)
+
+Thanks,
+Instagram Copyright Team
+
+=== 1 E
+From: Meta Business Support <noreply@meta-pageprotect.com>
+Subject: Your page will be disabled for policy violation
+
+Dear Page Owner,
+
+Your Facebook page has been flagged for violating our Community Standards. If you do not submit an appeal, the page will be unpublished and deleted.
+
+[Submit Appeal](https://meta-pageprotect.com/case/77291)
+
+Meta Platforms Policy Team
+
+=== 1 E
+From: Roblox <free@robux-claim.xyz>
+Subject: Your 10,000 Robux are ready
+
+Hey!
+
+You were picked for our Robux giveaway. Claim your 10,000 free Robux before they expire tonight.
+
+[Get Robux](https://robux-claim.xyz/redeem)
+
+Just enter your Roblox username and password so we can add them to the right account.
+
+=== 1 E
+From: Google <no-reply@google-storage-alerts.com>
+Subject: Your storage is full - photos will be deleted
+
+Hello,
+
+Your Google storage is full. Your photos and emails will be deleted in 48 hours.
+
+Upgrade now and get 50 GB for $1.99 for life.
+
+[Keep my photos](https://google-storage-alerts.com/upgrade)
+
+Google One
+
+=== 1 E
+From: Snapchat <support@snapchat-recovery.io>
+Subject: Someone logged into your account
+
+Hi,
+
+Your Snapchat account was logged into from a new device in Moscow, Russia. If this wasn't you, secure your account now:
+
+[Secure My Account](https://snapchat-recovery.io/login)
+
+You'll need to enter your username, password and the code we text you.
+
+Team Snapchat
+
+=== 1 E
+From: University IT Help Desk <helpdesk@univ-mail-upgrade.com>
+Subject: ACTION REQUIRED: Student email account upgrade
+
+Dear Student,
+
+All student email accounts are being upgraded to the new Office 365 version. Accounts that are not upgraded by Friday will be deactivated and you will lose access to Canvas and your grades.
+
+[Upgrade my account](https://univ-mail-upgrade.com/sso/login)
+
+Sign in with your student ID and password to complete the upgrade.
+
+IT Services
+
+=== 1 E
+From: Admin <admin@mail-quota-warning.net>
+Subject: Mailbox quota exceeded - 2 pending messages
+
+Your mailbox has exceeded the storage limit. You have 2 incoming messages that could not be delivered.
+
+[Release pending messages](https://mail-quota-warning.net/release)
+
+If you do not release them within 24 hours they will be deleted.
+
+Mail Administrator
+
+=== 1 E
+From: Yahoo Mail <yahoo-team@verify-yahoo-account.com>
+Subject: Final notice: your Yahoo account will be closed
+
+Dear Yahoo user,
+
+We are closing all old versions of Yahoo Mail. To continue using your account, confirm your details now. Accounts that are not confirmed will be closed permanently.
+
+[Continue using my account](https://verify-yahoo-account.com/confirm)
+
+Yahoo Customer Care
+
+=== 1 E
+From: Venmo <alerts@venmo-payment-review.com>
+Subject: Payment of $850.00 is pending your approval
+
+Hi,
+
+You have received a payment of $850.00, but it is pending until you confirm your account. To release the funds, sign in and verify your bank details.
+
+[Release payment](https://venmo-payment-review.com/claim)
+
+Venmo Support
+
+=== 1 E
+From: Adobe Document Cloud <share@adobe-docs-viewer.com>
+Subject: Payroll_Adjustment_Q4.pdf has been shared with you
+
+Hello,
+
+You have received a secure PDF document from Human Resources.
+
+File: Payroll_Adjustment_Q4.pdf (212 KB)
+
+[View Document](https://adobe-docs-viewer.com/view?id=88a1)
+
+To view, sign in with your email account password.
+
+Adobe Acrobat Sign
+
+=== 1 E
+From: Twitch <partners@twitch-partner-program.net>
+Subject: Congratulations! You've been accepted to the Twitch Partner Program
+
+Hi streamer,
+
+Great news! Your channel was selected for the Twitch Partner Program. To activate monetization, log in and confirm your payout details within 48 hours.
+
+[Activate Partnership](https://twitch-partner-program.net/login)
+
+The Twitch Partnerships Team
+
+=== 1 E
+From: Microsoft Account Team <no-reply@microsoft-acc0unt-security.com>
+Subject: Microsoft account unusual sign-in activity
+
+Microsoft account
+
+Unusual sign-in activity
+
+We detected something unusual about a recent sign-in to the Microsoft account.
+
+Sign-in details
+Country/region: Russia/Moscow
+IP address: 103.225.77.255
+Date: 10/14/2026 4:12 AM
+
+If this wasn't you, please report the user by replying to this email or calling our security desk at 1-833-301-7729.
+
+Thanks,
+The Microsoft account team
+
+=== 1 E
+From: Duolingo <streak@duolingo-rewards.top>
+Subject: Your 365-day streak earned you a $100 gift card
+
+Amazing work!
+
+To celebrate your streak, Duolingo is giving you a $100 Amazon gift card. Just pay a $2.95 processing fee to receive it.
+
+[Claim gift card](https://duolingo-rewards.top/claim)
+
+=== 1 E
+From: Spotify <no-reply@spotify-premium-verify.com>
+Subject: Your payment was declined - Premium paused
+
+Hi,
+
+We couldn't process your last payment, so your Premium plan has been paused. Update your card within 24 hours to keep your music and playlists.
+
+[Update payment info](https://spotify-premium-verify.com/account)
+
+The Spotify Team
+
+=== 1 E
+From: Wells Fargo Online <wellsfargo@secure-wf-alerts.com>
+Subject: Your card has been temporarily suspended
+
+Dear Customer,
+
+We have suspended your debit card because of suspicious transactions. To reactivate your card, please confirm your card number, PIN and online banking details through our secure page.
+
+[Reactivate Card](https://secure-wf-alerts.com/reactivate)
+
+Wells Fargo Security
+
+=== 1 E
+From: Steam <noreply@steam-gift-cards.org>
+Subject: Hey, I accidentally reported your account
+
+Hey man, sorry, I think I accidentally reported your Steam account for scamming. You need to contact the Valve support agent on Discord right now or your account will get banned. His username is valve_support_agent#2291. Tell him I sent you.
+
+=== 1 E
+From: LinkedIn <jobs@linkedin-hiring-team.net>
+Subject: You appeared in 9 searches this week - message from recruiter
+
+Hi,
+
+A recruiter from a Fortune 500 company wants to connect with you about a remote role paying $45/hr.
+
+[View message](https://linkedin-hiring-team.net/inbox)
+
+Sign in with your LinkedIn email and password to read the message.
+
+=== 1 E
+From: Google Workspace <workspace-noreply@g-docs-share.net>
+Subject: Coach Davis shared "Team Fundraiser Payments" with you
+
+Coach Davis has invited you to view the following spreadsheet:
+
+Team Fundraiser Payments
+
+[Open in Sheets](https://g-docs-share.net/spreadsheets/d/1k2/login)
+
+You must sign in with your school email to view this document.
+
+=== 1 E
+From: Apple <no_reply@apple-receipt-support.com>
+Subject: Your receipt from Apple - Order No. MZ8VKD1JL
+
+Apple Receipt
+
+Billed to: Visa .... 4471
+
+Final Cut Pro (1 year subscription) $299.99
+
+If you did not authorize this purchase, please visit the Apple cancellation center within 24 hours to receive a full refund:
+
+[Cancel and refund](https://apple-receipt-support.com/cancel)
+
+You will be asked to confirm your Apple ID and card details.
+
+=== 1 E
+From: Chase <service@chase-online-review.com>
+Subject: Important: Update your account information
+
+Dear Valued Customer,
+
+As part of our yearly security update, all customers must confirm their personal information. Please click below to complete your account review. Accounts not reviewed will be locked.
+
+[Begin review](https://chase-online-review.com/review)
+
+Thank you for banking with us.
+
+=== 1 E
+From: Microsoft Teams <teams@ms-teams-voicemsg.com>
+Subject: You have a new voice message from (847) 555-0193
+
+Microsoft Teams
+
+You received a voice message (0:41) from (847) 555-0193.
+
+[Play voice message](https://ms-teams-voicemsg.com/play?vm=9a2)
+
+Sign in with your work or school account to listen.
+
+=== 1 E
+From: DocuSign <dse@docusign-secure-share.net>
+Subject: Please DocuSign: Lease_Agreement_Final.pdf
+
+You have received a document to review and sign.
+
+Sender: Property Management Office
+
+[REVIEW DOCUMENT](https://docusign-secure-share.net/sign?env=2c1)
+
+Please complete within 24 hours. This message contains a secure link to DocuSign. Do not share it with others.
+
+=== 1 E
+From: Amazon <account-update@amazon-security-check.com>
+Subject: Action required: your Amazon account has been locked
+
+Hello,
+
+We locked your Amazon account because someone tried to make a purchase with it. Your orders and subscriptions are on hold.
+
+To unlock your account, confirm your information within 24 hours:
+
+[Unlock account](https://amazon-security-check.com/ap/signin)
+
+Amazon Customer Service

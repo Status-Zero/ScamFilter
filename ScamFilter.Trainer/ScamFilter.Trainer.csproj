@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <!--
+    Command-line trainer. See README.md for the exact commands. It trains the model and prints
+    the report, runs the detector on a few demo messages ("demo"), or builds the training data
+    from public datasets (the import and fix commands, see DatasetTools.cs).
+    It uses the data and model folders in whatever folder you run it from.
+  -->
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <RootNamespace>ScamFilter.TrainerApp</RootNamespace>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ScamFilter.Core\ScamFilter.Core.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,9 @@
+# Senders you trust. One per line: a phone number, an exact email address, or a domain.
+#
+# The blocklist still runs first, so a trusted friend whose account got hacked can't send you a
+# known-bad link. And if a trusted sender's message looks like a scam anyway, it's marked
+# CAUTION instead of SAFE, in case their account was taken over.
+#
+# Because email senders can be forged:
+#   - an exact email address only counts if the email did NOT fail DMARC
+#   - a whole domain only counts if the email PASSED DMARC

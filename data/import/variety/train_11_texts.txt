@@ -1,0 +1,338 @@
+# Training set 11: more text messages - real ones and scams.
+
+=== 0 T
+From: 57234
+
+Your Hulu verification code is 581930.
+
+=== 0 T
+From: 34726
+
+Disney+: 739204 is your one-time passcode. It expires in 15 minutes.
+
+=== 0 T
+From: 247-365
+
+Your Uber code is 8814. Never share this code.
+
+=== 0 T
+From: 63771
+
+Microsoft account: use security code 4410 to sign in.
+
+=== 0 T
+From: 94753
+
+PNC Alert: Your Spend account x3301 balance is below $50.00. Reply STOP to cancel.
+
+=== 0 T
+From: 54733
+
+Discover: Payment of $215.00 received. Thank you!
+
+=== 0 T
+From: 93733
+
+Amex: A charge of $28.40 at CHIPOTLE 2291 was made on your Card ending 31007. Reply STOP to end.
+
+=== 0 T
+From: 28393
+
+Venmo: Olivia Chen paid you $12.00 for "pizza".
+
+=== 0 T
+From: 78180
+
+Cash App: You received $40 from Mom. Cash App will never ask for your sign-in code.
+
+=== 0 T
+From: 31785
+
+Jewel-Osco: Your order is ready for pickup at Riverton! Park in a pickup spot and tap "I'm here" in the app.
+
+=== 0 T
+From: 96633
+
+Best Buy: Your order BBY01-807114592810 is ready for pickup at Riverton. Bring a photo ID.
+
+=== 0 T
+From: 34357
+
+Target: Your Drive Up order is ready! Head to the store and tap "I'm on my way" in the app.
+
+=== 0 T
+From: 61825
+
+Your Chewy order has shipped! Track it at chewy.com/app/account/orderhistory
+
+=== 0 T
+From: 37669
+
+Jiffy Lube: Your 2015 Honda Civic is due for an oil change. Save $10 this week. Reply STOP to opt out.
+
+=== 0 T
+From: 87493
+
+Great Clips: You're next! Head to the salon now. Reply STOP to unsubscribe.
+
+=== 0 T
+From: 46453
+
+Your table at Olive Garden is ready! Please check in with the host within 5 minutes.
+
+=== 0 T
+From: 85245
+
+Culver's: Today's Flavor of the Day is Turtle! Reply STOP to unsubscribe.
+
+=== 0 T
+From: 37744
+
+Chick-fil-A: Your mobile order is ready at the pickup shelf.
+
+=== 0 T
+From: 47888
+
+GameStop: Pro Day! Extra 10% off pre-owned games today. Reply STOP to opt out.
+
+=== 0 T
+From: 87411
+
+Bath & Body Works: Free full-size body care with any $40 purchase! Today & tomorrow. Txt STOP to end.
+
+=== 0 T
+From: 23376
+
+Six Flags: Fright Fest tickets from $39.99 this weekend only! Reply STOP to unsubscribe.
+
+=== 0 T
+From: 89366
+
+Valpo Admission: Hi Ella! Apply free at valpo.edu/apply and you'll be considered for scholarships up to full tuition. Reply STOP to opt out.
+
+=== 0 T
+From: +1 (217) 555-0191
+
+Hi Jordan! It's Ana from Illinois Admissions. Just checking you got our email about the CS info session on Nov 10. Let me know if you have any questions! Reply STOP to opt out.
+
+=== 0 T
+From: 30903
+
+FAFSA: Your 2027-28 FAFSA has been processed. Log in at StudentAid.gov to view your FAFSA Submission Summary.
+
+=== 0 T
+From: 22722
+
+College Board: Your SAT scores are available. Sign in at studentscores.collegeboard.org.
+
+=== 0 T
+From: 75521
+
+Canvas: Assignment "Unit 4 FRQ Practice" is due tomorrow at 11:59pm.
+
+=== 0 T
+From: 41413
+
+Riverton Schools Attendance: Your student was marked absent for period 3 today. Call the attendance office with questions.
+
+=== 0 T
+From: 70744
+
+Riverton Park District: Youth basketball registration closes Friday. Register at crystallakeparks.org.
+
+=== 0 T
+From: +1 (815) 555-0128
+
+Bridge test went great today!! Held 14kg. See you at practice tomorrow - Mr. Kim
+
+=== 0 T
+From: +1 (847) 555-0116
+
+ok I'm outside, white car
+
+=== 0 T
+From: +1 (224) 555-0102
+
+did u finish the calc hw? I'm stuck on #14
+
+=== 0 T
+From: +1 (630) 555-0145
+
+Happy birthday!! Hope you have the best day 🎉 Love, Aunt Kate
+
+=== 0 T
+From: +1 (847) 555-0164
+
+Hey it's Megan from Starlight Lanes, can you cover a shift Saturday 2-8? Let me know by tonight
+
+=== 0 T
+From: +1 (312) 555-0187
+
+Your Lyft driver Derek has arrived.
+
+=== 0 T
+From: 72000
+
+Metra Alert: UP-NW inbound train 610 is running 15 min late.
+
+=== 0 T
+From: 225-63
+
+Advocate: Reminder - your flu shot appointment is Thu 10/22 at 4:15 PM. Reply C to confirm.
+
+=== 0 T
+From: 66399
+
+Walgreens: Your flu shot is ready to schedule. Book at walgreens.com/flu. Reply STOP to opt out.
+
+=== 0 T
+From: 98766
+
+Tesla: Your service appointment is confirmed for Wed 10/28 at 10:00 AM.
+
+# ------------------------------------------ scams ------------------------------------------
+
+=== 1 T
+From: +1 (415) 555-0174
+
+Toll Services: Your vehicle has an unpaid toll of $11.69. Avoid a late fee by paying today at tollpay-il.com
+
+=== 1 T
+From: +1 (628) 555-0157
+
+The USPS package has arrived at the warehouse and cannot be delivered due to incomplete address information. Please confirm here: usps.com-tracking-us.top
+
+=== 1 T
+From: lkdjs83@gmail.com
+
+Your PayPal account has been limited. Log in to restore access: paypal-resolution-desk.com
+
+=== 1 T
+From: +1 (747) 555-0120
+
+Mom, I'm using my friend's phone. I got into a car accident and I need $1,200 for the tow and repairs. Please don't tell dad. Can you Zelle it now?
+
+=== 1 T
+From: +1 (628) 555-0135
+
+Hi, I'm Sophia. I got your number from a mutual friend. Are you still interested in the remote job? It's $50/hr and only takes 1 hour a day
+
+=== 1 T
+From: +1 (530) 555-0193
+
+[Amazon] Your Prime membership has expired. To avoid losing benefits, renew now: amazon-prime-renew.top
+
+=== 1 T
+From: +1 (470) 555-0108
+
+Your Apple ID has been locked due to suspicious activity. Unlock it at appleid-unlock-verify.com
+
+=== 1 T
+From: +1 (313) 555-0124
+
+Netflix: We're unable to process your payment. Update your details to avoid suspension: netflix-billing-update.co
+
+=== 1 T
+From: +1 (626) 555-0142
+
+Your package from Temu is delayed. Pay a $1.25 shipping adjustment to release it: temu-ship-fee.com
+
+=== 1 T
+From: +1 (909) 555-0119
+
+Congratulations! You won the Walmart weekly raffle! Claim your $500 gift card: walmart-raffle-winner.com
+
+=== 1 T
+From: +1 (325) 555-0137
+
+You've been approved for a $5,000 personal loan, no credit check! Pay the $99 insurance fee to receive the funds today.
+
+=== 1 T
+From: +1 (813) 555-0176
+
+Your Social Security benefits will be suspended. Call 1-202-555-0143 today to avoid losing payments.
+
+=== 1 T
+From: +1 (689) 555-0110
+
+IRS: You owe $1,820 in back taxes. A warrant will be issued unless you pay today with a prepaid card. Call 1-202-555-0177.
+
+=== 1 T
+From: +1 (402) 555-0161
+
+Your Bank of America card has been locked. Call 1-844-555-0130 and have your card number and PIN ready.
+
+=== 1 T
+From: +1 (754) 555-0109
+
+Hi it's Principal Hendricks, I need a quick favor before the staff meeting. Can you buy 4 Apple gift cards and text me the codes? I'll pay you back.
+
+=== 1 T
+From: +1 (502) 555-0155
+
+Your Starlight Lanes paycheck is on hold. Verify your direct deposit at starlight-payroll-portal.com to release it.
+
+=== 1 T
+From: +1 (720) 555-0132
+
+Your scholarship of $2,500 was approved! Send a $50 processing fee by Cash App to $ScholarshipOffice to receive it.
+
+=== 1 T
+From: +1 (269) 555-0181
+
+Hi, this is the FAFSA office. Your student aid is on hold. Text back your FSA ID and password to release it.
+
+=== 1 T
+From: +1 (661) 555-0118
+
+Your Spectrum internet will be disconnected tonight. Call 1-866-555-0161 to pay your past due balance with a gift card.
+
+=== 1 T
+From: +1 (301) 555-0153
+
+Hi, I'm interested in the item you posted. I'll send a Zelle payment but I need you to verify with the code I'm sending you. Can you text it back?
+
+=== 1 T
+From: +1 (813) 555-0144
+
+Ur Steam acc has been reported. Contact Valve support on Discord within 1hr or ur account will be banned: steam-support-team.com
+
+=== 1 T
+From: +1 (657) 555-0120
+
+Hey! Long time no see. I made $15,000 last month trading crypto with an expert, want me to introduce you?
+
+=== 1 T
+From: +1 (504) 555-0177
+
+ALERT: Your Venmo account was accessed from a new device. If this wasn't you, verify at venmo-secure-login.com
+
+=== 1 T
+From: +1 (928) 555-0166
+
+Your car's extended warranty is about to expire. Reply YES to speak with an agent and renew today.
+
+=== 1 T
+From: +1 (754) 555-0181
+
+You have a new voicemail. Listen here: vm-msg-center.com/listen/4471
+
+=== 1 T
+From: +1 (346) 555-0170
+
+Your DMV record shows an unpaid traffic ticket. Pay now to avoid license suspension: il-dmv-payment.com
+
+=== 1 T
+From: +1 (614) 555-0129
+
+Hello, your Coinbase wallet needs to be verified. Reply with your 12-word recovery phrase to keep your funds safe.
+
+=== 1 T
+From: +1 (229) 555-0190
+
+You were selected for a $750 Cash App reward! Claim it now: cashapp-reward-claim.com
+
+=== 1 T
+From: +1 (863) 555-0103
+
+Hi Jordan, this is Mr. Patel. I'm stuck at a conference and need you to grab some gift cards for the CS club. I'll pay you back Monday. Text me the codes.

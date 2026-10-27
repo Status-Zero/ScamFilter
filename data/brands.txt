@@ -1,0 +1,62 @@
+# Brands scammers impersonate: a keyword, then the brand's official domains (comma-separated).
+# Used for display-name checks ("PayPal Support" <x@gmail.com>) and look-alike domain checks.
+#
+# Format:   keyword|Name to show   domain1, domain2, ...
+#   - the keyword is what's searched for: lowercase letters and digits only
+#   - the name after | is how the app writes the brand ("PayPal", not "paypal"); optional
+#
+# Rules:
+#   - keywords with 6+ letters match anywhere in a domain ("paypal" in "paypal-secure.com")
+#   - keywords with 5 or fewer letters must match a whole piece between dots/dashes
+#     ("ups" matches "ups-track.com" but not "groups.com"); add variants like "appleid" when needed
+#   - a brand's name on a major country domain (amazon.de, google.co.uk) counts as official,
+#     so those don't need listing
+#   - never list a free-mail domain (gmail.com, outlook.com, icloud.com...) as official:
+#     anyone can make an address there
+
+paypal|PayPal               paypal.com, paypal.me, paypalobjects.com
+amazon|Amazon               amazon.com, amazonaws.com, amazon.jobs, amazonpay.com, a2z.com, amazon.dev
+apple|Apple                 apple.com, apple.news
+appleid|Apple               apple.com
+icloud|Apple                apple.com
+microsoft|Microsoft         microsoft.com, microsoftonline.com, office.com, office365.com, microsoft365.com, sharepoint.com, onedrive.com, azure.com, windows.com, bing.com, xbox.com, msauth.net, msftauth.net, live.net
+outlook|Microsoft Outlook   microsoft.com, office.com, office365.com
+google|Google               google.com, youtube.com, googleusercontent.com, googleapis.com, gstatic.com, withgoogle.com, goo.gl
+gmail|Google                google.com
+netflix|Netflix             netflix.com, netflix.net
+usps|USPS                   usps.com
+ups|UPS                     ups.com
+fedex|FedEx                 fedex.com
+dhl|DHL                     dhl.com
+chase|Chase                 chase.com, jpmorganchase.com, jpmorgan.com
+wellsfargo|Wells Fargo      wellsfargo.com, wf.com
+bankofamerica|Bank of America   bankofamerica.com, bofa.com
+citi|Citi                   citi.com, citibank.com
+capitalone|Capital One      capitalone.com
+venmo|Venmo                 venmo.com
+cashapp|Cash App            cash.app, squareup.com, square.com
+zelle|Zelle                 zellepay.com
+coinbase|Coinbase           coinbase.com
+binance|Binance             binance.com, binance.us
+irs|the IRS                 irs.gov
+ssa|Social Security         ssa.gov
+walmart|Walmart             walmart.com
+costco|Costco               costco.com
+bestbuy|Best Buy            bestbuy.com
+geeksquad|Geek Squad        geeksquad.com, bestbuy.com
+norton|Norton               norton.com, nortonlifelock.com, gen.com
+mcafee|McAfee               mcafee.com
+docusign|DocuSign           docusign.com, docusign.net
+dropbox|Dropbox             dropbox.com, dropboxusercontent.com
+facebook|Facebook           facebook.com, facebookmail.com, fb.com, fb.me, meta.com, fbcdn.net
+instagram|Instagram         instagram.com, facebookmail.com, cdninstagram.com
+whatsapp|WhatsApp           whatsapp.com, whatsapp.net
+discord|Discord             discord.com, discord.gg, discordapp.com, discordapp.net, discord.media
+steam|Steam                 steampowered.com, steamcommunity.com, steamstatic.com, valvesoftware.com
+roblox|Roblox               roblox.com, rbxcdn.com
+spotify|Spotify             spotify.com, scdn.co, spotify.link
+ezpass|E-ZPass              e-zpassny.com, ezpassnj.com, e-zpassiag.com, ezpassva.com, ezpassmd.com, ezpassde.com, ezpassma.com
+sunpass|SunPass             sunpass.com
+ipass|I-PASS                getipass.com, illinoistollway.com
+txtag|TxTag                 txtag.org
+fastrak|FasTrak             bayareafastrak.org, thetollroads.com

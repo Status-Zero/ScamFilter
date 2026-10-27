@@ -1,0 +1,67 @@
+<!--
+  Asks for an account's password (or a Microsoft sign-in) before something that changes
+  protection: trusting a sender, unblocking, changing alerts, switching to that account.
+  Also handles "Forgot your password?" with the recovery code.
+-->
+<Window x:Class="ScamFilter.Desktop.UnlockDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Unlock ScamFilter" Width="460" SizeToContent="Height"
+        WindowStartupLocation="CenterOwner" ResizeMode="NoResize" ShowInTaskbar="False"
+        Background="{StaticResource SurfaceBrush}" FontFamily="{StaticResource UiFont}" FontSize="14"
+        Foreground="{StaticResource TextBrush}" TextOptions.TextFormattingMode="Display" UseLayoutRounding="True">
+    <StackPanel Margin="28,24,28,22">
+        <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+            <TextBlock FontFamily="{StaticResource IconFont}" FontSize="22" Text="&#xE72E;" Foreground="{StaticResource AccentBrush}"
+                       VerticalAlignment="Center" Margin="0,0,12,0" />
+            <TextBlock x:Name="Heading" FontFamily="{StaticResource DisplayFont}" FontSize="20" FontWeight="SemiBold"
+                       VerticalAlignment="Center" />
+        </StackPanel>
+        <TextBlock x:Name="PurposeText" Style="{StaticResource BodyText}" Foreground="{StaticResource TextSecondaryBrush}" Margin="0,0,0,14" />
+
+        <!-- ===== Password ===== -->
+        <StackPanel x:Name="PasswordPanel">
+            <TextBlock Style="{StaticResource FieldLabel}" Margin="0,0,0,5" Text="Password" />
+            <PasswordBox x:Name="PasswordInput" KeyDown="PasswordInput_KeyDown" />
+            <TextBlock x:Name="PasswordStatus" Style="{StaticResource Caption}" Foreground="{StaticResource UnsafeBrush}" Margin="0,6,0,0" />
+            <WrapPanel Margin="0,16,0,0">
+                <Button x:Name="UnlockButton" Style="{StaticResource PrimaryButton}" Content="Unlock" Click="Unlock_Click" IsDefault="True" />
+                <Button Content="Cancel" Click="Cancel_Click" IsCancel="True" />
+            </WrapPanel>
+            <StackPanel Orientation="Horizontal" Margin="0,4,0,0">
+                <Button x:Name="UseMicrosoftLink" Style="{StaticResource LinkButton}" Content="Use my Microsoft account instead"
+                        Click="UseMicrosoft_Click" Margin="0,0,18,0" />
+                <Button x:Name="ForgotLink" Style="{StaticResource LinkButton}" Content="Forgot your password?" Click="Forgot_Click" />
+            </StackPanel>
+        </StackPanel>
+
+        <!-- ===== Microsoft ===== -->
+        <StackPanel x:Name="MicrosoftPanel" Visibility="Collapsed">
+            <TextBlock x:Name="MicrosoftText" Style="{StaticResource BodyText}" Margin="0,0,0,14" />
+            <WrapPanel>
+                <Button x:Name="MicrosoftButton" Style="{StaticResource PrimaryButton}" Content="Continue with Microsoft" Click="Microsoft_Click" />
+                <Button Content="Cancel" Click="Cancel_Click" />
+            </WrapPanel>
+            <TextBlock x:Name="MicrosoftStatus" Style="{StaticResource Caption}" Margin="0,4,0,0" />
+            <Button x:Name="UsePasswordLink" Style="{StaticResource LinkButton}" Content="Use my password instead"
+                    HorizontalAlignment="Left" Margin="0,6,0,0" Click="UsePassword_Click" />
+        </StackPanel>
+
+        <!-- ===== Recovery code ===== -->
+        <StackPanel x:Name="RecoveryPanel" Visibility="Collapsed">
+            <TextBlock Style="{StaticResource BodyText}" Margin="0,0,0,4"
+                       Text="Type the recovery code you saved when you made your password, then pick a new password." />
+            <TextBlock Style="{StaticResource FieldLabel}" Text="Recovery code" />
+            <TextBox x:Name="RecoveryInput" FontFamily="{StaticResource CodeFont}" Tag="XXXX-XXXX-XXXX-XXXX" CharacterCasing="Upper" />
+            <TextBlock Style="{StaticResource FieldLabel}" Text="New password" />
+            <PasswordBox x:Name="NewPassword" />
+            <TextBlock Style="{StaticResource FieldLabel}" Text="Type it again" />
+            <PasswordBox x:Name="NewPasswordAgain" />
+            <TextBlock x:Name="RecoveryStatus" Style="{StaticResource Caption}" Foreground="{StaticResource UnsafeBrush}" Margin="0,6,0,0" />
+            <WrapPanel Margin="0,16,0,0">
+                <Button x:Name="ResetButton" Style="{StaticResource PrimaryButton}" Content="Set new password" Click="Reset_Click" />
+                <Button Content="Back" Click="BackToPassword_Click" />
+            </WrapPanel>
+        </StackPanel>
+    </StackPanel>
+</Window>

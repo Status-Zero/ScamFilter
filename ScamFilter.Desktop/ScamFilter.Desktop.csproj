@@ -1,0 +1,58 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!--
+    The Windows desktop app (WPF). Builds ScamFilter.exe.
+
+    The Windows-specific target framework (net10.0-windows10.0.17763.0) is what gives the
+    app direct access to Windows' own features, like the built-in text recognition (OCR)
+    used to read screenshots. 17763 = Windows 10 version 1809, so it runs on any Windows 10
+    or 11 that's still getting updates. (Don't raise it to 19041 or later: a library that
+    MsgReader uses would then pull in the whole Windows App SDK, which breaks the single .exe.)
+
+    Publishing (see build-exe.cmd) makes ONE self-contained .exe: .NET itself is packed
+    inside, so it runs on PCs that don't have .NET installed.
+  -->
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows10.0.17763.0</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <!-- lets this Windows project build on other operating systems too (used for CI) -->
+    <EnableWindowsTargeting>true</EnableWindowsTargeting>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <RootNamespace>ScamFilter.Desktop</RootNamespace>
+    <AssemblyName>ScamFilter</AssemblyName>
+    <ApplicationIcon>Assets\ScamFilter.ico</ApplicationIcon>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <Product>ScamFilter</Product>
+    <Version>1.5.4</Version>
+
+    <!-- One self-contained .exe when published -->
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <SelfContained>true</SelfContained>
+    <PublishSingleFile>true</PublishSingleFile>
+    <IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
+    <EnableCompressionInSingleFile>true</EnableCompressionInSingleFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ScamFilter.Core\ScamFilter.Core.csproj" />
+  </ItemGroup>
+
+  <!--
+    Microsoft's sign-in library (MSAL), for linking an Outlook account. It handles the
+    "Sign in with Microsoft" page and keeps the sign-in fresh. The Extensions package stores
+    the sign-in on disk encrypted with Windows' own data protection (DPAPI), so only your
+    Windows account on this PC can read it.
+  -->
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Identity.Client" Version="4.91.1" />
+    <PackageReference Include="Microsoft.Identity.Client.Extensions.Msal" Version="4.91.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\ScamFilter.ico" />
+    <Resource Include="Assets\ScamFilterLogo.png" />
+  </ItemGroup>
+
+</Project>

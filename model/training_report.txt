@@ -1,0 +1,150 @@
+Trained 2026-10-26 22:14
+=== Training the scam model ===
+Loaded 19152 records from data/records.jsonl (0 unlabeled, skipped)
+Near-duplicate groups: 18129 records in 15078 groups (each group stays on one side of the split)
+Training-only examples (seed_modern, seed_variety): 840, each counted 3 times
+  train      15618 records  (4843 scam, 10775 not scam; 0 OCR)
+  validation  2311 records  (679 scam, 1632 not scam; 0 OCR)
+  test        2720 records  (800 scam, 1920 not scam; 0 OCR)
+  held out     183 records  (77 scam, 106 not scam; 13 OCR)
+Added 6219 simulated-OCR copies to the training set
+Vocabulary: 150000 n-grams (min df 3, sublinear tf, email/text copies)
+
+Training: 21837 examples, 150000 text features, 20 metadata flags (frozen)
+  epoch  1 | train loss 0.1067 | val loss 0.0643  *
+  epoch  2 | train loss 0.0342 | val loss 0.0633  *
+  epoch  3 | train loss 0.0224 | val loss 0.0616  *
+  epoch  4 | train loss 0.0175 | val loss 0.0602  *
+  epoch  5 | train loss 0.0148 | val loss 0.0594  *
+  epoch  6 | train loss 0.0131 | val loss 0.0612
+  epoch  7 | train loss 0.0121 | val loss 0.0603
+  epoch  8 | train loss 0.0112 | val loss 0.0637
+  epoch  9 | train loss 0.0107 | val loss 0.0604
+  epoch 10 | train loss 0.0102 | val loss 0.0603
+  stopping early: no validation improvement for 5 epochs
+Kept the weights from epoch 5 (* = best so far)
+
+Thresholds (picked on validation):
+  t_high = 0.9711   (precision 95.9% at a 5% scam rate, target 95%; recall 82.3%)
+  t_low  = 0.1872   (recall 98.1%, target 98%)
+  2.8% of legit validation messages land in CAUTION
+
+=== Test set report (a random 15% the model never trained on) ===
+2720 records (800 scams, 1920 not scams)
+Log loss: 0.0595    AUC: 0.9973
+
+                 SAFE  CAUTION  UNSAFE
+  true scam         8      115     677
+  true legit     1831       86       3
+
+Accuracy: 95.37%  (UNSAFE counted as scam; SAFE and CAUTION as not)
+Accuracy at a 50% cut-off: 98.01%
+At t_high: TP 677  FP 3  FN 123  TN 1917
+  recall 84.6%   precision 99.6% on this set,  96.6% at a 5% real-world scam rate
+
+By message type (accuracy at a 50% cut-off):
+  texts     815 messages   97.30% right   (22 wrong: 6 scams missed, 16 legit flagged)
+  emails   1905 messages   98.32% right   (32 wrong: 17 scams missed, 15 legit flagged)
+
+By source (scams caught = not SAFE,  legit cleared = SAFE):
+  clair_fraud      scams caught 191/191    legit cleared 1/1
+  sms_mendeley     scams caught 56/57      legit cleared 719/758
+  nazario_2024     scams caught 35/35      legit cleared 0/0
+  phishing_pot     scams caught 294/300    legit cleared 48/66
+  nazario_2023     scams caught 68/69      legit cleared 0/0
+  nazario_2025     scams caught 47/47      legit cleared 0/0
+  nazario_2020     scams caught 27/27      legit cleared 0/0
+  nazario_2021     scams caught 12/12      legit cleared 0/0
+  nazario_2022     scams caught 37/37      legit cleared 0/0
+  nazario_2019     scams caught 25/25      legit cleared 0/0
+  sa_easy_ham_2    scams caught 0/0        legit cleared 178/183
+  sa_easy_ham      scams caught 0/0        legit cleared 370/375
+  sa_hard_ham      scams caught 0/0        legit cleared 41/44
+  asf_lists        scams caught 0/0        legit cleared 261/268
+  trec07_ham       scams caught 0/0        legit cleared 213/225
+
+By channel (scams caught = not SAFE,  legit cleared = SAFE):
+  raw      scams caught 792/800   legit cleared 1831/1920
+
+Scams that came out SAFE (worst error):
+  p=0.009  See What Everyone's Whispering About: Energy's Future Hello , Welcome ...
+  p=0.042  The Ultimate Tool Reward: Ready for the Unveil? Hello , Welcome to Con...
+  p=0.101  Trinity Ham Accounts with a balance of +11,765$ will be blocked! Harry...
+  p=0.071  The accelerator program
+  p=0.081  【重要】ビューカードご利用確認 このたび、ご本人様のご利用かどうかを確認させていただきたいお取引がありましたので、誠に勝手ながら、カードのご...
+  p=0.046  Scan your device to protect your assets Scan your device to protect yo...
+  p=0.119  Congrats! 1 year special cinema pass for 2 is yours. call 09061209467 ...
+  p=0.050  Settings Complaints Reference Post a review
+
+Legit messages that came out UNSAFE:
+  p=1.000  Kinguin’s Inactive Accounts Policy Update Hi you@example.com We are wr...
+  p=0.994  In re FTX Trading Ltd., et al, Case No. 22-11068, U.S. Bankruptcy Cour...
+  p=0.999  Worley Email Blast: Subscription Confirmed Your subscription to our li...
+
+=== Generalization check (whole sources never used in training: smoke_main, smoke_holdout, seed_variety_check) ===
+183 records (77 scams, 106 not scams)
+Log loss: 0.2441    AUC: 0.9738
+
+                 SAFE  CAUTION  UNSAFE
+  true scam         2       21      54
+  true legit       82       23       1
+
+Accuracy: 86.89%  (UNSAFE counted as scam; SAFE and CAUTION as not)
+Accuracy at a 50% cut-off: 89.07%
+At t_high: TP 54  FP 1  FN 23  TN 105
+  recall 70.1%   precision 98.2% on this set,  79.6% at a 5% real-world scam rate
+
+By message type (accuracy at a 50% cut-off):
+  texts      84 messages   91.67% right   (7 wrong: 6 scams missed, 1 legit flagged)
+  emails     99 messages   86.87% right   (13 wrong: 2 scams missed, 11 legit flagged)
+
+By source (scams caught = not SAFE,  legit cleared = SAFE):
+  smoke_main       scams caught 25/26      legit cleared 26/29
+  smoke_holdout    scams caught 7/7        legit cleared 6/7
+  seed_variety_check scams caught 43/44      legit cleared 50/70
+
+By channel (scams caught = not SAFE,  legit cleared = SAFE):
+  raw      scams caught 68/70   legit cleared 76/100
+  ocr      scams caught 7/7   legit cleared 6/6
+
+Scams that came out SAFE (worst error):
+  p=0.153  Hi, is this Mark? It's Jessica, we met at the wine tasting last weeken...
+  p=0.089  Your voter registration was cancelled. Re-register now: voter-registra...
+
+Legit messages that came out UNSAFE:
+  p=0.972  Payment confirmation We received your payment of $118.40 for policy AO...
+
+Top text features pushing toward SCAM:
+  +4.483  text piece "000" (texts only)
+  +4.367  text piece "00000"
+  +4.244  word "$" (texts only)
+  +3.931  phrase "0 000"
+  +3.878  phrase "$ 0" (texts only)
+  +3.802  text piece "_000_" (texts only)
+  +3.802  word "000" (texts only)
+  +3.783  text piece "_clai"
+  +3.780  word "!" (emails only)
+  +3.767  text piece "_pay"
+  +3.766  text piece "_000_"
+  +3.766  word "000"
+  +3.732  text piece "laim_"
+  +3.719  text piece "aim_"
+  +3.657  text piece "clai"
+Top text features pushing toward NOT SCAM:
+  -3.683  word "000000" (texts only)
+  -3.625  phrase "ending in"
+  -3.551  phrase "00 00"
+  -3.419  text piece "at_" (texts only)
+  -3.358  word "ending"
+  -3.253  text piece "_endi"
+  -3.253  phrase "ending in" (emails only)
+  -3.236  word "i" (texts only)
+  -3.236  text piece "_i_" (texts only)
+  -3.190  phrase "00 00" (emails only)
+  -3.057  word "ending" (emails only)
+  -2.952  text piece "_endi" (emails only)
+  -2.935  word "00000" (texts only)
+  -2.916  text piece "ts_" (texts only)
+  -2.811  phrase "your google"
+
+Saved model/scam_model.txt  (30.8 s)

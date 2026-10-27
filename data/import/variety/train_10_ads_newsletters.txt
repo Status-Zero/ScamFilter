@@ -1,0 +1,525 @@
+# Training set 10: more ads, newsletters, college marketing and event invitations,
+# plus scam offers that use the same tone (fake shops, fake jobs, fake giveaways, fake investing).
+
+=== 0 E
+From: Gap <gap@email.gap.com>
+Subject: Up to 60% off + an extra 10% for Rewards members
+
+The fall sale is ON. Up to 60% off denim, hoodies and outerwear.
+
+Gap Good Rewards members get an extra 10% off with code GAPGOOD.
+
+[Shop the sale](https://www.gap.com/browse/sale)
+
+Unsubscribe | Gap Inc., 2 Folsom Street, San Francisco, CA 94105
+
+=== 0 E
+From: H&M <hm@email.hm.com>
+Subject: Members: 20% off your next purchase
+
+Your member offer is here: 20% off your next purchase online or in store. Valid through Sunday.
+
+[Shop now](https://www2.hm.com/en_us)
+
+Unsubscribe
+
+=== 0 E
+From: Under Armour <underarmour@email.underarmour.com>
+Subject: Cold weather gear is here
+
+ColdGear base layers, fleece and jackets to keep you training all winter.
+
+[Shop ColdGear](https://www.underarmour.com/en-us/c/coldgear/)
+
+Unsubscribe | Under Armour, 1020 Hull Street, Baltimore, MD 21230
+
+=== 0 E
+From: Patagonia <patagonia@email.patagonia.com>
+Subject: Repair, don't replace
+
+Worn Wear: get your Patagonia gear repaired, or trade it in for credit toward used gear.
+
+[Learn more](https://wornwear.patagonia.com)
+
+Unsubscribe | Patagonia, Inc., 259 W. Santa Clara Street, Ventura, CA 93001
+
+=== 0 E
+From: JCPenney <jcpenney@e.jcpenney.com>
+Subject: $10 off $25: this weekend only
+
+Take $10 off your $25+ purchase with coupon FALL10. In store and online through Sunday.
+
+[Shop now](https://www.jcpenney.com)
+
+Exclusions apply. Unsubscribe.
+
+=== 0 E
+From: Dick's Sporting Goods <dicks@e.dcsg.com>
+Subject: ScoreCard members: double points on running shoes
+
+Earn double ScoreCard points on running shoes from Brooks, Hoka and ASICS this week.
+
+[Shop running](https://www.dickssportinggoods.com/f/running-shoes)
+
+Unsubscribe | DICK'S Sporting Goods, 345 Court Street, Coraopolis, PA 15108
+
+=== 0 E
+From: GameStop <gamestop@emails.gamestop.com>
+Subject: Trade in 2 games, get the 3rd credit free
+
+Pro members: trade in any two games and get credit for a third, free. In stores this weekend.
+
+[See details](https://www.gamestop.com/trade)
+
+Unsubscribe
+
+=== 0 E
+From: Micro Center <microcenter@microcenter.com>
+Subject: This week's Insider deals
+
+Ryzen 7 9700X - $279.99 (in store only)
+Samsung 990 Pro 2TB - $149.99
+RTX 5060 Ti 16GB - $429.99
+
+Prices valid in store at Westmont through Sunday.
+
+Unsubscribe
+
+=== 0 E
+From: Newegg <newegg@newsletter.newegg.com>
+Subject: Shell Shocker: today only
+
+Today's Shell Shocker deals are live. Limited quantities at these prices.
+
+[Shop Shell Shocker](https://www.newegg.com/d/Shell-Shocker)
+
+Unsubscribe | Newegg Inc., 17560 Rowland Street, City of Industry, CA 91748
+
+=== 0 E
+From: Samsung <samsung@email.samsung.com>
+Subject: Trade in your phone, save up to $700 on Galaxy
+
+Get up to $700 instant trade-in credit toward a new Galaxy S26 Ultra. Students save an extra 10% with the Education Offer Program.
+
+[Shop Galaxy](https://www.samsung.com/us/smartphones/)
+
+Unsubscribe
+
+=== 0 E
+From: Lenovo <lenovo@email.lenovo.com>
+Subject: Legion gaming laptops from $899
+
+Power up with Legion: up to 30% off select gaming laptops this week.
+
+[Shop Legion](https://www.lenovo.com/us/en/legion/)
+
+Unsubscribe | Lenovo, 8001 Development Drive, Morrisville, NC 27560
+
+=== 0 E
+From: Chipotle <chipotle@email.chipotle.com>
+Subject: Extras unlocked: your Chipotle challenge
+
+Order 3 times this month to unlock 50 bonus points in Chipotle Rewards.
+
+[Order now](https://www.chipotle.com/order)
+
+Unsubscribe
+
+=== 0 E
+From: Culver's <culvers@email.culvers.com>
+Subject: Flavor of the Day: Turtle
+
+Today's Flavor of the Day at Culver's of Riverton: Turtle. Vanilla custard with caramel, fudge and pecans.
+
+Unsubscribe from Flavor of the Day emails.
+
+=== 0 E
+From: Portillo's <portillos@email.portillos.com>
+Subject: Free chocolate cake slice with your order 🎂
+
+Portillo's Perks members: get a free slice of chocolate cake with any $15 order through Sunday.
+
+[Order now](https://www.portillos.com)
+
+Unsubscribe
+
+=== 0 E
+From: Six Flags Great America <greatamerica@email.sixflags.com>
+Subject: Fright Fest weekends: tickets from $39.99
+
+Fright Fest is back! Haunted houses, scare zones and the coasters you love. Buy online and save.
+
+[Get tickets](https://www.sixflags.com/greatamerica)
+
+Unsubscribe
+
+=== 0 E
+From: AMC Stubs <amc@email.amctheatres.com>
+Subject: Discount Tuesdays: 50% off tickets
+
+AMC Stubs members save 50% on tickets every Tuesday.
+
+Unsubscribe
+
+=== 0 E
+From: Ticketmaster <tm@email.ticketmaster.com>
+Subject: Presale for Fall Out Boy at the United Center starts Thursday
+
+Verified Fan presale starts Thursday at 10am CT. Registration is open now.
+
+[Register](https://www.ticketmaster.com/verified-fan)
+
+Unsubscribe
+
+=== 0 E
+From: Chicago Bulls <bulls@email.nba.com>
+Subject: Student Rush: $15 tickets for select games
+
+Students: get $15 tickets to select Bulls home games with a valid student ID. Limit 2 per student.
+
+[Learn more](https://www.nba.com/bulls/tickets/student)
+
+Unsubscribe
+
+=== 0 E
+From: Brooks Running <brooks@email.brooksrunning.com>
+Subject: Meet the Ghost 18
+
+Smooth transitions, soft landings. The Ghost 18 is here.
+
+[Shop Ghost 18](https://www.brooksrunning.com)
+
+Unsubscribe | Brooks Sports, 3400 Stone Way N, Seattle, WA 98103
+
+=== 0 E
+From: Hollister <hollister@email.hollisterco.com>
+Subject: BOGO 50% off hoodies
+
+Buy one hoodie, get one 50% off. In store and online.
+
+Unsubscribe
+
+=== 0 E
+From: Etsy <etsy@mail.etsy.com>
+Subject: Gifts they'll love, picked for you
+
+Personalized gifts, handmade decor and one-of-a-kind finds for everyone on your list.
+
+[Start shopping](https://www.etsy.com)
+
+Unsubscribe | Etsy, Inc., 117 Adams Street, Brooklyn, NY 11201
+
+=== 0 E
+From: Amazon.com <store-news@amazon.com>
+Subject: Deals on items you viewed
+
+Hi Riley, items you viewed are on sale:
+
+Anker Power Bank 10000mAh - $19.99 (save 33%)
+Logitech MX Keys Mini - $79.99 (save 20%)
+
+[See deals](https://www.amazon.com/gp/goldbox)
+
+Unsubscribe from these emails.
+
+=== 0 E
+From: Coursera <no-reply@m.mail.coursera.org>
+Subject: 40% off Coursera Plus - this week only
+
+Learn anything with 7,000+ courses and certificates. Save 40% on a year of Coursera Plus.
+
+[Get Coursera Plus](https://www.coursera.org/courseraplus)
+
+Unsubscribe
+
+=== 0 E
+From: Codecademy <hello@codecademy.com>
+Subject: Your learning streak is waiting
+
+You were on a 6-day streak! Pick up where you left off in "Learn Java".
+
+[Resume learning](https://www.codecademy.com/learn)
+
+Unsubscribe
+
+=== 0 E
+From: LeetCode <no-reply@leetcode.com>
+Subject: Weekly Contest 470 starts Sunday
+
+Weekly Contest 470 begins Sunday at 9:30 AM CT. Register now and compete with coders worldwide.
+
+=== 0 E
+From: JetBrains <marketing@jetbrains.com>
+Subject: Free JetBrains IDEs for students - renew your license
+
+Your free educational license for JetBrains IDEs expires in 30 days. Renew for free with your school email.
+
+[Renew license](https://www.jetbrains.com/shop/eform/students)
+
+Unsubscribe
+
+=== 0 E
+From: GitHub Education <noreply@github.com>
+Subject: You're approved for the GitHub Student Developer Pack
+
+Congratulations! Your application for GitHub Education benefits has been approved. You now have access to Copilot and partner offers.
+
+=== 0 E
+From: Hack Club <team@hackclub.com>
+Subject: You're invited: Hack Night this Friday
+
+Come build something with us this Friday at 6 PM. Snacks provided. All skill levels welcome.
+
+=== 0 E
+From: University of Michigan <admissions@umich.edu>
+Subject: Discover Michigan Engineering
+
+Hi Jordan,
+
+Michigan Engineering students build solar cars, rockets and robots, and our Computer Science program is consistently ranked among the best in the nation.
+
+[Explore programs](https://admissions.umich.edu/explore)
+
+Office of Undergraduate Admissions, 1220 Student Activities Building, Ann Arbor, MI 48109. Unsubscribe
+
+=== 0 E
+From: Valparaiso University <undergrad.admission@valpo.edu>
+Subject: You're a great fit for Valpo
+
+Hi Ella,
+
+Based on your interests, we think you'd love Valpo's College of Engineering. Every admitted student is considered for scholarships up to full tuition.
+
+[Apply free](https://www.valpo.edu/apply)
+
+Valparaiso University, 1700 Chapel Drive, Valparaiso, IN 46383. Unsubscribe
+
+=== 0 E
+From: Augustana College <admissions@augustana.edu>
+Subject: Visit Augie this fall
+
+Hi Noah, schedule a personal visit to Augustana and we'll waive your application fee.
+
+[Schedule a visit](https://www.augustana.edu/visit)
+
+Augustana College, 639 38th Street, Rock Island, IL 61201. Unsubscribe
+
+=== 0 E
+From: Knox College <admission@knox.edu>
+Subject: Test-optional, essay-optional, fee-free
+
+Hi Hannah,
+
+Applying to Knox is easy: no fee, and you choose whether to send test scores. Our Early Action deadline is November 1.
+
+Knox College, 2 E South Street, Galesburg, IL 61401. Unsubscribe
+
+=== 0 E
+From: Carnegie Mellon University <admission@andrew.cmu.edu>
+Subject: Summer programs at CMU
+
+Explore pre-college programs in computer science, AI and robotics this summer at Carnegie Mellon. Applications open in December.
+
+Unsubscribe
+
+=== 0 E
+From: Northwestern University <ug-admission@northwestern.edu>
+Subject: Northwestern virtual information session
+
+Join an admission officer and current students for a virtual information session. Learn about academics, campus life and financial aid.
+
+[Register](https://admissions.northwestern.edu/visit)
+
+Northwestern University Office of Undergraduate Admission, 1801 Hinman Avenue, Evanston, IL 60208. Unsubscribe
+
+=== 0 E
+From: Scholarships.com <noreply@scholarships.com>
+Subject: New scholarships with November deadlines
+
+Here are scholarships closing in November that match your profile. Remember: you should never have to pay to apply for a scholarship.
+
+[See scholarships](https://www.scholarships.com)
+
+Unsubscribe
+
+=== 0 E
+From: Bold.org <hello@bold.org>
+Subject: 3 no-essay scholarships closing this week
+
+Apply to these no-essay scholarships before they close: the Bold Pursuit Scholarship, the Bold Science Scholarship, and the Bold Kindness Scholarship. Applying is free.
+
+Unsubscribe
+
+=== 0 E
+From: CollegeVine <hello@collegevine.com>
+Subject: Your chancing results were updated
+
+Your admissions chances were updated for 8 schools on your list after your new SAT score.
+
+Unsubscribe
+
+=== 0 E
+From: The Daily Herald <newsletters@dailyherald.com>
+Subject: Morning headlines: Riverton approves new park plan
+
+Today's top stories: Riverton approves new park plan; Westfield wins conference title; weekend forecast.
+
+Unsubscribe
+
+=== 0 E
+From: NPR <npr@npr.org>
+Subject: Up First: Tuesday's news
+
+The three stories you need to know about today, in 10 minutes.
+
+Unsubscribe | NPR, 1111 North Capitol Street NE, Washington, DC 20002
+
+=== 0 E
+From: Weather.com <weather@email.weather.com>
+Subject: Frost advisory tonight for Riverton
+
+A frost advisory is in effect from 1 AM to 9 AM. Cover sensitive plants.
+
+Unsubscribe from weather alerts.
+
+# ------------------------------------------ scams ------------------------------------------
+
+=== 1 E
+From: Patagonia Outlet <deals@patagonia-outlet-sale.top>
+Subject: Patagonia clearance - all jackets $29
+
+Final clearance: all Patagonia jackets $29. Free shipping. Limited stock, order today!
+
+[Shop clearance](https://patagonia-outlet-sale.top)
+
+=== 1 E
+From: Micro Center Deals <deals@microcenter-gpu-sale.shop>
+Subject: RTX 5090 for $499 - liquidation sale
+
+Warehouse liquidation: RTX 5090 graphics cards only $499. Payment by Zelle or crypto only. Ships in 2-4 weeks.
+
+=== 1 E
+From: Samsung Promotions <promo@samsung-giveaway-center.com>
+Subject: You've been chosen to test the Galaxy S26 Ultra
+
+Congratulations! You've been chosen as a Galaxy S26 Ultra product tester. Keep the phone after testing. Pay $2.95 shipping to confirm.
+
+[Confirm tester spot](https://samsung-giveaway-center.com)
+
+=== 1 E
+From: Six Flags <tickets@sixflags-free-passes.com>
+Subject: Free season passes for the first 500 people
+
+Six Flags is giving away 500 free season passes! Answer 3 questions and pay a $1 verification fee to claim yours.
+
+=== 1 E
+From: Ticket Resale <seller.tickets.chicago@gmail.com>
+Subject: Re: Fall Out Boy tickets
+
+Hey! Yes I still have the 2 floor tickets. $150 each. I can only accept Zelle or Apple Pay friends & family. Once you send it I'll transfer them right away.
+
+=== 1 E
+From: Amazon Jobs <hiring@amazon-work-from-home.co>
+Subject: Earn $700/day reviewing products from home
+
+Amazon is hiring product reviewers! Earn $700 per day from home. No experience needed. Pay a one-time $49 training fee to get started.
+
+=== 1 E
+From: Remote Tasks <tasks@optimization-tasks-online.com>
+Subject: Earn commissions by completing app optimization tasks
+
+Complete 40 simple tasks a day to "boost" apps and earn up to $1,200 a week. You'll need to deposit USDT to unlock premium task sets. Contact your mentor on WhatsApp to start.
+
+=== 1 E
+From: Crypto Airdrop <airdrop@claim-token-drop.io>
+Subject: Your 2,500 token airdrop is ready to claim
+
+You are eligible for an airdrop worth $2,500. Connect your wallet to claim before it expires.
+
+[Claim airdrop](https://claim-token-drop.io/connect)
+
+=== 1 E
+From: Gold Investment Desk <info@gold-ira-guaranteed.com>
+Subject: Guaranteed 25% monthly returns on gold
+
+Our gold trading program guarantees 25% returns every month. Invest $500 today and double your money in 4 months. Limited spots available.
+
+=== 1 E
+From: University Scholarships Office <scholarships@umich-merit-awards.com>
+Subject: University of Michigan Merit Award - claim within 48 hours
+
+Dear Student,
+
+You have been awarded a $12,000 University of Michigan Merit Award. To claim, pay the $75 award processing fee within 48 hours.
+
+=== 1 E
+From: Scholarship Finder Pro <help@guaranteed-scholarships.net>
+Subject: Guaranteed $20,000 in scholarships or your money back
+
+For just $299, our experts guarantee you will win at least $20,000 in scholarships. Act now, only 10 spots left this month.
+
+=== 1 E
+From: CollegeVine Premium <offer@collegevine-admission-guarantee.com>
+Subject: Guaranteed admission to your dream school
+
+Our admissions consultants guarantee acceptance to a top 20 university. Pay $1,500 today to reserve your consultant.
+
+=== 1 E
+From: Daily News Report <news@daily-health-news-report.com>
+Subject: Shark Tank's biggest deal ever: this gadget cuts power bills 80%
+
+As seen on Shark Tank: a plug-in power saver that cuts electric bills by 80%. The investors were amazed. Order today before stock runs out.
+
+=== 1 E
+From: Weather Alert Center <alerts@weather-emergency-alerts.com>
+Subject: Severe weather warning - confirm your address for emergency alerts
+
+A severe weather warning has been issued for your area. Confirm your address and phone number to receive emergency alerts.
+
+[Confirm details](https://weather-emergency-alerts.com)
+
+=== 1 E
+From: GitHub Copilot <billing@github-copilot-billing.com>
+Subject: Your GitHub Copilot subscription payment failed
+
+Your payment for GitHub Copilot failed. Update your billing information within 24 hours or your repositories will be locked.
+
+[Update billing](https://github-copilot-billing.com/settings)
+
+=== 1 E
+From: JetBrains <licensing@jetbrains-license-renew.com>
+Subject: Your JetBrains license is suspended
+
+Your JetBrains license was suspended due to a payment issue. Log in to restore access to your IDEs.
+
+[Restore license](https://jetbrains-license-renew.com/login)
+
+=== 1 E
+From: Hiring Team <hr@part-time-campus-jobs.org>
+Subject: Campus ambassador job - $25/hr
+
+Hi Jordan,
+
+You've been selected as a Campus Brand Ambassador. Pay is $25/hour. We'll mail you a check to buy promotional supplies; please deposit it and send the leftover balance back to our supplier by Zelle.
+
+=== 1 E
+From: Etsy Seller Support <support@etsy-seller-verify.com>
+Subject: Your Etsy shop is suspended - verify now
+
+Your shop has been suspended due to unusual activity. Verify your identity and banking details to reopen it.
+
+[Verify shop](https://etsy-seller-verify.com/login)
+
+=== 1 E
+From: Free Laptop Program <info@students-free-laptops.org>
+Subject: Free laptops for students - claim yours
+
+A government program is giving free laptops to students. Claim yours today by paying $15 shipping and entering your student ID.
+
+=== 1 E
+From: Nike Rewards <member@nike-member-gift.com>
+Subject: Your Nike Member gift: free Air Force 1s
+
+As a Nike Member, you can claim a free pair of Air Force 1s. Just pay $4.95 shipping.
+
+[Claim now](https://nike-member-gift.com)

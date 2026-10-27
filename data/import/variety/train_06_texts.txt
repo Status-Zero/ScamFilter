@@ -1,0 +1,404 @@
+# Training set 6: text messages. Real alerts, codes, reminders, store and college marketing,
+# personal texts, and the scam texts that copy them.
+
+=== 0 T
+From: 22395
+
+Discord: Your verification code is 541 207. Don't share this code with anyone.
+
+=== 0 T
+From: 89203
+
+Steam: Your login code is QX7M4. If you didn't request this, change your password.
+
+=== 0 T
+From: 266-279
+
+Common App: Your verification code is 820114. It expires in 10 minutes.
+
+=== 0 T
+From: 75374
+
+Snapchat code: 319 446. Happy Snapping!
+
+=== 0 T
+From: 28783
+
+Chase: You made a $42.17 debit card purchase at JEWEL OSCO #3271 on 10/13. Not you? Call 1-800-935-9935. Reply STOP to end alerts.
+
+=== 0 T
+From: 73981
+
+BofA: Direct deposit of $612.44 posted to checking - 7710 on 10/16. Reply STOP to cancel alerts.
+
+=== 0 T
+From: 96831
+
+Capital One: A charge of $142.18 at COSTCO WHSE was made on your card ending in 9902. If this wasn't you, call the number on the back of your card.
+
+=== 0 T
+From: 79680
+
+CVS Pharmacy: Your prescription is ready for pickup at 120 N Main St. Pickup by 10/22. Reply STOP to opt out.
+
+=== 0 T
+From: 47274
+
+Walgreens: Your order is ready! Pick up at the store on Main St by 10/20. Text STOP to quit.
+
+=== 0 T
+From: 45421
+
+Advocate Health: Reminder of your appt on Tue 10/20 at 9:40 AM at Sherman Outpatient Center. Reply C to confirm, R to reschedule.
+
+=== 0 T
+From: 35468
+
+Bright Smiles Dental: Hi Jason! Reminder of your cleaning tomorrow at 3:30 PM. Reply Y to confirm or call (815) 555-0122.
+
+=== 0 T
+From: 288-72
+
+USPS: Your package 9405511699000471228944 was delivered at 2:14 pm on Oct 9 in RIVERTON IL 62561. Reply STOP to cancel updates.
+
+=== 0 T
+From: 46339
+
+FedEx: Your package from B&H Photo is scheduled for delivery Fri 10/16 between 12-4pm. Track: fedex.com/fedextrack/?trknbr=778122904417
+
+=== 0 T
+From: 87573
+
+UPS: Your package from CHEWY.COM will arrive today between 1:30 PM and 5:30 PM. Reply STOP to end texts.
+
+=== 0 T
+From: 262966
+
+Amazon: Your package was delivered. It was left near the front door. Track at a.co/d/7f2k9x
+
+=== 0 T
+From: 33733
+
+DoorDash: Your Dasher Marcus is approaching with your Chipotle order! Look for a silver Honda Accord.
+
+=== 0 T
+From: 827-222
+
+Uber: Your driver Marcus is arriving in a gray Toyota Camry (license plate KJ4 2210).
+
+=== 0 T
+From: 61873
+
+Old Navy: 50% off EVERYTHING ends tonight! Shop: oldnavy.com/sale Msg&data rates may apply. Reply STOP to unsubscribe.
+
+=== 0 T
+From: 96685
+
+Taco Bell: Steal a taco Wednesday! Get a free Doritos Locos Taco in the app today only. Txt STOP to end.
+
+=== 0 T
+From: 34343
+
+Kohl's: You've got $10 Kohl's Cash to spend Oct 14-21! Use it on top of 15% off w/ code SAVE15. Reply STOP to opt out.
+
+=== 0 T
+From: 30360
+
+Domino's: Mix & Match deal is back! Any 2+ items for $6.99 each. Order at dominos.com. STOP to end.
+
+=== 0 T
+From: 89549
+
+Ulta Beauty: Your 450 points expire 10/31! That's $15 off. Use them at ulta.com or in store. Reply STOP to unsub.
+
+=== 0 T
+From: 70806
+
+Planet Fitness: Join for $1 down this week only! planetfitness.com/gyms Reply STOP to opt out.
+
+=== 0 T
+From: 63987
+
+Panera: A free pastry is waiting in your MyPanera account. Expires 10/31. Reply STOP to opt out.
+
+=== 0 T
+From: +1 (765) 555-0118
+
+Hi Jordan, this is Rachel from Purdue Admissions! Just a reminder that our Early Action deadline is Nov 1. Any questions about the application? Text me back anytime. Reply STOP to opt out.
+
+=== 0 T
+From: +1 (815) 555-0161
+
+Hi Maya! It's Jake, your NIU admissions counselor. Open House is Sat 11/7 and you get a free shirt if you register: niu.edu/openhouse. Reply STOP to stop texts.
+
+=== 0 T
+From: 87140
+
+RCC: Spring registration opens Nov 2! Meet with an advisor at rivertoncc.edu/advising. Reply STOP to unsubscribe.
+
+=== 0 T
+From: 67283
+
+District 155 Alert: Due to icy roads, all schools will start 2 hours late today, Fri 1/15. Buses run 2 hours late.
+
+=== 0 T
+From: 81010
+
+Remind: Coach Bauer (XC Varsity 2026): Bus for sectionals leaves 7:15 AM Sat from the east lot. Bring spikes!
+
+=== 0 T
+From: 70510
+
+Riverton Public Library: Your hold "The Pragmatic Programmer" is ready for pickup until 10/22.
+
+=== 0 T
+From: 22000
+
+Your Google verification code is 802119
+
+=== 0 T
+From: 31013
+
+Your Starlight Lanes shift tomorrow 4PM-10PM was approved. Reply STOP to opt out of schedule texts.
+
+=== 0 T
+From: 72975
+
+Verizon: Your bill of $82.18 is ready. Due 11/1. AutoPay is on. Details: vzw.com/mybill
+
+=== 0 T
+From: 266278
+
+ComEd: High temps tomorrow. Use less energy 2-6pm to help reduce demand. Learn more at ComEd.com/PeakTimeSavings. Reply STOP to opt out.
+
+=== 0 T
+From: +1 (847) 555-0142
+
+Hey it's mom, can you pick up milk on your way home? And don't forget your sister's game at 6
+
+=== 0 T
+From: +1 (224) 555-0177
+
+yo are we still doing the calc study group tmrw? I can bring the practice test from last year
+
+=== 0 T
+From: +1 (815) 555-0134
+
+Running 10 min late, save me a seat
+
+=== 0 T
+From: +1 (847) 555-0109
+
+Hi! It's Mrs. Lopez from next door. Your package got delivered to our porch by mistake, I'll drop it off after dinner.
+
+=== 0 T
+From: +1 (630) 555-0186
+
+Dad here. Car's making that noise again, I'm taking it to Jiffy Lube Saturday morning. Need a ride to practice?
+
+=== 0 T
+From: +1 (312) 555-0123
+
+Thanks for coming to the debate tournament! Results are posted on Tabroom. Great job everyone - Coach Allen
+
+=== 0 T
+From: 732873
+
+SECU: A new device was added to your online banking. If this was not you, call us at 1-888-732-8562. We will never ask for your password or code.
+
+=== 0 T
+From: 61315
+
+Instacart: Your shopper Denise has finished shopping and is on the way. ETA 5:40 PM.
+
+=== 0 T
+From: 89012
+
+Starbucks: Your order is ready at the pickup counter! Thanks, Leah.
+
+=== 0 T
+From: 79922
+
+Ticketmaster: Your mobile tickets for Bulls vs. Bucks (11/6) are in the app. Screenshots won't be accepted at the door.
+
+=== 0 T
+From: 44776
+
+Southwest: Check in now for Flight 1429 MDW-DEN on 11/20. southwest.com/checkin
+
+# ---------------------------------------- scam texts ----------------------------------------
+
+=== 1 T
+From: +1 (318) 555-0192
+
+Illinois Tollway: You have an unpaid toll balance of $6.80. To avoid a $50 late fee and license suspension, pay by today: il-tollway-pay.com/invoice
+
+=== 1 T
+From: +63 917 555 0144
+
+USPS: The package could not be delivered due to an incomplete address. Please update it within 24 hours: usps-redelivery-center.com/track
+
+=== 1 T
+From: sjdk82@icloud.com
+
+[USPS] Your parcel is held at the warehouse. Pay a $1.99 redelivery fee to reschedule: uspz-post.top/us
+
+=== 1 T
+From: +1 (469) 555-0172
+
+Hi mom, this is my new number, my phone fell in the toilet lol. Can you text me on WhatsApp? Need help paying a bill today
+
+=== 1 T
+From: +1 (929) 555-0138
+
+Hi, is this Jessica? We met at the Halloween party last week. I'm Mia, I work in crypto investing 😊
+
+=== 1 T
+From: +1 (657) 555-0199
+
+Hello, I'm Lisa from the recruiting team. Your resume has been approved for a remote part-time job, $300-$800/day. Please reply on WhatsApp +1 (657) 555-0199 to learn more.
+
+=== 1 T
+From: +1 (213) 555-0157
+
+Amazon: Your account has been locked due to an unusual purchase of an iPhone 17 Pro ($1,249). If this wasn't you, call 1-844-555-0180 now.
+
+=== 1 T
+From: +1 (802) 555-0166
+
+Chase Fraud Alert: Did you attempt a Zelle payment of $1,250.00? Reply YES or NO. A specialist will call you to secure your account.
+
+=== 1 T
+From: 78294
+
+BofA Alert: Your online banking has been suspended. Verify your identity at bofa-secure-login.com to restore access.
+
+=== 1 T
+From: +1 (551) 555-0133
+
+Apple Pay: Your card has been suspended. Re-verify at apple-payhold.com within 24 hrs to avoid deactivation.
+
+=== 1 T
+From: +44 7700 900417
+
+DHL: Your shipment is held at customs. An import duty of $3.49 is required: dhl-parcel-clearance.com/pay
+
+=== 1 T
+From: +1 (305) 555-0127
+
+Congrats! You've been selected for a $1,000 Walmart Gift Card. Claim now before it expires: walmart-shopper-rewards.club/claim
+
+=== 1 T
+From: +1 (415) 555-0105
+
+Hi Jordan, are you available? I need a favor, buy some Apple gift cards for me and I'll pay you back. Can't talk now, in a meeting. - Principal Hendricks
+
+=== 1 T
+From: +1 (747) 555-0118
+
+FAFSA Alert: Your federal aid is on hold. Confirm your FSA ID and SSN to release funds: studentaid-verify.net/fafsa
+
+=== 1 T
+From: +1 (346) 555-0112
+
+Congratulations! You've been awarded a $10,000 scholarship. Pay the $125 processing fee to receive it: national-scholars-fund.org/claim
+
+=== 1 T
+From: +1 (877) 555-0147
+
+ComEd: Your power will be disconnected in 30 minutes due to a past due balance. Call 1-855-555-0147 to make a payment now.
+
+=== 1 T
+From: +1 (240) 555-0168
+
+IRS: You have a pending tax refund of $1,284.50. Claim it here: irs-taxrefund-gov.com/refund
+
+=== 1 T
+From: +1 (562) 555-0119
+
+Netflix: Your payment was declined. Update your payment details within 24 hours or your account will be suspended: netflix-account-help.co/billing
+
+=== 1 T
+From: +1 (708) 555-0124
+
+Your Coinbase account has a withdrawal request of 0.82 BTC. If this wasn't you, call support at 1-833-555-0108 immediately.
+
+=== 1 T
+From: +1 (702) 555-0191
+
+Wells Fargo: Your debit card has been locked. Reply with your card number and PIN to unlock it.
+
+=== 1 T
+From: +1 (281) 555-0177
+
+Hey! I'm sorry, I think I texted the wrong number. I was trying to reach my yoga instructor Kelly. Anyway, nice to meet you, where are you from?
+
+=== 1 T
+From: +1 (646) 555-0136
+
+You've earned a free iPhone 17 for being a loyal T-Mobile customer! Claim here: tmobile-rewards-gift.com
+
+=== 1 T
+From: +1 (310) 555-0143
+
+Hey, it's Brandon from work. I got locked out of my account and need to use yours to get back in. I'll send you a code, just text it back to me ok?
+
+=== 1 T
+From: +1 (773) 555-0181
+
+Your Steam account will be banned for fraudulent trades. Appeal within 24 hours: steamcommunnity-help.com/appeal
+
+=== 1 T
+From: +1 (469) 555-0153
+
+Final notice: your car's extended warranty is about to expire. Press 1 or call 1-888-555-0135 to renew before it's too late.
+
+=== 1 T
+From: +1 (917) 555-0161
+
+Your Instagram account will be deleted for copyright violation. Appeal here: instagram-help-center.org/appeal
+
+=== 1 T
+From: +1 (318) 555-0110
+
+Medicare: Your new card is ready. Confirm your Medicare number and SSN to have it mailed: medicare-card-update.com
+
+=== 1 T
+From: +1 (504) 555-0185
+
+Student Loan Forgiveness: You qualify for 100% loan cancellation under the new program. Call 1-888-555-0119 to enroll before Friday.
+
+=== 1 T
+From: +1 (989) 555-0137
+
+Hi, I saw your listing on Facebook Marketplace. I'll pay $500 by Zelle but it says you need a business account. I'll send the extra $200 upgrade fee if you refund me after, ok?
+
+=== 1 T
+From: +1 (689) 555-0122
+
+Your Venmo payment of $749.00 to Brandon K. is being processed. If you did not authorize this, call 845-555-0112 to cancel.
+
+=== 1 T
+From: +1 (754) 555-0171
+
+You have (1) new voicemail from your bank. Listen here: voicemsg-portal.info/listen?id=88a1
+
+=== 1 T
+From: +1 (941) 555-0190
+
+Missed delivery attempt for your Amazon parcel. Reschedule and confirm your card for the $0.99 fee: amzn-delivery-help.com
+
+=== 1 T
+From: +1 (601) 555-0149
+
+Hello, your daughter has been in an accident and is in the hospital. Call me back immediately at this number, she needs money for treatment.
+
+=== 1 T
+From: +1 (726) 555-0117
+
+Exclusive offer: grow $250 into $5,000 in 7 days with our AI trading bot. Guaranteed returns. Join now: bitprofit-trading.pro
+
+=== 1 T
+From: +1 (531) 555-0126
+
+Geek Squad: Your annual protection plan renewed for $399.99. To cancel and get a refund, call 1-808-555-0192 within 24 hours.

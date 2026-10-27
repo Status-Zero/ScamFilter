@@ -1,0 +1,25 @@
+# Scam patterns used to clean the labels of the SMS dataset's "spam" class.
+#
+# The dataset (Mishra & Soni 2022) splits unwanted texts into "smishing" and "spam", but the
+# line between them isn't consistent: "U have won a nokia..." is smishing while "Latest Nokia...
+# +400 prize GUARANTEED!" is spam. Under ScamFilter's definition, a message that claims you
+# already won something, pressures you with fake contact attempts, or invents a balance owed to
+# you is a scam, whichever class the dataset gave it. So a "spam" text matching any pattern
+# below is imported as a scam (label 1). Everything else in "spam" stays "not a scam" (label 0):
+# those are ordinary ads.
+#
+# The patterns describe scam tactics in general, not this dataset's wording, and they're
+# applied to the whole class (not picked message by message). One regular expression per
+# line, case-insensitive. Lines starting with # are notes.
+
+\b(you|u)\s*(have|'ve|hav|r|are)?\s*(been\s+)?(won|selected|chosen|awarded)\b(?!')
+\b(you|u)('re|\s+are|\s+r)\s+(a\s+)?winner\b
+\bguaranteed\b.{0,60}(\xA3|\$|cash|prize|phone|ipod|gift)
+\b(claim|collect)\b.{0,40}(prize|reward|cash|\xA3|\$|holiday|voucher|award)
+\b(cash|ur|your)[- ]?balance\s+is\b
+\bentitled\s+to\b.{0,40}(\xA3|\$|pounds|\d)
+\btried\s+to\s+(contact|call)\s+(you|u)\b
+\bfinal\s+attempt\s+to\s+contact\b
+\bmissed\s+call\s+alert\b
+\baccount\s+statement\b
+\bimportant\s+customer\s+service\s+announcement\b

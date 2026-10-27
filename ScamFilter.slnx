@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ScamFilter.Core/ScamFilter.Core.csproj" />
+  <Project Path="ScamFilter.Desktop/ScamFilter.Desktop.csproj" />
+  <Project Path="ScamFilter.Trainer/ScamFilter.Trainer.csproj" />
+</Solution>

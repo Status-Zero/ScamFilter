@@ -1,0 +1,886 @@
+# Training set 2: receipts, shipping, payments, bills, renewals, and the scams that copy them.
+
+=== 0 E
+From: Target <orders@oe.target.com>
+Subject: Thanks for your order! #9021847362
+
+Hi Alyssa,
+
+We got your order and we're getting it ready.
+
+Order #9021847362
+Placed October 11, 2026
+
+Up & Up Paper Towels 12pk - $18.99
+Threshold Bath Towel, Gray - $10.00
+Order summary: Subtotal $28.99, Estimated tax $2.39, Total $31.38
+
+Paid with Target Circle Card ending in 2207. You saved 5% ($1.45).
+
+Estimated delivery: Wed, Oct 14
+
+[View order details](https://www.target.com/orders/9021847362)
+
+Questions? Visit Help or call 1-800-591-3869.
+
+=== 0 E
+From: Best Buy <BestBuyInfo@emailinfo.bestbuy.com>
+Subject: Your order is ready for pickup
+
+Hi Jordan,
+
+Good news! Your order is ready for pickup at Best Buy Riverton.
+
+Order Number: BBY01-807114592810
+Item: Logitech G502 HERO Wired Gaming Mouse
+
+Bring a photo ID and your order number. We'll hold your items for 7 days.
+
+[Check in when you arrive](https://www.bestbuy.com/profile/ss/orders/order-details/BBY01-807114592810)
+
+Store hours: 10am - 9pm
+
+=== 0 E
+From: Walmart.com <help@walmart.com>
+Subject: Delivered: your Walmart order
+
+Your package was delivered!
+
+Order# 2000127-48820159
+Delivered Oct 9, 2026 at 2:14 pm
+Left at: Front door
+
+Items: Great Value Mixed Nuts 34oz, Hanes Men's Crew Socks 12-pack
+
+Something wrong? You can start a return in the Walmart app or at walmart.com.
+
+[Track your order](https://www.walmart.com/orders/2000127-48820159)
+
+=== 0 E
+From: eBay <ebay@ebay.com>
+Subject: Order confirmed: Vintage Nintendo Game Boy Color - Atomic Purple
+
+Hi Chris,
+
+Your order is confirmed. Here's what you bought.
+
+Vintage Nintendo Game Boy Color - Atomic Purple
+Item price: $74.99
+Shipping: $6.50
+Total: $81.49
+
+Seller: retro_rescue_games (2,413 reviews)
+Estimated delivery: Oct 16 - Oct 20
+
+[See order details](https://order.ebay.com/ord/show?orderId=12-11420-88175)
+
+We'll let you know when your item ships.
+
+=== 0 E
+From: Etsy Transactions <transaction@etsy.com>
+Subject: Your Etsy Purchase from LittleFernStudio (3388104291)
+
+Hi Morgan,
+
+Thanks for supporting LittleFernStudio! Here are the details of your order.
+
+Custom name necklace - Gold, "Ava"
+Price: $26.00
+Shipping: $4.95
+Order total: $30.95
+
+The shop will ship your order by Oct 19.
+
+[View your order](https://www.etsy.com/your/purchases/3388104291)
+
+Etsy, Inc., 117 Adams Street, Brooklyn, NY 11201
+
+=== 0 E
+From: DoorDash <no-reply@doordash.com>
+Subject: Order Confirmation for Ethan from Chipotle Mexican Grill
+
+Thanks for your order, Ethan!
+
+Chipotle Mexican Grill
+1x Burrito Bowl - $10.85
+1x Chips & Guacamole - $5.60
+
+Subtotal $16.45
+Delivery Fee $0.00 (DashPass)
+Service Fee $2.47
+Tip $4.00
+Total charged $23.92 to Visa ending 1188
+
+Estimated arrival 7:15 - 7:25 PM
+
+[Track your order](https://www.doordash.com/orders/7f1c)
+
+=== 0 E
+From: Uber Receipts <noreply@uber.com>
+Subject: Your Thursday evening trip with Uber
+
+Thanks for riding, Abby
+
+Total $14.62
+Trip fare $11.30, Booking fee $2.32, Tip $1.00
+
+1:12 PM  Union Station, Chicago, IL
+1:31 PM  2121 N Clark St, Chicago, IL
+
+You rode with Marcus. 4.97 rating.
+
+Payment: Apple Pay
+
+[Rate or tip](https://riders.uber.com/trips/4ab8)
+
+=== 0 E
+From: Starbucks Rewards <Starbucks@e.starbucks.com>
+Subject: Your Starbucks receipt
+
+Thanks for your order!
+
+Grande Iced Brown Sugar Oatmilk Shaken Espresso $6.25
+Butter Croissant $3.75
+Total $10.00
+
+You earned 20 Stars. Star balance: 141.
+
+Paid with Starbucks Card ending 0042.
+
+Starbucks Store #2291, Elgin, IL
+
+=== 0 E
+From: Steam <noreply@steampowered.com>
+Subject: Thank you for your Steam purchase!
+
+Hello jmarsh13,
+
+Thank you for your recent transaction on Steam.
+
+Hades II   $29.99
+Subtotal $29.99
+Tax $2.10
+Total $32.09
+Payment method: PayPal
+
+Confirmation number: 4417282911093184
+Date issued: 12 Oct, 2026
+
+The items above have been added to your Steam Library.
+
+Valve Corporation, PO Box 1688, Bellevue, WA 98009
+
+=== 0 E
+From: Apple <no_reply@email.apple.com>
+Subject: Your receipt from Apple.
+
+Receipt
+
+APPLE ACCOUNT: s•••••@icloud.com
+DATE: Oct 2, 2026
+ORDER ID: MLZ7Q1RKPF
+
+iCloud+ with 50 GB storage (Monthly) - $0.99
+Renews Nov 2, 2026
+
+Billed to Apple Pay, Mastercard .... 3021
+TOTAL $1.06
+
+Get help with subscriptions and purchases. Visit Apple Support.
+Learn how to manage your password preferences for iTunes, Apple Books, and App Store purchases.
+
+=== 0 E
+From: Google Play <googleplay-noreply@google.com>
+Subject: Your Google Play Order Receipt from Oct 8, 2026
+
+Thank you. You've made a purchase from Google Play.
+
+Order number: GPA.3381-1928-4401-77215
+Order date: Oct 8, 2026 6:44:12 PM CDT
+
+Item: 1,200 Gems (Clash Royale) - $9.99
+Tax: $0.70
+Total: $10.69/one-time
+
+Payment method: Google Play balance
+
+You can find more details about your order in your order history.
+
+=== 0 E
+From: USPS Informed Delivery <USPSInformeddelivery@email.informeddelivery.usps.com>
+Subject: Your Daily Digest for Wed, 10/14 is ready to view
+
+Informed Delivery Daily Digest
+
+You have 3 mailpieces and 1 package arriving soon.
+
+Mailpieces: COMED, BLUE CROSS BLUE SHIELD, STATE FARM
+Package: 9405 5116 9900 0471 2289 44 - Expected Delivery: Today
+
+[View all mail](https://informeddelivery.usps.com/box/pages/secure/DashboardAction_input.action)
+
+Images are of the outside of letter-sized mailpieces. Do not reply to this email.
+
+=== 0 E
+From: FedEx <TrackingUpdates@fedex.com>
+Subject: Your package is scheduled for delivery Friday
+
+Hi. Your package is scheduled for delivery Friday, 10/16/2026 between 12:00 PM - 4:00 PM.
+
+Tracking ID: 7781 2290 4417
+From: B&H Photo Video, New York, NY
+To: RIVERTON, IL US
+
+[Track your package](https://www.fedex.com/fedextrack/?trknbr=778122904417)
+
+Want to change delivery? Sign up for FedEx Delivery Manager.
+
+This tracking update has been requested by: B&H Photo Video
+
+=== 0 E
+From: UPS <mcinfo@ups.com>
+Subject: UPS Update: Package Scheduled for Delivery Today
+
+Hello, your package will arrive today between 1:30 PM - 5:30 PM.
+
+Shipped From: CHEWY.COM
+Tracking Number: 1Z 7W9 22E 03 4418 2019
+Number of Packages: 1
+
+[Track Package](https://www.ups.com/track?tracknum=1Z7W922E0344182019)
+
+© 2026 United Parcel Service of America, Inc. UPS, the UPS brandmark, and the color brown are trademarks of UPS.
+
+=== 0 E
+From: Amazon.com <return@amazon.com>
+Subject: Your refund for Anker USB C Charger 20W has been issued
+
+Hello Riley,
+
+We've issued your refund of $15.99 for your return of Anker USB C Charger 20W.
+
+Refund total: $15.99
+Refunded to: Visa ending in 6630
+
+It can take 3-5 business days for the refund to show up on your statement.
+
+[View return & refund status](https://www.amazon.com/spr/returns/history)
+
+We hope to see you again soon.
+Amazon.com
+
+=== 0 E
+From: Venmo <venmo@venmo.com>
+Subject: Olivia Chen paid you $12.00
+
+Olivia Chen paid you $12.00
+
+"pizza 🍕"
+
+Transfer Date and Amount: Oct 10, 2026 PDT · + $12.00
+
+The money is in your Venmo account. You can use it to pay or transfer it to your bank.
+
+[See transaction](https://venmo.com/account/transactions)
+
+=== 0 E
+From: PayPal <service@paypal.com>
+Subject: Receipt for your payment to Humble Bundle, Inc.
+
+Hello Daniel,
+
+You sent a payment of $15.00 USD to Humble Bundle, Inc.
+
+It may take a few moments for this transaction to appear in your account.
+
+Merchant: Humble Bundle, Inc.
+Transaction ID: 3RH40815MW7381932
+Total: $15.00 USD
+Funding source: Bank of America checking x7710
+
+[View transaction details](https://www.paypal.com/activity/payment/3RH40815MW7381932)
+
+=== 0 E
+From: Cash App <cash@square.com>
+Subject: You received $40 from Mom
+
+Mom sent you $40
+
+For: gas money
+
+The money is in your Cash App balance.
+
+Cash App will never ask for your sign-in code or PIN. Questions? Visit cash.app/help.
+
+Block, Inc. 1955 Broadway, Suite 600, Oakland, CA 94612
+
+=== 0 E
+From: ComEd <ComEd@notifications.comed.com>
+Subject: Your ComEd bill is ready
+
+Your bill is ready to view.
+
+Account ending in: 4471
+Amount due: $96.42
+Due date: 11/03/2026
+
+You're enrolled in AutoPay. The amount due will be paid automatically from your bank account on the due date.
+
+[View bill](https://secure.comed.com/accounts/login)
+
+Please do not reply. ComEd will never call to demand immediate payment or ask you to pay with a prepaid card.
+
+=== 0 E
+From: Nicor Gas <nicorgas@notifications.nicorgas.com>
+Subject: Your Nicor Gas bill is available
+
+Hello,
+
+Your latest Nicor Gas bill is now available online.
+
+Amount due: $41.87
+Due date: Nov 5, 2026
+
+Pay online at nicorgas.com, through our mobile app, or by mail. Paying by phone is free at 1-888-642-6748.
+
+=== 0 E
+From: T-Mobile <noreply@t-mobile.com>
+Subject: Your T-Mobile bill is ready
+
+Hi Angela,
+
+Your bill for the period Sep 21 - Oct 20 is ready.
+
+Total due: $145.00
+AutoPay is scheduled for Nov 1.
+
+[View your bill](https://www.t-mobile.com/bill)
+
+Questions? Dial 611 from your T-Mobile phone.
+
+=== 0 E
+From: Verizon <VZWMail@ecrmemail.verizonwireless.com>
+Subject: Your payment was received
+
+Thank you! We received your payment.
+
+Account ending in 00001
+Payment amount: $82.18
+Payment date: 10/14/2026
+Confirmation number: 7101943822
+
+Your next bill will be available on 10/24/2026.
+
+=== 0 E
+From: Netflix <info@account.netflix.com>
+Subject: Your monthly plan price is changing
+
+Hi Megan,
+
+We're writing to let you know that the price of your Standard plan is going up from $17.99 to $19.99 per month, starting with your billing date on November 18.
+
+You can change your plan or cancel anytime in your Account settings.
+
+As always, we're working hard to bring you more great stories.
+
+The Netflix team
+
+=== 0 E
+From: Microsoft <microsoft-noreply@microsoft.com>
+Subject: Your Microsoft 365 Family subscription will renew soon
+
+Your subscription will renew on November 4, 2026
+
+Microsoft 365 Family
+$129.99/year
+Payment method: Visa ending 4402
+
+No action is needed to keep your subscription. To change or cancel, go to Services & subscriptions in your Microsoft account.
+
+[Manage subscription](https://account.microsoft.com/services)
+
+Microsoft Corporation, One Microsoft Way, Redmond, WA 98052
+
+=== 0 E
+From: Norton <NortonLifeLock@norton.com>
+Subject: Your Norton 360 subscription will renew in 30 days
+
+Hi Paul,
+
+Your Norton 360 Deluxe subscription is set to automatically renew on November 15, 2026 for $119.99 plus applicable tax, using the payment method on file.
+
+To review your subscription or turn off automatic renewal, sign in to your Norton account at my.norton.com.
+
+Thank you for being a Norton customer.
+
+=== 0 E
+From: Bank of America <onlinebanking@ealerts.bankofamerica.com>
+Subject: Your statement is available
+
+Your statement is ready.
+
+Account: Adv Plus Banking - 7710
+Statement period ending: 10/15/2026
+
+[View statement](https://www.bankofamerica.com/online-banking/sign-in/)
+
+Bank of America will never ask you to share your password or one-time code by email, text, or phone.
+
+=== 0 E
+From: Discover <discover@service.discover.com>
+Subject: Your monthly FICO Credit Score is updated
+
+Hi Kevin,
+
+Your new FICO Score is in. Log in to see your score and what helps or hurts it.
+
+Checking your score won't affect it.
+
+[See my score](https://www.discover.com/credit-cards/fico-credit-score/)
+
+Discover Bank, Member FDIC.
+
+=== 0 E
+From: Capital One <capitalone@notification.capitalone.com>
+Subject: A transaction over $100.00 was made on your card
+
+Hi Natalie,
+
+As requested, we're letting you know that a purchase of $142.18 was made at COSTCO WHSE #388 on October 13, 2026 on your Quicksilver card ending in 9902.
+
+If you don't recognize this transaction, please call us at the number on the back of your card.
+
+You're receiving this alert because you turned it on in your Capital One account settings.
+
+=== 0 E
+From: State Farm <statefarm@email.statefarm.com>
+Subject: Your auto insurance ID cards are ready
+
+Hi Ryan,
+
+Your new auto ID cards for policy 127 4412-B03-13 are ready.
+
+Coverage period: 11/03/2026 - 05/03/2027
+
+Download them in the State Farm app or at statefarm.com. Keep a copy in your vehicle.
+
+Your agent: Lisa Moreno Agency, Algonquin, IL
+
+=== 0 E
+From: Ticketmaster <customer_support@email.ticketmaster.com>
+Subject: You Got Tickets To Chicago Bulls vs. Milwaukee Bucks
+
+Order #: 30-41982/CHI
+Event: Chicago Bulls vs. Milwaukee Bucks
+United Center, Chicago, IL
+Fri, Nov 6, 2026 7:00 PM
+
+Section 312, Row 9, Seats 4-5
+
+Your tickets are mobile. Open the Ticketmaster app to view them. Screenshots won't get you in.
+
+[View tickets](https://www.ticketmaster.com/user/orders)
+
+=== 0 E
+From: AMC Theatres <amc@email.amctheatres.com>
+Subject: Your AMC Order Confirmation
+
+Thanks for your order, Leah!
+
+Movie: Galaxy Drifters (PG-13)
+AMC Randhurst 12
+Saturday, October 17, 7:30 PM
+Seats: G7, G8
+
+Confirmation #: 4421897
+Total: $27.84
+
+Show the QR code in the AMC app at the door.
+
+=== 0 E
+From: Southwest Airlines <SouthwestAirlines@ifly.southwest.com>
+Subject: Your trip confirmation: MDW - DEN (G7XK2P)
+
+You're all set!
+
+Confirmation #: G7XK2P
+Passenger: SAMUEL ORTIZ
+
+Fri, Nov 20 - MDW 7:05 AM to DEN 8:35 AM, Flight #1429
+Sun, Nov 22 - DEN 6:10 PM to MDW 9:40 PM, Flight #2086
+
+Check in 24 hours before departure on southwest.com or the app.
+
+Total: $214.36
+
+=== 0 E
+From: Airbnb <automated@airbnb.com>
+Subject: Reservation confirmed for Galena
+
+Pack your bags! You're going to Galena.
+
+Cozy Downtown Loft · Hosted by Patricia
+Check-in: Fri, Nov 13, 3:00 PM
+Checkout: Sun, Nov 15, 11:00 AM
+Guests: 4
+
+Total (USD): $486.20
+
+Message your host through the Airbnb app. Always pay and communicate through Airbnb to stay protected.
+
+=== 0 E
+From: Chewy <noreply@chewy.com>
+Subject: Your Autoship order is on its way
+
+Hi Brianna,
+
+Your Autoship order has shipped!
+
+Purina Pro Plan Adult Chicken & Rice Dry Dog Food, 35-lb bag - $64.98
+Autoship savings: -$3.25
+
+Arrives by Thursday, Oct 15
+
+[Track package](https://www.chewy.com/app/account/orderhistory)
+
+Questions? Our team is here 24/7 at 1-800-672-4399.
+
+=== 0 E
+From: Instacart <orders@instacart.com>
+Subject: Your order from Jewel-Osco has been delivered
+
+Your groceries have been delivered.
+
+Shopper: Denise
+Delivered at: 5:42 PM
+Items: 18 delivered, 1 replaced (Organic Bananas -> Bananas)
+
+Total: $71.12
+
+[Rate your shopper](https://www.instacart.com/store/account/orders)
+
+=== 0 E
+From: Square Receipts <receipts@messaging.squareup.com>
+Subject: Receipt from Third Street Bagel Co.
+
+Third Street Bagel Co.
+$9.47
+
+Everything bagel w/ cream cheese $3.95
+Iced coffee (L) $3.50
+Tip $1.00
+Tax $1.02
+
+Visa 3021 · Oct 13 2026 8:14 am
+
+Questions? Contact Third Street Bagel Co. at (815) 555-0144.
+
+=== 0 E
+From: Zelle <zelle@notifications.zellepay.com>
+Subject: You received money with Zelle
+
+Michael Torres sent you $60.00.
+
+Memo: half of the concert tickets
+
+The money is now in your Chase checking account ending in 4458.
+
+Only send money to people you know and trust. Zelle will never call or text asking you to send money.
+
+=== 0 E
+From: City of Naperville Utilities <utilities@naperville.il.us>
+Subject: Your utility bill is now available
+
+Your City of Naperville utility bill is available online.
+
+Account: 0044218-01
+Amount due: $112.60
+Due: November 6, 2026
+
+Pay online, by mail, or at the Municipal Center. The City will never ask for payment by gift card or cryptocurrency.
+
+# ------------------------------- scams that copy orders and bills -------------------------------
+
+=== 1 E
+From: Geek Squad <billing@geeksquad-renewals.net>
+Subject: Invoice #GS-77129 - Your subscription has been renewed
+
+Dear Customer,
+
+Thank you for renewing your Geek Squad Total Protection plan. Your account has been charged $399.99.
+
+Plan: 3 Year Total Tech Support
+Payment: Auto debit
+
+If you did not authorize this renewal or want a refund, call our billing department within 24 hours at +1 (808) 555-0192.
+
+Geek Squad Billing Team
+
+=== 1 E
+From: Norton Security <invoice@nort0n-billing.com>
+Subject: Norton 360 auto-renewal successful - $349.99 charged
+
+Hello,
+
+Your Norton 360 Total Protection subscription has been renewed for 3 years. The amount of $349.99 will appear on your bank statement within 24 hours.
+
+To cancel and get a refund, contact our support team at 1-888-555-0174 (toll free).
+
+Order ID: NL-0021347
+
+=== 1 E
+From: PayPal <service@paypal.com>
+Subject: You have an invoice from Coinbase Billing ($599.00 USD)
+
+Coinbase Billing sent you an invoice for $599.00 USD
+
+Note from seller: Your Bitcoin purchase of $599.00 has been processed. If you did not make this purchase, call our support at +1 (888) 555-0129 to cancel and get a refund. Do not pay this invoice online.
+
+Invoice number: 0042
+Due on receipt
+
+[View and Pay Invoice](https://www.paypal.com/invoice/p/#INV2-7RQ4)
+
+=== 1 E
+From: Amazon Order <orders@amzn-orderdesk.com>
+Subject: Your Amazon order #114-2287-3390 for iPhone 17 Pro has been placed
+
+Hello,
+
+Thank you for your order.
+
+Item: Apple iPhone 17 Pro 256GB - Desert Gold
+Total: $1,249.00
+Shipping to: Houston, TX
+
+If you did not place this order, call Amazon Fraud Prevention immediately at 1-844-555-0180 to cancel.
+
+=== 1 E
+From: USPS <tracking@usps-redelivery-center.com>
+Subject: USPS: Your package could not be delivered
+
+USPS
+
+We attempted to deliver your package on 10/14 but could not due to an incomplete address.
+
+Tracking number: US9514901185421
+
+Please update your address and pay a $1.99 redelivery fee within 48 hours, or the package will be returned to the sender.
+
+[Schedule redelivery](https://usps-redelivery-center.com/track)
+
+=== 1 E
+From: DHL Express <customs@dhl-parcel-clearance.com>
+Subject: DHL: Customs duty payment required for your shipment
+
+Your shipment is being held at customs. To release it, an import duty of $3.49 must be paid.
+
+Waybill: 4021987740
+
+[Pay customs fee](https://dhl-parcel-clearance.com/pay)
+
+If payment is not made within 3 days, the parcel will be destroyed.
+
+DHL Customs Services
+
+=== 1 E
+From: FedEx <support@fedex-delivery-update.info>
+Subject: Action needed: confirm delivery address for parcel 7781-xxxx
+
+Dear Customer,
+
+Your parcel is on hold because the delivery address is incomplete. Confirm your address and pay the $2.15 handling fee:
+
+[Confirm address](https://fedex-delivery-update.info/confirm)
+
+FedEx Delivery Manager
+
+=== 1 E
+From: ComEd Billing <disconnect@comed-billing-center.com>
+Subject: FINAL NOTICE: Service disconnection scheduled today
+
+Dear Customer,
+
+Your electric account is past due. Your power will be disconnected in 2 hours unless payment of $487.21 is made.
+
+To avoid disconnection, call our Disconnection Department at 1-855-555-0147. Payment can be made with a prepaid card or Bitcoin ATM.
+
+ComEd Collections
+
+=== 1 E
+From: Microsoft Billing <billing@microsoft-invoice-dept.com>
+Subject: Microsoft Windows Defender Firewall - Invoice MS-48211
+
+Thank you for your purchase.
+
+Product: Windows Defender Firewall Advanced (3 PCs)
+Amount: $499.99
+Renewal: Automatic
+
+This charge will appear on your statement within 24 hours. To dispute, call 1-877-555-0136.
+
+=== 1 E
+From: Apple Pay <applepay@apple-payhold.com>
+Subject: Your Apple Pay has been suspended
+
+Dear user,
+
+We were unable to verify your billing information, so Apple Pay has been suspended on your devices. Please re-add your card through the secure link below within 24 hours.
+
+[Verify card](https://apple-payhold.com/wallet)
+
+Apple
+
+=== 1 E
+From: Zelle Support <zelle@zelle-payments-help.com>
+Subject: Payment of $500.00 pending - business account required
+
+Hi,
+
+A buyer sent you $500.00 through Zelle for your Facebook Marketplace item. The payment is on hold because your account is not a business account.
+
+To release the funds, the buyer must send an extra $200 upgrade fee, which you will refund to them. Reply to this email once you've sent the refund.
+
+Zelle Payment Department
+
+=== 1 E
+From: Venmo <alerts@venmo-security.co>
+Subject: Venmo: unusual payment of $749.00 to Brandon K.
+
+We noticed a payment of $749.00 from your Venmo account to Brandon K.
+
+If this wasn't you, call Venmo Fraud Support now at (845) 555-0112 to reverse the payment. Please do not share this alert.
+
+=== 1 E
+From: Walmart Rewards <rewards@walmart-customerclub.com>
+Subject: Your order refund of $89.43 is waiting
+
+Hi,
+
+Due to a billing error on a recent order, you are owed a refund of $89.43. Claim your refund before it expires on Friday.
+
+[Claim refund](https://walmart-customerclub.com/refund)
+
+Please confirm your card details so the refund can be sent.
+
+=== 1 E
+From: IL Tollway <notice@il-tollway-pay.com>
+Subject: Unpaid toll violation - $6.80 due
+
+Illinois Tollway
+
+Our records show an unpaid toll of $6.80 on your vehicle. To avoid a late fee of $50.00 and suspension of your license plate, pay now:
+
+[Pay toll](https://il-tollway-pay.com/invoice)
+
+Payment is due within 24 hours.
+
+=== 1 E
+From: Netflix <support@netfl1x-refunds.com>
+Subject: Refund notice: you were overcharged
+
+Hi,
+
+Our system shows you were charged twice for your plan this month. You are owed a refund of $19.99.
+
+[Get my refund](https://netfl1x-refunds.com/refund)
+
+You will need to enter your card number and CVV so we can return the money.
+
+=== 1 E
+From: Costco Wholesale <member@costco-anniversary-gift.com>
+Subject: Costco Member Survey: get a $100 reward
+
+Dear Costco Member,
+
+As a thank-you for your membership, you have been chosen to take our 30-second survey. Complete it to receive a $100 Costco reward. Just pay $4.95 shipping.
+
+[Start survey](https://costco-anniversary-gift.com/survey)
+
+=== 1 E
+From: Ticketmaster <tickets@ticketmaster-resale-desk.com>
+Subject: Taylor Swift Eras tickets - transfer pending
+
+Hi,
+
+The seller has initiated the ticket transfer for your order (2x Floor Seats). To complete the transfer, please send the remaining $340 via Zelle or Cash App to the seller listed below. Tickets will release once payment is confirmed.
+
+Seller: Jessica M. - $tixjess2026
+
+=== 1 E
+From: Spectrum <billing@spectrum-acct-services.com>
+Subject: Your account is past due - service will be interrupted
+
+Dear Customer,
+
+Your Spectrum internet bill of $178.66 is past due. Service will be interrupted today at 5 PM. Pay now by phone at 1-866-555-0161 to keep your service. Gift cards are accepted.
+
+=== 1 E
+From: Best Buy <support@bestbuy-protection-renew.com>
+Subject: Your Best Buy Protection plan renewal - order #BBY-49127
+
+Thank you for your order.
+
+Item: Best Buy Totaltech Protection (2 yrs)
+Price: $289.97
+Status: Paid
+
+If you did not make this purchase, please call our billing support line at 1 (888) 555-0108 within 24 hours to cancel your order.
+
+=== 1 E
+From: eBay <member@ebay-secure-messages.com>
+Subject: Buyer has paid - ship item now
+
+Your item has sold and the buyer has paid $420.00 plus $150.00 for shipping by the buyer's personal courier. Please send the $150.00 to the courier by Western Union first, then the full payment will be released to your PayPal.
+
+eBay Safe Trading Team
+
+=== 1 E
+From: Airbnb <reservations@airbnb-booking-secure.com>
+Subject: Complete your reservation payment
+
+Hi,
+
+Your host Patricia has accepted your booking request. Please complete your payment of $486.20 by bank transfer within 12 hours to secure the stay. Card payments are not available for this listing.
+
+[Pay now](https://airbnb-booking-secure.com/payment)
+
+=== 1 E
+From: State Farm <claims@statefarm-refund.org>
+Subject: Insurance overpayment refund of $214.00
+
+Dear Policyholder,
+
+Our audit found you overpaid your premium. A refund of $214.00 is ready for you. To receive the refund, verify your identity and bank account below.
+
+[Receive refund](https://statefarm-refund.org/verify)
+
+=== 1 E
+From: Steam <billing@steam-purchase-dispute.com>
+Subject: Steam purchase receipt - $149.99 Wallet Code
+
+Thank you for your purchase of a $149.99 Steam Wallet Code.
+
+If you did not make this purchase, call the Steam billing team at 1-833-555-0157 within 24 hours to stop the charge.
+
+=== 1 E
+From: Chase <fraud@chase-alerts-center.com>
+Subject: Did you attempt a Zelle payment of $1,250.00?
+
+Chase Fraud Alert
+
+Did you attempt a Zelle payment of $1,250.00 to Robert W.?
+
+Reply YES or NO, or call our fraud team at 1-866-555-0190. To protect your money, our agent may ask you to move funds to a new secure account.
+
+=== 1 E
+From: Amazon <refunds@amazon-returns-dept.com>
+Subject: Refund failed - update bank details
+
+Hello,
+
+We tried to refund $64.99 for your recent return but the transaction failed. Please update your bank details to receive your refund:
+
+[Update details](https://amazon-returns-dept.com/refund)
+
+Amazon Returns

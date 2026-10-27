@@ -1,0 +1,560 @@
+# Training set 9: short notifications - portals, deposits, renewals, documents, deliveries,
+# school systems - and short scams that imitate them.
+
+=== 0 E
+From: MyChart <mychart@bjc.org>
+Subject: New test result available
+
+A new test result is available in MyChart. Log in to view it.
+
+Please do not reply to this message. This mailbox is not monitored.
+
+=== 0 E
+From: Blue Cross Blue Shield of Illinois <noreply@bcbsil.com>
+Subject: Your Explanation of Benefits is ready
+
+A new Explanation of Benefits (EOB) is ready to view in Blue Access for Members.
+
+This is not a bill. Log in at bcbsil.com to see details.
+
+=== 0 E
+From: Fidelity Investments <Fidelity.Alerts@fidelity.com>
+Subject: Your statement is ready
+
+Your monthly statement for your Roth IRA account ending in 4812 is now available online.
+
+To view it, log in to Fidelity.com and go to Statements.
+
+=== 0 E
+From: Charles Schwab <donotreply@mail.schwab.com>
+Subject: Trade confirmation available
+
+A trade confirmation for your account ending in 77 is ready. Log in to schwab.com to view your documents.
+
+=== 0 E
+From: PNC Alerts <pncalerts@pnc.com>
+Subject: Low balance alert
+
+The available balance in your Virtual Wallet Spend account ending in 3301 is below $50.00.
+
+Current available balance: $43.12
+
+You're receiving this alert because you requested it in PNC Online Banking.
+
+=== 0 E
+From: Huntington <alerts@huntington.com>
+Subject: Payment received
+
+We received your payment of $215.00 for your Voice credit card ending in 0081. Thank you.
+
+=== 0 E
+From: Synchrony Bank <synchrony@alerts.synchronybank.com>
+Subject: Your Amazon Store Card statement is ready
+
+Your new statement for your Amazon Store Card ending in 6620 is ready.
+
+Minimum payment due: $35.00
+Payment due date: 11/09/2026
+
+=== 0 E
+From: Experian <experian@e.experian.com>
+Subject: Your FICO Score changed
+
+Your FICO Score went up 9 points. Log in to see what changed.
+
+Unsubscribe from score alerts.
+
+=== 0 E
+From: Credit Karma <notifications@creditkarma.com>
+Subject: A new account was reported on your credit report
+
+Hi Jamie,
+
+A new account was reported on your TransUnion credit report: DISCOVER CARD, opened 09/2026. If you recognize this account, no action is needed.
+
+[Review my report](https://www.creditkarma.com/myfinances/creditreport)
+
+=== 0 E
+From: TurboTax <TurboTax@em1.turbotax.intuit.com>
+Subject: Your tax return was accepted by the IRS
+
+Good news! The IRS accepted your 2025 federal tax return. Your refund of $412 is on its way.
+
+You can check the status of your refund at irs.gov/refunds.
+
+=== 0 E
+From: IRS <noreply@irs.gov>
+Subject: Your IRS Online Account: new notice available
+
+A new notice is available in your IRS Online Account. For your security, sign in at IRS.gov to view it. We do not include personal details in email.
+
+=== 0 E
+From: Disney+ <disneyplus@mail.disneyplus.com>
+Subject: Your one-time passcode for Disney+
+
+Your one-time passcode is 739204. This passcode will expire in 15 minutes.
+
+If you did not request this, you can ignore this email.
+
+=== 0 E
+From: Paramount+ <paramountplus@paramountplus.com>
+Subject: Welcome to Paramount+
+
+You're in! Your Paramount+ Essential subscription has started.
+
+Next billing date: November 22, 2026
+Price: $7.99/month
+
+Start watching on any device.
+
+=== 0 E
+From: Max <max@service.max.com>
+Subject: Your sign-in code
+
+Here's your Max sign-in code: 4920
+
+It expires in 15 minutes.
+
+=== 0 E
+From: Peacock <peacock@peacocktv.com>
+Subject: Your Peacock Premium plan is confirmed
+
+Thanks for subscribing! Peacock Premium is now active on your account. You'll be billed $10.99/month starting Nov 21. Manage your plan anytime in Account.
+
+=== 0 E
+From: Audible <donotreply@audible.com>
+Subject: Your Audible membership has been cancelled
+
+We're sorry to see you go. Your membership has been cancelled and you won't be billed again. Your library and any unused credits remain yours until Nov 30.
+
+=== 0 E
+From: Google Payments <payments-noreply@google.com>
+Subject: Your Google One subscription has been cancelled
+
+Your Google One 100 GB plan has been cancelled. You can keep using your storage until Nov 4, 2026. After that, your storage limit will return to 15 GB.
+
+=== 0 E
+From: YMCA of Metro Chicago <noreply@ymcachicago.org>
+Subject: Your membership payment was processed
+
+Thank you! Your monthly membership payment of $54.00 was processed on 10/20/2026.
+
+=== 0 E
+From: Amazon.com <shipment-tracking@amazon.com>
+Subject: Out for delivery: "Texas Instruments TI-84 Plus CE..."
+
+Your package is out for delivery today.
+
+Texas Instruments TI-84 Plus CE Graphing Calculator
+
+[Track package](https://www.amazon.com/progress-tracker/package)
+
+=== 0 E
+From: Amazon.com <order-update@amazon.com>
+Subject: Your package may arrive later than expected
+
+We're sorry, your package may arrive later than expected. New estimated delivery: Friday, October 23.
+
+You can check the latest status in Your Orders. There's no need to contact us.
+
+=== 0 E
+From: USPS <auto-reply@usps.com>
+Subject: USPS Tracking: Available for Pickup
+
+Your item is available for pickup at the RIVERTON Post Office (62561) as of 9:42 am on October 20, 2026.
+
+Tracking number: 9400 1118 9922 3360 4471 08
+
+Bring a photo ID. The item will be held for 15 days.
+
+=== 0 E
+From: Ring <no-reply@ring.com>
+Subject: A new device was added to your Ring account
+
+A new device, Front Door Video Doorbell, was added to your Ring account by Mark Wilson.
+
+If you didn't add this device, please contact Ring support.
+
+=== 0 E
+From: Nest <noreply@google.com>
+Subject: Your Nest thermostat detected a temperature drop
+
+Your Living Room thermostat reports an indoor temperature of 52°F. You might want to check your heating system.
+
+=== 0 E
+From: Tesla <no-reply@tesla.com>
+Subject: Your service appointment is confirmed
+
+Your Tesla Service appointment is confirmed for Wednesday, Oct 28 at 10:00 AM at Tesla Riverton. Manage it in the Tesla app.
+
+=== 0 E
+From: Carvana <noreply@carvana.com>
+Subject: Your offer is ready
+
+Your Carvana offer for your 2015 Honda Civic is ready: $8,400. It's good for 7 days.
+
+[See my offer](https://www.carvana.com/sell-my-car)
+
+=== 0 E
+From: Facebook <notification@facebookmail.com>
+Subject: Jordan Ellis tagged you in a photo
+
+Jordan Ellis tagged you in a photo from "Homecoming 2026".
+
+[See photo](https://www.facebook.com/photo/?fbid=1029)
+
+Meta Platforms, Inc., Attention: Community Support, 1 Meta Way, Menlo Park, CA 94025
+
+=== 0 E
+From: Instagram <no-reply@mail.instagram.com>
+Subject: emma.runs and 3 others liked your post
+
+emma.runs, jack_t and 2 others liked your post.
+
+[View post](https://www.instagram.com/p/C9x2)
+
+=== 0 E
+From: YouTube <noreply@youtube.com>
+Subject: Your video has been uploaded
+
+Your video "Bridge build test - Science Olympiad" has finished processing and is now available.
+
+=== 0 E
+From: Strava <no-reply@strava.com>
+Subject: Coach Bauer gave you kudos
+
+Coach Bauer gave you kudos on "Morning recovery run".
+
+=== 0 E
+From: Goodreads <no-reply@goodreads.com>
+Subject: Your reading challenge update
+
+You've read 18 of 25 books toward your 2026 Reading Challenge. You're 2 books ahead of schedule!
+
+=== 0 E
+From: Microsoft Teams <noreply@email.teams.microsoft.com>
+Subject: You have been added to a team in Microsoft Teams
+
+Ms. Rivera added you to the team "AP Capstone 2026-27".
+
+[Open Microsoft Teams](https://teams.microsoft.com/l/team/19%3a8b2)
+
+=== 0 E
+From: Google Calendar <calendar-notification@google.com>
+Subject: Invitation: Science Olympiad build meeting @ Wed Oct 21, 3:30pm - 5pm (CDT)
+
+Mr. Kim has invited you to this event.
+
+Science Olympiad build meeting
+When: Wednesday Oct 21, 2026 3:30pm - 5pm (CDT)
+Where: Room 214
+
+Going? Yes - Maybe - No
+
+=== 0 E
+From: Google Drive <drive-shares-dm-noreply@google.com>
+Subject: Document shared with you: "Debate case - Resolved: The US should ban TikTok"
+
+Alex Morgan shared a document
+
+Alex Morgan (alex.morgan@rivertonschools.org) has invited you to edit the following document:
+
+Debate case - Resolved: The US should ban TikTok
+
+[Open](https://docs.google.com/document/d/1gH2/edit)
+
+Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. You have received this email because alex.morgan@rivertonschools.org shared a document with you from Google Docs.
+
+=== 0 E
+From: OneDrive <no-reply@onedrive.com>
+Subject: Your files are backed up
+
+Your Desktop, Documents and Pictures folders are now backed up to OneDrive.
+
+=== 0 E
+From: Tabroom.com <noreply@tabroom.com>
+Subject: Your entry has been accepted: Glenbrooks Speech & Debate
+
+Your entry in Lincoln-Douglas Debate at Glenbrooks Speech & Debate has been accepted. Pairings will be posted the morning of the tournament.
+
+=== 0 E
+From: Illinois Science Olympiad <info@scioly-il.org>
+Subject: Registration confirmed: Regional tournament
+
+Your team's registration for the Illinois Science Olympiad Regional Tournament on Saturday, Feb 27 has been confirmed. Event schedules will be posted in January.
+
+=== 0 E
+From: SAT Practice on Khan Academy <no-reply@khanacademy.org>
+Subject: Weekly progress: 5 skills leveled up
+
+Nice work! You leveled up 5 skills this week and practiced for 1 hr 40 min.
+
+=== 0 E
+From: Naviance <noreply@naviance.com>
+Subject: Your counselor sent a document to Purdue University
+
+Your school counselor sent your letter of recommendation to Purdue University on 10/19/2026.
+
+=== 0 E
+From: PowerSchool <noreply@powerschool.com>
+Subject: Progress report available
+
+The quarter 1 progress report for your student is available in the PowerSchool Parent Portal.
+
+=== 0 E
+From: SchoolMessenger <noreply@schoolmessenger.com>
+Subject: Message from Riverton High School
+
+Families, picture day retakes are Wednesday. Students should bring their original picture packet if they want retakes.
+
+=== 0 E
+From: Lifetouch <noreply@lifetouch.com>
+Subject: Your school photos are ready to view
+
+Your student's fall portraits are ready! View and order prints online with your Picture Day ID.
+
+=== 0 E
+From: Red Cross Blood <redcrossblood@redcross.org>
+Subject: Thank you for donating blood
+
+Thank you for your donation on October 14 at the Riverton High School blood drive. You'll be eligible to give again on December 9.
+
+=== 0 E
+From: City of Riverton <noreply@crystallake.org>
+Subject: Leaf collection starts Monday
+
+Curbside leaf collection begins Monday, Oct 26. Rake leaves to the curb, not into the street.
+
+=== 0 E
+From: Waste Management <noreply@wm.com>
+Subject: Your pickup is delayed due to the holiday
+
+Your trash and recycling pickup will be one day later this week because of the holiday.
+
+=== 0 E
+From: Hertz <hertz@email.hertz.com>
+Subject: Your Hertz reservation is confirmed
+
+Confirmation number: K4419820771
+Pickup: Chicago O'Hare (ORD), Nov 20 at 10:00 AM
+Return: Nov 22 at 8:00 PM
+Vehicle: Toyota Corolla or similar
+
+=== 0 E
+From: Marriott Bonvoy <marriottbonvoy@email-marriott.com>
+Subject: Your reservation confirmation
+
+Thanks for booking with Marriott Bonvoy!
+
+Courtyard Champaign
+Check-in: Fri, Nov 13
+Check-out: Sun, Nov 15
+Confirmation: 81920374
+
+=== 0 E
+From: Amtrak <noreply@amtrak.com>
+Subject: Your eTicket for Chicago - Champaign-Urbana
+
+Thank you for traveling with Amtrak. Your eTicket is attached.
+
+Train 391 Saluki - Fri Nov 13, depart Chicago Union Station 4:05 PM, arrive Champaign 6:30 PM.
+
+=== 0 E
+From: Metra <noreply@metrarail.com>
+Subject: Service alert: UP-NW line delays
+
+UP-NW inbound trains are operating with delays of 15-20 minutes due to a freight train. We apologize for the inconvenience.
+
+# ------------------------------------------- scams -------------------------------------------
+
+=== 1 E
+From: MyChart Patient Portal <mychart@patient-portal-update.com>
+Subject: Your lab results are ready - sign in to view
+
+Your lab results are ready. Sign in with your email password to view them before they expire.
+
+[View results](https://patient-portal-update.com/login)
+
+=== 1 E
+From: Fidelity <alerts@fidelity-account-hold.com>
+Subject: Your account has been placed on hold
+
+Due to a security issue, withdrawals from your account are on hold. Verify your identity and bank details to remove the hold.
+
+[Remove hold](https://fidelity-account-hold.com/verify)
+
+=== 1 E
+From: Credit Bureau Alert <alerts@credit-score-warning.net>
+Subject: Your credit score dropped 128 points
+
+Warning! Your credit score dropped 128 points because of suspicious activity. Call our credit protection team at 1-833-555-0181 now to stop identity theft.
+
+=== 1 E
+From: IRS Online Account <irs.notices@irs-account-gov.us>
+Subject: Notice CP14: balance due - avoid legal action
+
+You have an unpaid federal tax balance of $2,341.00. Failure to pay today will result in legal action and a lien on your property. Pay now with a prepaid card by calling 1-202-555-0177.
+
+=== 1 E
+From: Disney+ <disneyplus@account-billing-disney.com>
+Subject: Your Disney+ subscription is suspended
+
+We couldn't verify your payment, so your Disney+ subscription is suspended. Update your card details to continue watching.
+
+[Update card](https://account-billing-disney.com/billing)
+
+=== 1 E
+From: Amazon Shipping <noreply@amazon-package-held.com>
+Subject: Your package is on hold - customs fee due
+
+Your Amazon package is held at the distribution center. A customs fee of $2.99 must be paid before delivery.
+
+[Pay fee](https://amazon-package-held.com/pay)
+
+=== 1 E
+From: USPS <auto-reply@usps-hold-notice.com>
+Subject: USPS: final delivery attempt
+
+We will make a final delivery attempt tomorrow. To confirm, verify your address and pay the $0.30 service fee.
+
+[Confirm delivery](https://usps-hold-notice.com/confirm)
+
+=== 1 E
+From: Ring Security <security@ring-account-alert.com>
+Subject: Someone accessed your Ring cameras
+
+An unknown device in Ukraine is viewing your Ring cameras right now. Secure your account immediately:
+
+[Secure account](https://ring-account-alert.com/signin)
+
+=== 1 E
+From: Facebook Security <security@fb-account-recovery.org>
+Subject: Someone tried to log in to your account
+
+We noticed a login attempt from a new device in Brazil. If this wasn't you, confirm your identity within 12 hours or your account will be disabled.
+
+[This wasn't me](https://fb-account-recovery.org/secure)
+
+=== 1 E
+From: Google Drive <share@drive-documents-share.com>
+Subject: Invoice_10274.pdf has been shared with you
+
+A document has been shared with you via Google Drive.
+
+Invoice_10274.pdf
+
+[Open document](https://drive-documents-share.com/view)
+
+Sign in with your email to access the file.
+
+=== 1 E
+From: OneDrive <noreply@onedrive-file-share.net>
+Subject: You have received 3 files via OneDrive
+
+You have received 3 new files. Click below to download them before the link expires.
+
+[Download files](https://onedrive-file-share.net/download)
+
+=== 1 E
+From: Microsoft Teams <noreply@teams-meeting-invite.co>
+Subject: You've missed a Teams message from HR
+
+You have a missed message from Human Resources about your salary adjustment. Log in to read it.
+
+[Open Teams](https://teams-meeting-invite.co/login)
+
+=== 1 E
+From: Tesla Giveaway <giveaway@tesla-owners-rewards.com>
+Subject: You've been selected for a free Tesla Model 3
+
+Congratulations! You were selected in our owner referral drawing for a free Tesla Model 3. Pay the $250 registration fee to schedule delivery.
+
+=== 1 E
+From: Carvana Offers <offers@carvana-instant-cash.com>
+Subject: We'll pay $25,000 for your car - instant cash
+
+We'll pay you $25,000 cash for any car, any condition. Pay a $99 inspection deposit to lock in your offer.
+
+=== 1 E
+From: Hertz Rewards <rewards@hertz-gold-plus-gift.com>
+Subject: Hertz Gold Plus member: free weekend rental
+
+As a valued Gold Plus member, you've won a free weekend rental. Confirm with your card to activate your reward.
+
+[Activate reward](https://hertz-gold-plus-gift.com)
+
+=== 1 E
+From: Marriott Bonvoy <bonvoy@marriott-points-bonus.com>
+Subject: 100,000 bonus points added to your account
+
+You have received 100,000 bonus points! Log in within 24 hours to keep them.
+
+[Log in](https://marriott-points-bonus.com/login)
+
+=== 1 E
+From: Amtrak <tickets@amtrak-free-ticket.com>
+Subject: Amtrak survey: get 2 free round-trip tickets
+
+Take our quick survey and receive 2 free round-trip tickets anywhere in the U.S.! Small processing fee required.
+
+=== 1 E
+From: Tabroom Support <support@tabroom-payment.com>
+Subject: Tournament fee unpaid - entry will be dropped
+
+Your entry fee of $85 is unpaid and your entry will be dropped. Pay today with a gift card and send us the code to keep your entry.
+
+=== 1 E
+From: PowerSchool <support@powerschool-parent-verify.com>
+Subject: Parent portal account expired
+
+Your PowerSchool Parent Portal account has expired. Log in to reactivate it or you will lose access to your student's grades.
+
+[Reactivate](https://powerschool-parent-verify.com/login)
+
+=== 1 E
+From: City Utilities <billing@city-water-shutoff.com>
+Subject: Water shutoff notice
+
+Your water service will be shut off today due to an unpaid balance of $212.40. Call 1-844-555-0126 to pay and avoid shutoff.
+
+=== 1 E
+From: Credit Karma <alert@creditkarma-security.info>
+Subject: Your identity was found on the dark web
+
+Your Social Security number was found on the dark web. Click below and enter your SSN to see where it was leaked.
+
+[Check now](https://creditkarma-security.info/scan)
+
+=== 1 E
+From: TurboTax <refund@turbotax-refund-status.com>
+Subject: Your refund was rejected - update bank info
+
+Your federal tax refund of $1,412 was rejected because your bank information is incorrect. Update it now to receive your refund.
+
+[Update bank info](https://turbotax-refund-status.com/update)
+
+=== 1 E
+From: Paramount+ <promo@paramount-plus-free.com>
+Subject: You've won a free year of Paramount+
+
+Congratulations! You've won 12 months of Paramount+ Premium. Enter your card details to verify your age and activate it.
+
+=== 1 E
+From: Strava <noreply@strava-premium-gift.com>
+Subject: You've unlocked a free Garmin watch
+
+Congratulations athlete! Your activity streak unlocked a free Garmin Forerunner. Pay $6.95 shipping to claim it.
+
+=== 1 E
+From: Google Calendar <calendar@calendar-invites-alerts.com>
+Subject: Invitation: PayPal Payment Received $892.00
+
+You have received a payment of $892.00. If you did not authorize this, call PayPal support at 1-888-555-0153.
+
+=== 1 E
+From: Payroll Department <payroll@company-hr-portal.com>
+Subject: Action required: update your direct deposit
+
+Please update your direct deposit information before this week's payroll is processed. Use the link below to log in with your work email and password.
+
+[Update direct deposit](https://company-hr-portal.com/login)

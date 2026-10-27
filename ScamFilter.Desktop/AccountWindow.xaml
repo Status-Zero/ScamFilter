@@ -1,0 +1,93 @@
+<!--
+  Making an account (the first time ScamFilter opens, or "Add an account") and choosing
+  which account to use ("Switch account"). See AccountWindow.xaml.cs.
+-->
+<Window x:Class="ScamFilter.Desktop.AccountWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ScamFilter" Icon="Assets/ScamFilter.ico" Width="520" SizeToContent="Height"
+        WindowStartupLocation="CenterScreen" ResizeMode="NoResize"
+        Background="{StaticResource SurfaceBrush}" FontFamily="{StaticResource UiFont}" FontSize="14"
+        Foreground="{StaticResource TextBrush}" TextOptions.TextFormattingMode="Display" UseLayoutRounding="True">
+    <StackPanel Margin="32,28,32,26">
+        <StackPanel Orientation="Horizontal" Margin="0,0,0,18">
+            <Image Source="Assets/ScamFilterLogo.png" Width="30" Height="30" RenderOptions.BitmapScalingMode="HighQuality" />
+            <TextBlock x:Name="Heading" FontFamily="{StaticResource DisplayFont}" FontSize="22" FontWeight="SemiBold"
+                       VerticalAlignment="Center" Margin="12,0,0,0" />
+        </StackPanel>
+
+        <!-- ===== Choose an account ===== -->
+        <StackPanel x:Name="PickPanel" Visibility="Collapsed">
+            <TextBlock x:Name="PickIntro" Style="{StaticResource BodyText}" Foreground="{StaticResource TextSecondaryBrush}" Margin="0,0,0,12"
+                       Text="Choose your account. ScamFilter asks for its password (or Microsoft sign-in) to open it." />
+            <ListBox x:Name="AccountList" BorderThickness="0" Background="Transparent" MaxHeight="300"
+                     ItemContainerStyle="{StaticResource HistoryRow}" HorizontalContentAlignment="Stretch"
+                     ScrollViewer.HorizontalScrollBarVisibility="Disabled" SelectionChanged="AccountList_SelectionChanged">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Margin="2,8">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <Border Width="36" Height="36" CornerRadius="18" Background="{StaticResource AccentBrush}" Margin="0,0,12,0">
+                                <TextBlock Text="{Binding Initial}" Foreground="White" FontWeight="SemiBold" FontSize="16"
+                                           HorizontalAlignment="Center" VerticalAlignment="Center" />
+                            </Border>
+                            <StackPanel Grid.Column="1" VerticalAlignment="Center">
+                                <TextBlock Text="{Binding Name}" FontWeight="SemiBold" />
+                                <TextBlock Text="{Binding Detail}" Style="{StaticResource Caption}" />
+                            </StackPanel>
+                        </Grid>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+            <WrapPanel Margin="0,14,0,0">
+                <Button Content="Add an account" Click="ShowCreate_Click" />
+                <Button x:Name="PickCancelButton" Content="Cancel" Click="Cancel_Click" />
+            </WrapPanel>
+        </StackPanel>
+
+        <!-- ===== Make an account ===== -->
+        <StackPanel x:Name="CreatePanel" Visibility="Collapsed">
+            <TextBlock x:Name="CreateIntro" Style="{StaticResource BodyText}" Foreground="{StaticResource TextSecondaryBrush}" Margin="0,0,0,6"
+                       Text="Each person on this PC gets their own ScamFilter account, with their own blocked and trusted lists, Outlook, and alert contacts. Checking messages never needs a password. Changing protections does, so nobody can talk you into turning them off." />
+            <TextBlock Style="{StaticResource FieldLabel}" Text="Your name" />
+            <TextBox x:Name="NameInput" Tag="Like Jordan or Grandma" MaxLength="40" />
+            <TextBlock Style="{StaticResource FieldLabel}" Text="Password" />
+            <PasswordBox x:Name="PasswordInput" />
+            <TextBlock Style="{StaticResource Caption}" Margin="0,5,0,0"
+                       Text="At least 8 characters. A short phrase like &quot;purple tractor river&quot; is easy to remember and hard to guess." />
+            <TextBlock Style="{StaticResource FieldLabel}" Text="Type it again" />
+            <PasswordBox x:Name="PasswordAgain" KeyDown="PasswordAgain_KeyDown" />
+            <TextBlock x:Name="CreateStatus" Style="{StaticResource Caption}" Foreground="{StaticResource UnsafeBrush}" Margin="0,8,0,0" />
+            <WrapPanel Margin="0,14,0,0">
+                <Button x:Name="CreateButton" Style="{StaticResource PrimaryButton}" Content="Create account" Click="Create_Click" />
+                <Button x:Name="BackToPickButton" Content="Back" Click="BackToPick_Click" />
+            </WrapPanel>
+
+            <!-- Only when the Outlook features show (App.ShowOutlook) and the app is registered with Microsoft -->
+            <StackPanel x:Name="MicrosoftOption">
+                <Grid Margin="0,14,0,14">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="Auto" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    <Border Height="1" Background="{StaticResource BorderBrushSoft}" VerticalAlignment="Center" />
+                    <TextBlock Grid.Column="1" Text="or" Style="{StaticResource Caption}" Margin="12,0" />
+                    <Border Grid.Column="2" Height="1" Background="{StaticResource BorderBrushSoft}" VerticalAlignment="Center" />
+                </Grid>
+                <Button x:Name="MicrosoftButton" HorizontalAlignment="Left" Click="CreateWithMicrosoft_Click">
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock FontFamily="{StaticResource IconFont}" Text="&#xE77B;" VerticalAlignment="Center" Margin="0,0,8,0" />
+                        <TextBlock Text="Use my Microsoft account instead" />
+                    </StackPanel>
+                </Button>
+                <TextBlock Style="{StaticResource Caption}" Margin="0,2,0,0"
+                           Text="No new password to remember: you unlock ScamFilter by signing in to Microsoft (Outlook.com, Hotmail, or work or school). It also links your Outlook inbox." />
+                <TextBlock x:Name="MicrosoftStatus" Style="{StaticResource Caption}" Margin="0,6,0,0" />
+            </StackPanel>
+        </StackPanel>
+    </StackPanel>
+</Window>

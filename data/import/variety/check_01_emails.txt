@@ -1,0 +1,580 @@
+# HELD-OUT variety check (emails), version 2. Written last, after all the training files,
+# with brands, schools and wording not used in training, and never used for training or tuning.
+# Same author as the training files, so its score is an optimistic sanity check, not proof.
+
+=== 0 E
+From: WhatsApp <noreply@whatsapp.com>
+Subject: Your WhatsApp email verification code
+
+Your WhatsApp email verification code is 318-604.
+
+Enter this code in WhatsApp to verify this email address. Don't share this code with anyone.
+
+=== 0 E
+From: TikTok <no-reply@account.tiktok.com>
+Subject: 482015 is your verification code
+
+Verification code
+
+To verify your account, enter this code in TikTok:
+
+482015
+
+Verification codes expire after 48 hours. If you didn't request this code, you can ignore this message.
+
+=== 0 E
+From: Life360 <noreply@life360.com>
+Subject: Confirm your email address
+
+Hi Jenna,
+
+Please confirm your email address to finish setting up Life360 for your Circle.
+
+[Confirm email](https://app.life360.com/confirm?c=4a1)
+
+=== 0 E
+From: Robinhood <notifications@robinhood.com>
+Subject: Your deposit is complete
+
+Your deposit of $100.00 from Chase ••4458 is complete and available to invest.
+
+=== 0 E
+From: SoFi <no-reply@sofi.com>
+Subject: You've got a new message about your account
+
+You have a new secure message in the SoFi app. Log in to read it.
+
+SoFi will never ask for your password or one-time code.
+
+=== 0 E
+From: Chime <alerts@chime.com>
+Subject: Your direct deposit arrived
+
+Your direct deposit of $388.21 from STARLIGHT LANES is in your Checking Account.
+
+=== 0 E
+From: Navy Federal Credit Union <navyfederal@email.navyfederal.org>
+Subject: Your one-time passcode
+
+Your Navy Federal one-time passcode is 774031. It expires in 10 minutes. We will never call you to ask for it.
+
+=== 0 E
+From: BMO <bmo@notifications.bmo.com>
+Subject: A new payee was added
+
+A new Zelle recipient, Mike Torres, was added to your BMO account on 10/22/2026. If you didn't do this, call us at 1-888-340-2265.
+
+=== 0 E
+From: Xfinity <online.communications@alerts.comcast.net>
+Subject: Your Xfinity bill is ready
+
+Your bill is ready to view. Amount due: $89.99. Due date: November 8, 2026.
+
+Your automatic payment is scheduled. No action is needed.
+
+=== 0 E
+From: Mint Mobile <hello@mintmobile.com>
+Subject: Your plan renews in 7 days
+
+Your 3-month Unlimited plan renews on October 30 for $90.00. Auto-recharge is on.
+
+=== 0 E
+From: Illinois American Water <noreply@amwater.com>
+Subject: Your water bill is available
+
+Your Illinois American Water bill is available. Amount due: $47.30, due Nov 12.
+
+=== 0 E
+From: Menards <menards@email.menards.com>
+Subject: Your 11% rebate check is on the way
+
+Your Menards 11% Mail-In Rebate for $14.82 has been processed and your rebate check will arrive in 3-4 weeks.
+
+=== 0 E
+From: Aldi <aldi@email.aldi.us>
+Subject: This week's Aldi Finds
+
+New Aldi Finds arrive Wednesday: fleece throws, cast iron Dutch ovens, and kids' craft kits. While supplies last!
+
+Unsubscribe
+
+=== 0 E
+From: Meijer <mperks@email.meijer.com>
+Subject: Your mPerks rewards are ready
+
+You've earned a $5 reward in mPerks! It's ready to use on your next shopping trip.
+
+Unsubscribe
+
+=== 0 E
+From: Sam's Club <samsclub@email.samsclub.com>
+Subject: Member exclusive: Instant Savings this week
+
+Plus and Club members: shop this week's Instant Savings on TVs, snacks and household essentials.
+
+Unsubscribe
+
+=== 0 E
+From: PetSmart <petsmart@email.petsmart.com>
+Subject: Treats Rewards: 2x points this weekend
+
+Earn double Treats points on all dog and cat food this weekend.
+
+Unsubscribe
+
+=== 0 E
+From: Dunkin' <dunkin@email.dunkindonuts.com>
+Subject: Free medium coffee with any purchase
+
+Dunkin' Rewards members: get a free medium hot or iced coffee with any purchase today. Offer in the app.
+
+Unsubscribe
+
+=== 0 E
+From: McDonald's <mcdonalds@email.mcdonalds.com>
+Subject: Free fries Friday is back
+
+Get free medium fries with any $1 minimum purchase every Friday in the app.
+
+Unsubscribe
+
+=== 0 E
+From: Five Below <fivebelow@email.fivebelow.com>
+Subject: New arrivals under $5
+
+Fidget toys, phone accessories and Halloween decor, all $5 and under.
+
+Unsubscribe
+
+=== 0 E
+From: Expedia <expedia@eg.expedia.com>
+Subject: Your flight is booked: ORD to MCO
+
+Thanks for booking with Expedia.
+
+Itinerary #73019284721
+United Airlines 1842, ORD to MCO, Sat Dec 19, 8:05 AM
+
+Check in with United 24 hours before departure.
+
+=== 0 E
+From: United Airlines <unitedairlines@united.com>
+Subject: Your flight time has changed
+
+The departure time of your flight UA1842 on December 19 has changed from 8:05 AM to 8:40 AM. No action is needed, but you can view other options in the United app.
+
+=== 0 E
+From: Kayak <kayak@msg.kayak.com>
+Subject: Price alert: Chicago to Denver dropped to $118
+
+Good news! The price for your tracked route Chicago to Denver dropped to $118 round-trip.
+
+Unsubscribe from price alerts.
+
+=== 0 E
+From: Allstate <allstate@email.allstate.com>
+Subject: Your policy renewal documents
+
+Your Allstate auto policy renews on November 12. Your renewal documents are ready in the Allstate app.
+
+=== 0 E
+From: Liberty Mutual <libertymutual@email.libertymutual.com>
+Subject: Payment confirmation
+
+We received your payment of $118.40 for policy AOS-281-449810-40. Thank you!
+
+=== 0 E
+From: Rush University Medical Center <noreply@rush.edu>
+Subject: Your upcoming appointment
+
+You have an appointment on Monday, November 2 at 1:30 PM at Rush Oak Park. To reschedule, call 888-352-7874 or use MyChart.
+
+=== 0 E
+From: OSF HealthCare <noreply@osfhealthcare.org>
+Subject: Your statement is ready in OSF MyChart
+
+A new billing statement is available in OSF MyChart. Sign in to view and pay. If you have questions, call the number on your statement.
+
+=== 0 E
+From: Selective Service System <noreply@sss.gov>
+Subject: Selective Service registration acknowledgment
+
+Thank you for registering with the Selective Service System. Your registration number is listed on the acknowledgment card that will arrive by mail. Keep it for your records.
+
+=== 0 E
+From: Riverton County Clerk <elections@rivertoncountyil.gov>
+Subject: Your voter registration has been processed
+
+Your voter registration application has been processed. Your voter ID card will be mailed to you within 2-3 weeks.
+
+=== 0 E
+From: USPS <USPSChangeofAddress@email.usps.com>
+Subject: Your Change of Address is confirmed
+
+Your Change of Address request has been confirmed. Mail will be forwarded starting November 1. Confirmation code: 4482-1190-77.
+
+The identity verification charge of $1.10 was billed to your card ending in 3021.
+
+=== 0 E
+From: Ball State University <askus@bsu.edu>
+Subject: Your Ball State application fee has been waived
+
+Hi Noah,
+
+Good news: we've waived your application fee. Finish your application by Nov 15 for priority scholarship consideration.
+
+Ball State University, Office of Admissions, 2000 W University Ave, Muncie, IN 47306. Unsubscribe
+
+=== 0 E
+From: Butler University <admission@butler.edu>
+Subject: Bulldogs: your campus visit is confirmed
+
+Hi Maya, your campus visit is confirmed for Friday, November 6 at 10 a.m. Check in at the Welcome Center in Atherton Union.
+
+=== 0 E
+From: University of Minnesota <admissions@umn.edu>
+Subject: The College of Science and Engineering is waiting for you
+
+Hi Jordan,
+
+Explore computer science at the University of Minnesota's College of Science and Engineering, with research opportunities starting your first year.
+
+[Explore CSE](https://cse.umn.edu)
+
+Office of Admissions, 240 Williamson Hall, Minneapolis, MN 55455. Unsubscribe
+
+=== 0 E
+From: Missouri S&T <admissions@mst.edu>
+Subject: Solve for tomorrow at Missouri S&T
+
+Hi Ethan, at Missouri S&T, 9 out of 10 graduates land jobs within six months, with average starting salaries above $70,000.
+
+Unsubscribe
+
+=== 0 E
+From: Illinois Wesleyan University <iwuadmit@iwu.edu>
+Subject: Your scholarship and financial aid offer
+
+Hi Grace,
+
+Your financial aid offer is ready in your IWU portal. It includes your merit scholarship of $27,000 per year.
+
+=== 0 E
+From: Wheaton College <admissions@wheaton.edu>
+Subject: Application received
+
+Thank you for applying to Wheaton College! We've received your application and will email you if anything is missing.
+
+=== 0 E
+From: PSAT/NMSQT <noreply@collegeboard.org>
+Subject: Your PSAT/NMSQT scores are available
+
+Your PSAT/NMSQT scores are ready in BigFuture School. Sign in to see your scores and practice recommendations.
+
+=== 0 E
+From: Infinite Campus <noreply@infinitecampus.com>
+Subject: Grade posted: AP Calculus BC
+
+A new grade has been posted for AP Calculus BC. Log in to Campus Student to view it.
+
+=== 0 E
+From: ParentSquare <noreply@parentsquare.com>
+Subject: Post from Riverton Central: Conferences sign-up
+
+Parent-teacher conference sign-ups are now open in ParentSquare. Conferences are Nov 5 and 6.
+
+=== 0 E
+From: ZipRecruiter <alerts@ziprecruiter.com>
+Subject: 10 new jobs near Riverton, IL
+
+Barista - Starbucks - $15-$18/hr
+Sales Associate - Kohl's - $14.50/hr
+Front Desk Associate - Life Time - $15/hr
+
+Unsubscribe from job alerts.
+
+=== 0 E
+From: Glassdoor <noreply@glassdoor.com>
+Subject: Your company review was published
+
+Thanks for sharing! Your review of Starlight Lanes has been published.
+
+=== 0 E
+From: Paylocity <noreply@paylocity.com>
+Subject: Your W-2 is available
+
+Your 2025 W-2 is available to view and download in Paylocity.
+
+=== 0 E
+From: Gusto <noreply@gusto.com>
+Subject: You've been paid!
+
+Your pay of $214.66 from Cary Dental Group will be deposited on Friday, October 23.
+
+=== 0 E
+From: Wintrust Bank <noreply@wintrust.com>
+Subject: Your eStatement is ready
+
+Your October eStatement for account ending 0091 is available in online banking.
+
+=== 0 E
+From: Acorns <hello@acorns.com>
+Subject: Your Round-Ups were invested
+
+$6.42 in Round-Ups was invested in your portfolio this week.
+
+=== 0 E
+From: Trader Joe's <news@traderjoes.com>
+Subject: The Fearless Flyer: fall favorites are back
+
+Pumpkin bread mix, maple leaf cookies and Harvest Blend herbal tea are back on our shelves.
+
+Unsubscribe
+
+=== 0 E
+From: Joann <joann@email.joann.com>
+Subject: 50% off yarn this weekend
+
+Get cozy: 50% off all yarn this weekend, in store and online.
+
+Unsubscribe
+
+=== 0 E
+From: Sherwin-Williams <sherwin@email.sherwin-williams.com>
+Subject: 40% off paints and stains
+
+Save 40% off paints and stains through Monday. Find a store near you.
+
+Unsubscribe
+
+=== 0 E
+From: Grandma Rose <rose.kowalski@sbcglobal.net>
+Subject: Recipe you asked for
+
+Hi honey,
+
+Here is the pierogi recipe you asked for. Don't forget to pinch the edges tight or they'll open when you boil them!
+
+Love, Grandma
+
+=== 0 E
+From: Ava Chen <avachen.lw@gmail.com>
+Subject: notes from today
+
+hey, here are my notes from the AP bio lecture you missed. the quiz is on chapters 7 and 8. good luck!
+
+=== 0 E
+From: Ms. Okafor <nokafor@rivertonschools.org>
+Subject: Debate tournament permission slip
+
+Hi debaters,
+
+Please return your signed permission slip for the Glenbrooks tournament by Wednesday. The bus leaves Friday at 2:30 PM.
+
+Ms. Okafor
+
+# ------------------------------------------- scams -------------------------------------------
+
+=== 1 E
+From: WhatsApp Support <support@whatsapp-account-verify.com>
+Subject: Your WhatsApp account will be deactivated
+
+Your WhatsApp account will be deactivated in 24 hours because it was not verified. Click below and enter the 6-digit code we text you to keep your account.
+
+[Verify account](https://whatsapp-account-verify.com)
+
+=== 1 E
+From: TikTok Creator Fund <creators@tiktok-creator-bonus.com>
+Subject: You've earned $1,250 from the Creator Fund
+
+Congratulations! Your videos earned $1,250 from the TikTok Creator Fund. Log in to withdraw your earnings within 48 hours.
+
+[Withdraw earnings](https://tiktok-creator-bonus.com/login)
+
+=== 1 E
+From: Robinhood Security <security@robinhood-account-review.com>
+Subject: Margin call: deposit required to avoid liquidation
+
+Your account has a margin call of $2,140. Deposit funds within 2 hours using the link below or your positions will be liquidated.
+
+[Deposit now](https://robinhood-account-review.com/deposit)
+
+=== 1 E
+From: Chime <alerts@chime-funds-release.com>
+Subject: You received $500 - claim pending
+
+You received $500 from SpotMe Rewards. To release the funds, verify your debit card and PIN.
+
+[Release funds](https://chime-funds-release.com)
+
+=== 1 E
+From: Navy Federal <security@navyfederal-alerts.net>
+Subject: Your account has been temporarily locked
+
+We detected unusual activity and locked your account. Unlock it now by verifying your Access Number and password.
+
+[Unlock account](https://navyfederal-alerts.net/login)
+
+=== 1 E
+From: Xfinity Billing <billing@xfinity-account-suspension.com>
+Subject: Final notice: your Xfinity service will be suspended
+
+Your Xfinity payment is overdue and your service will be suspended today. Pay now to avoid a $150 reconnection fee.
+
+[Pay now](https://xfinity-account-suspension.com/pay)
+
+=== 1 E
+From: Menards Rebates <rebates@menards-rebate-center.com>
+Subject: You have $327.18 in unclaimed rebates
+
+Our records show you have $327.18 in unclaimed 11% rebates. Claim them online before they expire by entering your card details.
+
+[Claim rebates](https://menards-rebate-center.com)
+
+=== 1 E
+From: Aldi Customer Rewards <rewards@aldi-shopper-reward.com>
+Subject: Congratulations! Aldi has a $75 reward for you
+
+You've been chosen for a $75 Aldi gift card. Take a quick survey and pay $2.95 shipping to claim.
+
+=== 1 E
+From: Trader Joe's <survey@traderjoes-gift-survey.com>
+Subject: Trader Joe's loyalty reward - claim your $100
+
+Thank you for shopping at Trader Joe's. Complete our survey and claim a $100 gift card today.
+
+[Start survey](https://traderjoes-gift-survey.com)
+
+=== 1 E
+From: McDonald's Rewards <rewards@mcd-free-meals.club>
+Subject: Free McDonald's for a year!
+
+You've been selected for a year of free McDonald's meals! Confirm your details to activate your card.
+
+[Activate](https://mcd-free-meals.club)
+
+=== 1 E
+From: United Airlines <compensation@united-flight-refunds.com>
+Subject: You are owed $600 for your delayed flight
+
+Under federal rules, you are owed $600 in compensation for your recent delayed flight. Submit your bank details to receive it.
+
+[Claim compensation](https://united-flight-refunds.com)
+
+=== 1 E
+From: Kayak Refunds <refunds@kayak-booking-refund.com>
+Subject: Your flight was cancelled - refund pending
+
+Your flight booking was cancelled by the airline. To receive your refund of $412.80, confirm your card number and CVV.
+
+=== 1 E
+From: Allstate Claims <refund@allstate-overpayment.com>
+Subject: Premium overpayment refund
+
+You overpaid your Allstate premium. A refund of $186.00 is waiting. Verify your bank account to receive it.
+
+=== 1 E
+From: OSF Billing <billing@osf-patient-payments.com>
+Subject: Your medical bill is past due - collections notice
+
+Your medical bill of $642.00 is past due and will be sent to collections today. Pay now to avoid damage to your credit.
+
+[Pay bill](https://osf-patient-payments.com)
+
+=== 1 E
+From: Selective Service <compliance@sss-registration-fines.com>
+Subject: Failure to register: $250 fine due
+
+Our records show you failed to register with Selective Service. Pay a $250 fine today to avoid losing eligibility for student aid and federal jobs.
+
+[Pay fine](https://sss-registration-fines.com)
+
+=== 1 E
+From: Election Office <voter-services@voter-registration-check.com>
+Subject: Your voter registration was cancelled
+
+Your voter registration was cancelled because of missing information. Re-register now by confirming your Social Security number and date of birth.
+
+[Re-register](https://voter-registration-check.com)
+
+=== 1 E
+From: Ball State Scholarships <awards@bsu-scholarship-office.com>
+Subject: Ball State Presidential Scholarship - fee required
+
+Congratulations! You've been awarded the Ball State Presidential Scholarship. Pay the $85 acceptance fee within 48 hours to keep it.
+
+=== 1 E
+From: ZipRecruiter Hiring <jobs@ziprecruiter-fast-hire.com>
+Subject: You're hired! Remote assistant $32/hr
+
+Congratulations! You've been hired as a Remote Assistant. Your manager will contact you on Telegram. Please buy a $200 gift card for your onboarding kit.
+
+=== 1 E
+From: Paylocity <noreply@paylocity-direct-deposit.com>
+Subject: Confirm your direct deposit before payroll
+
+Your direct deposit information must be confirmed before Friday's payroll. Log in with your work email and password.
+
+[Confirm](https://paylocity-direct-deposit.com/login)
+
+=== 1 E
+From: Vendor Accounts <accounts@supplier-billing-update.com>
+Subject: Updated bank details for invoice payment
+
+Hello,
+
+Please note that our bank details have changed. Send all future invoice payments to the new account below. This change is effective immediately, and the old account is no longer active.
+
+=== 1 E
+From: PetSmart Rewards <rewards@petsmart-loyalty-gift.com>
+Subject: Free 30 lb bag of dog food for loyal customers
+
+You've been selected for a free 30 lb bag of premium dog food. Just pay shipping!
+
+=== 1 E
+From: Sam's Club Members <members@samsclub-renewal-reward.com>
+Subject: Your membership expired - renew for $1
+
+Your Sam's Club membership has expired. Renew today for just $1 and get a $50 bonus gift card.
+
+[Renew now](https://samsclub-renewal-reward.com)
+
+=== 1 E
+From: Dunkin' <rewards@dunkin-free-coffee-year.com>
+Subject: Free coffee for a year - claim now
+
+Dunkin' is celebrating its anniversary with free coffee for a year! Claim yours before midnight.
+
+=== 1 E
+From: Life360 <security@life360-location-alert.com>
+Subject: Someone viewed your location
+
+A new device viewed your Circle's location. If this wasn't you, sign in now to secure your account.
+
+[Secure account](https://life360-location-alert.com/signin)
+
+=== 1 E
+From: Change of Address Service <help@usps-change-address-online.com>
+Subject: Complete your change of address - $79.95 processing
+
+Complete your USPS change of address today. A processing fee of $79.95 is required to forward your mail.
+
+=== 1 E
+From: Illinois Department of Revenue <refunds@il-revenue-refund.com>
+Subject: Your state tax refund is ready
+
+Your Illinois state tax refund of $318.00 is ready. Verify your identity to receive the deposit.
+
+[Get my refund](https://il-revenue-refund.com)
+
+=== 1 E
+From: Jessica <jessica.lee.trader@gmail.com>
+Subject: Nice to meet you
+
+Hi! Sorry, I think I emailed the wrong person, but you seem nice. I'm Jessica, I live in Chicago and I do crypto trading in my free time. I made $40,000 last month. Would you like me to teach you?
+
+=== 1 E
+From: Security Team <security@your-device-cam.com>
+Subject: I know what you did
+
+I have access to your camera and your contacts. Pay $950 in Bitcoin within 2 days or I'll share the recordings with everyone you know.

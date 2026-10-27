@@ -1,0 +1,554 @@
+# Training set 5: jobs, school and community notices, newsletters, personal mail,
+# and the scams that copy them (job offers, "boss" requests, tech support, government, 419,
+# extortion, romance, investment).
+
+=== 0 E
+From: Workday <target@myworkday.com>
+Subject: Thank you for applying to Target
+
+Hi Alex,
+
+Thank you for your interest in the Guest Advocate (Cashier) position at Target store T1881, Riverton.
+
+We've received your application. If your qualifications match our needs, a member of our team will contact you to schedule an interview. You can check your application status at any time by signing in to your candidate home page.
+
+Thank you,
+Target Talent Acquisition
+
+=== 0 E
+From: Indeed <alert@indeed.com>
+Subject: 15 new jobs for "part time" in Riverton, IL
+
+New jobs for you:
+
+Crew Member - Culver's - Riverton, IL - $14.50 - $16 an hour
+Bowling Center Team Member - Starlight Lanes - Riverton, IL
+Lifeguard - Riverton Park District - $15 an hour
+
+[See all jobs](https://www.indeed.com/jobs?q=part+time&l=Crystal+Lake%2C+IL)
+
+You're receiving this job alert because you subscribed. Unsubscribe | Indeed, 6433 Champion Grandview Way, Austin, TX 78750
+
+=== 0 E
+From: Greenhouse <no-reply@us.greenhouse-mail.io>
+Subject: Interview scheduled: Software Engineering Intern with Motorola Solutions
+
+Hi Daniel,
+
+Your interview has been scheduled.
+
+Position: Software Engineering Intern - Summer 2027
+Date: Tuesday, October 27, 2026
+Time: 3:00 PM - 3:45 PM CDT
+Format: Video call (Microsoft Teams link below)
+Interviewers: Karen Liu, Senior Software Engineer
+
+[Join Microsoft Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjE2)
+
+If you need to reschedule, please reply to this email.
+
+Motorola Solutions Talent Acquisition
+
+=== 0 E
+From: ADP <SecurityServices_NoReply@adp.com>
+Subject: Your pay statement is ready
+
+Your pay statement for the pay date 10/16/2026 is now available.
+
+Sign in to the ADP app or MyADP to view it.
+
+ADP will never ask for your password or banking information by email.
+
+=== 0 E
+From: Starlight Lanes <scheduling@starlightlanes.com>
+Subject: Your schedule for the week of Oct 19 is posted
+
+Hi team,
+
+Next week's schedule is posted in the app. Please check your shifts and request swaps through the app by Friday.
+
+Reminder: Halloween bowling night is Oct 31. All hands on deck from 5 PM.
+
+Thanks!
+Megan, General Manager
+
+=== 0 E
+From: Human Resources <hr@valleyhardware.com>
+Subject: Open enrollment starts November 2
+
+Hi everyone,
+
+Benefits open enrollment for 2027 runs November 2 through November 20. This is the only time of year you can change your medical, dental and vision plans unless you have a qualifying life event.
+
+Please log in to the benefits portal from the intranet to review your options. HR will host Q&A sessions on Nov 4 and Nov 10 in the break room.
+
+Thanks,
+Linda Park
+Human Resources
+
+=== 0 E
+From: Riverton High School <news@rivertonschools.org>
+Subject: Tiger Weekly: Homecoming week, picture retakes, and more
+
+Tiger families,
+
+Homecoming week is Oct 19-24! Spirit days: Monday PJ Day, Tuesday Twin Day, Wednesday Decades Day, Thursday Jersey Day, Friday Orange & Black.
+
+Picture retakes are Oct 28 during lunch periods.
+
+The parking lot will close at 5 PM on Friday for the parade.
+
+Have a great week,
+Principal Hendricks
+
+=== 0 E
+From: Remind <no-reply@remind.com>
+Subject: New message from Coach Bauer in XC Varsity 2026
+
+Coach Bauer: Sectionals bus leaves at 7:15 AM Saturday from the east lot. Bring your spikes, water bottle and a warm layer. Parents can buy tickets at the gate. Reply here with questions.
+
+To stop receiving messages from XC Varsity 2026, leave the class in the Remind app.
+
+=== 0 E
+From: Science Olympiad Team <scioly@rivertonschools.org>
+Subject: Build event practice moved to Wednesday
+
+Hey team,
+
+Build event practice is moved to Wednesday this week in Room 214 (the robotics room). We need to finish the bridge test rig before invitationals.
+
+Bring your logbooks. Pizza is on the boosters.
+
+- Mr. Kim
+
+=== 0 E
+From: Riverton Public Library <noreply@clpl.org>
+Subject: Hold ready for pickup
+
+Hello,
+
+The following item you requested is ready for pickup at the Riverton Public Library:
+
+The Pragmatic Programmer, 20th Anniversary Edition
+
+It will be held for you until 10/22/2026. Please bring your library card.
+
+=== 0 E
+From: Advocate Health Care <noreply@aah.org>
+Subject: Appointment reminder for Tue, Oct 20
+
+Hi Natalie,
+
+This is a reminder of your upcoming appointment:
+
+Tuesday, October 20, 2026 at 9:40 AM
+Advocate Sherman Hospital Outpatient Center, Elgin
+
+Please arrive 15 minutes early and bring your insurance card and photo ID. To cancel or reschedule, use the LiveWell app or call 847-555-0175.
+
+=== 0 E
+From: Bright Smiles Dental <office@brightsmilesdental.com>
+Subject: Time for your 6-month cleaning!
+
+Hi Jason,
+
+It's been six months since your last visit. Call us at (217) 555-0122 or book online to schedule your cleaning.
+
+We look forward to seeing your smile!
+
+Bright Smiles Dental, 410 W Virginia St, Riverton, IL
+
+=== 0 E
+From: Jiffy Lube <jiffylube@email.jiffylube.com>
+Subject: Your vehicle is due for an oil change
+
+Hi Ryan,
+
+Based on your last visit, your 2015 Honda Civic is due for an oil change. Bring this email to save $10 on a Signature Service Oil Change.
+
+Find your nearest service center at jiffylube.com.
+
+Unsubscribe from service reminders.
+
+=== 0 E
+From: First Lutheran Church <office@firstlutheranck.org>
+Subject: This week at First Lutheran
+
+Hello friends,
+
+Sunday worship at 8:30 and 10:45. Youth group meets Wednesday at 6:30 PM for pumpkin carving!
+
+Our food pantry drive continues through October. Please bring canned goods to the narthex.
+
+Peace,
+Pastor Ellen
+
+=== 0 E
+From: Eventbrite <noreply@order.eventbrite.com>
+Subject: Your tickets for Chicago Python Meetup: Intro to FastAPI
+
+Hi Jordan,
+
+You're going to Chicago Python Meetup: Intro to FastAPI!
+
+Thursday, November 5, 2026, 6:00 PM - 8:30 PM CST
+Braintree, 222 W Merchandise Mart Plaza, Chicago
+
+Order #10928374651 - 1 x General Admission (Free)
+
+[View your tickets](https://www.eventbrite.com/mytickets)
+
+=== 0 E
+From: Stack Overflow <do-not-reply@stackoverflow.email>
+Subject: Your question got a new answer
+
+Hi jordanm,
+
+Someone answered your question "Why does my JavaFX ListView not refresh after updating the ObservableList?"
+
+"You're replacing the list instead of modifying it. Call setAll() on the existing ObservableList..."
+
+[View the answer](https://stackoverflow.com/questions/79112045)
+
+Unsubscribe from these notifications.
+
+=== 0 E
+From: GitHub <notifications@github.com>
+Subject: Re: [javafx-rpg/engine] Fix tile collision on map edges (PR #42)
+
+@sam-ortiz approved these changes.
+
+Looks good! One small thing: can you add a test for the bottom-right corner case? Otherwise ready to merge.
+
+Reply to this email directly, view it on GitHub, or unsubscribe.
+You are receiving this because you authored the thread.
+
+=== 0 E
+From: Medium Daily Digest <noreply@medium.com>
+Subject: How I Built a Ternary Computer Emulator | Today's highlights
+
+Today's highlights
+
+How I Built a Ternary Computer Emulator in 30 Days - 12 min read
+Why Your Recursion Is Slow (and How to Fix It) - 7 min read
+The Only Git Commands You Actually Need - 5 min read
+
+Read more stories on Medium. Unsubscribe from the Daily Digest.
+
+=== 0 E
+From: Substack <no-reply@substack.com>
+Subject: New post from The Weekly Byte: "Garbage collection, explained with laundry"
+
+The Weekly Byte
+
+Garbage collection, explained with laundry
+
+This week we'll look at how Java's garbage collector decides what to throw away, using the world's most relatable analogy: your laundry pile.
+
+[Read now](https://weeklybyte.substack.com/p/garbage-collection)
+
+You're receiving this because you subscribed to The Weekly Byte. Unsubscribe
+
+=== 0 E
+From: Nextdoor <reply@rs.email.nextdoor.com>
+Subject: Lost dog near Dole Ave - and 4 more posts
+
+Trending near you:
+
+Lost dog - brown lab mix named Rosie, last seen near Dole Ave and Lake Shore. Please call if you see her!
+Leaf pickup starts next week
+Recommendations for a good furnace repair company?
+
+[See all posts](https://nextdoor.com/news_feed/)
+
+Unsubscribe | Nextdoor, 420 Taylor Street, San Francisco, CA 94102
+
+=== 0 E
+From: Mom <jenniferwilliams68@gmail.com>
+Subject: Thanksgiving plans
+
+Hi sweetie,
+
+Grandma wants to know if you're coming to her house for Thanksgiving or if you have to work. Let me know so she can plan the food. Also, please remember to send your aunt a thank-you note for the birthday card.
+
+Love you,
+Mom
+
+=== 0 E
+From: Ethan Park <ethan.park27@gmail.com>
+Subject: Re: physics lab data
+
+Hey, I put our data in the shared doc. The second trial looks off, I think we started the timer late. Can we redo it Thursday before school? I'll bring the photogate.
+
+- Ethan
+
+=== 0 E
+From: Grandpa Joe <joe.sullivan1948@att.net>
+Subject: Pictures from the lake
+
+Hi kids,
+
+Here are the pictures from the lake last weekend. The big fish was 4 pounds! Your grandmother says hello and wants to know when you're coming to visit again.
+
+Love,
+Grandpa
+
+=== 0 E
+From: Ms. Thompson <athompson@rivertonschools.org>
+Subject: Re: Late research paper
+
+Hi Jordan,
+
+Thanks for letting me know. You can turn it in by Friday for full credit since you had the debate tournament. Good luck this weekend!
+
+Ms. Thompson
+AP Capstone Research
+
+=== 0 E
+From: Coach Rivera <mrivera@clparkdistrict.com>
+Subject: Saturday game time change
+
+Hi parents,
+
+Saturday's game against Cary has been moved from 10 AM to 11:30 AM at Lippold Park, Field 3. Please have players there 30 minutes early for warmups.
+
+Snack schedule: the Johnson family is up this week.
+
+Thanks,
+Coach Rivera
+
+=== 0 E
+From: Amazon Web Services <aws-marketing-email-replies@amazon.com>
+Subject: Your AWS Free Tier usage alert
+
+Hello,
+
+Your AWS account 4412-8890-1173 has exceeded 85% of the usage limit for one or more AWS Free Tier-eligible services for the month of October.
+
+Service: Amazon EC2 - 638 hours used of 750
+
+To avoid charges, review your usage in the Billing and Cost Management console.
+
+Amazon Web Services, Inc. is a subsidiary of Amazon.com, Inc.
+
+=== 0 E
+From: IRS Free File Program <noreply@freefilealliance.org>
+Subject: Free File is open for extension filers
+
+If you filed an extension, you can still use IRS Free File to prepare and file your federal return for free if your adjusted gross income is $84,000 or less. The extension deadline is October 15.
+
+Visit IRS.gov/FreeFile to get started. The IRS does not send emails asking for personal or financial information.
+
+=== 0 E
+From: Social Security Administration <no-reply@ssa.gov>
+Subject: You have a new message in my Social Security
+
+You have a new message waiting in your my Social Security account.
+
+For your security, we don't include details in this email. Sign in at ssa.gov/myaccount to read it.
+
+Social Security will never threaten you, demand immediate payment, or ask for gift cards.
+
+=== 0 E
+From: Illinois Secretary of State <noreply@ilsos.gov>
+Subject: Your vehicle registration renewal is due
+
+Your vehicle registration renewal for plate ending in 4K7 is due by 11/30/2026.
+
+Renew online at ilsos.gov, by mail, or at a Secretary of State facility.
+
+This is an automated message from the Illinois Secretary of State.
+
+# ---------------------------------- scams that copy these ----------------------------------
+
+=== 1 E
+From: Amazon Recruitment <hr.amazonjobs@remote-hiring-desk.com>
+Subject: Job offer: Remote Data Entry Clerk - $38/hour
+
+Dear Applicant,
+
+We reviewed your resume on Indeed and are pleased to offer you a remote Data Entry position at $38/hour. No interview is required.
+
+To begin, please send a copy of your driver's license and your bank account details for direct deposit. We will also send you a check to purchase your home office equipment from our vendor.
+
+HR Department, Amazon
+
+=== 1 E
+From: Hiring Manager <careers@globaltrade-logistics.biz>
+Subject: Package reshipping coordinator - work from home
+
+Hello,
+
+We are hiring Package Inspectors to work from home. You will receive packages at your address, check the contents, and reship them with prepaid labels. Pay is $2,800 per month plus bonus.
+
+Reply with your full name and home address to start this week.
+
+=== 1 E
+From: Principal Hendricks <principal.hendricks.rhs@gmail.com>
+Subject: Quick request
+
+Hi, are you free right now? I need you to help me get some Apple gift cards for staff appreciation. I'm stuck in a meeting and can't talk on the phone. Please buy 5 x $100 cards, scratch the back, and send me photos of the codes. I'll reimburse you today.
+
+=== 1 E
+From: Megan GM <megan.luckystrike.manager@outlook.com>
+Subject: Urgent
+
+Hey are you working today? I need a favor. Can you pick up 4 Google Play gift cards ($200 each) for a client? I'll pay you back on your next check. Just send me the codes, I'm in a meeting.
+
+=== 1 E
+From: Microsoft Support <alert@windows-defender-support.com>
+Subject: Virus alert: your computer has been infected
+
+Windows Defender Security Center
+
+Your computer has been infected with Trojan Spyware. Your personal information, passwords and banking details are at risk.
+
+Do not turn off your computer. Call Microsoft Certified Technicians at 1-844-555-0155 immediately to remove the virus.
+
+=== 1 E
+From: IRS Refund Department <refunds@irs-taxrefund-gov.com>
+Subject: You are eligible for a tax refund of $1,284.50
+
+Dear Taxpayer,
+
+After the last annual calculation of your tax activity, we determined you are eligible to receive a tax refund of $1,284.50. Please submit the refund request and allow us 3-5 days to process it.
+
+[Get Started](https://irs-taxrefund-gov.com/refund)
+
+Internal Revenue Service
+
+=== 1 E
+From: Social Security Administration <ssa@ssa-gov-alerts.com>
+Subject: Your Social Security number has been suspended
+
+Dear Citizen,
+
+Your Social Security number has been suspended due to suspicious activity in Texas. To avoid arrest and the freezing of your bank accounts, call the SSA Office of the Inspector General at 1-202-555-0143 today.
+
+=== 1 E
+From: Barrister James Okoro <jokoro.chambers@gmail.com>
+Subject: Inheritance of $8.5 million - next of kin
+
+Dear Friend,
+
+I am Barrister James Okoro, personal attorney to the late Mr. Robert Williams, who died in a car accident with his family. He left $8.5 million in a bank here. Since you share his last name, I can present you as next of kin. We will share the money 50/50.
+
+Reply with your full name, address and phone number.
+
+=== 1 E
+From: Hacker <noreply@yourdomain-security.com>
+Subject: I have recorded you
+
+Hi,
+
+I hacked your device a few months ago and installed software that records your camera and browsing. I have videos of you that you would not want your family and friends to see.
+
+Send $1,500 in Bitcoin to the address below within 48 hours or I will send the videos to everyone in your contacts.
+
+BTC: bc1q9h7x2kq5n8d0w3yv6zr4t1m
+
+=== 1 E
+From: Anna <anna.kovalenko.1999@yandex.com>
+Subject: Hello my dear
+
+Hello my dear,
+
+I found your email on a dating site and I like your profile very much. I am a kind woman from Ukraine looking for a serious relationship. I want to come visit you but I need help with the plane ticket. Please write back and I will send you my photos.
+
+Anna
+
+=== 1 E
+From: Crypto Trading Desk <invest@bitprofit-trading.pro>
+Subject: Turn $250 into $5,000 in one week - guaranteed
+
+Our AI trading robot earns 300% returns every week with zero risk. Thousands of members are already earning passive income.
+
+Deposit just $250 to start and withdraw your profits anytime.
+
+[Start earning](https://bitprofit-trading.pro/register)
+
+=== 1 E
+From: Coinbase <no-reply@coinbase-wallet-verify.com>
+Subject: Withdrawal of 0.82 BTC requested
+
+A withdrawal of 0.82 BTC ($52,140.00) was requested from your account.
+
+If you did not request this, cancel immediately:
+
+[Cancel withdrawal](https://coinbase-wallet-verify.com/cancel)
+
+You will need to confirm your recovery phrase to secure your wallet.
+
+=== 1 E
+From: Recruiter <sarah.hr.talent@gmail.com>
+Subject: You've been selected for a remote position
+
+Hi Jordan,
+
+Your resume was shortlisted for a remote Customer Service position paying $25/hr. Interviews are done by text on Telegram. Please add our hiring manager @HR_Lisa_Moore on Telegram to complete your interview today.
+
+=== 1 E
+From: Mystery Shopper Program <assignments@secretshopper-usa.net>
+Subject: Your first mystery shopper assignment
+
+Congratulations on being chosen as a Mystery Shopper! Enclosed is your first assignment. You will receive a check for $2,450. Deposit it, keep $300 as your pay, and use the rest to buy gift cards at Walmart to evaluate their customer service. Send the gift card numbers to your coordinator.
+
+=== 1 E
+From: Illinois Secretary of State <ilsos@registration-renew-il.com>
+Subject: Your registration is expired - $75 penalty pending
+
+Our records show your vehicle registration has expired. To avoid a $75 penalty and suspension, renew immediately online:
+
+[Renew now](https://registration-renew-il.com)
+
+=== 1 E
+From: Jury Duty Office <clerk@county-court-notices.com>
+Subject: Missed jury duty - warrant issued
+
+You failed to appear for jury duty. A warrant has been issued for your arrest. To clear the warrant you must pay a fine of $750 today. Call the clerk's office at 1-312-555-0168. Payment can be made by gift card or wire.
+
+=== 1 E
+From: Dr. Emmanuel Adeyemi <un.compensation.office@outlook.com>
+Subject: UN compensation payment of $1,500,000 approved
+
+Dear Beneficiary,
+
+The United Nations has approved a compensation payment of $1,500,000 to you as a victim of internet fraud. To receive your funds, pay the delivery charge of $350 and send your bank details.
+
+=== 1 E
+From: Lisa Brown <lisa.brown.mom71@gmail.com>
+Subject: Hi mom, new email
+
+Hi mom, this is my new email. My phone broke and I'm using a friend's laptop. I need to pay a bill today but my bank app isn't working. Can you send $850 to my friend's account? I'll pay you back next week. Please don't call, I can't answer right now.
+
+=== 1 E
+From: Microsoft Office <office@ms-license-expired.com>
+Subject: Your Office license has expired - your files will be locked
+
+Your Microsoft Office license expired today. Your documents will be locked in 24 hours. Renew now for $19.99 to keep access to Word, Excel and PowerPoint.
+
+[Renew license](https://ms-license-expired.com/renew)
+
+=== 1 E
+From: Wealth Advisor <james.liu.investments@gmail.com>
+Subject: Re: our conversation about the investment
+
+Hi friend,
+
+As we discussed on WhatsApp, my uncle's trading platform made another 40% this week. If you deposit $1,000 now, you can withdraw $2,400 by Friday. I already made $80,000 this month. Here is the link to register: bitxchange-global.vip
+
+=== 1 E
+From: FBI Cyber Division <fbi.cybercrime@outlook.com>
+Subject: Official notice: your IP address was used in illegal activity
+
+This is an official notice from the FBI Cyber Crime Division. Your IP address was linked to illegal downloads. To avoid prosecution, you must pay a fine of $500 in Bitcoin within 48 hours.
+
+Agent Michael Davis
+
+=== 1 E
+From: Medicare Benefits <benefits@medicare-card-update.com>
+Subject: Your new Medicare card is ready - confirm your number
+
+Your new plastic Medicare card is ready to be mailed. Please confirm your Medicare number and Social Security number to receive it, or your benefits may be stopped.
+
+[Confirm details](https://medicare-card-update.com)
